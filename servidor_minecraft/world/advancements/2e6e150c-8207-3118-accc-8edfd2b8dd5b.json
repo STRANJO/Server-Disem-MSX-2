@@ -2866,6 +2866,7 @@
     "criteria": {
       "has_glass": "2024-12-28 03:43:35 +0000",
       "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_amethyst_shard": "2024-12-28 04:03:31 +0000",
       "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
@@ -2932,6 +2933,7 @@
     "criteria": {
       "has_glass": "2024-12-28 03:43:35 +0000",
       "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_amethyst_shard": "2024-12-28 04:03:31 +0000",
       "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
@@ -10084,6 +10086,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_plate_shield_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:37:01 +0000"
@@ -10117,6 +10131,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-28 03:09:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10261,6 +10281,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_javelin_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10480,6 +10506,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-28 03:33:20 +0000"
@@ -10489,6 +10521,12 @@
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2024-12-28 03:09:42 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10528,6 +10566,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
     "criteria": {
       "has_diamond_block": "2024-12-28 02:33:39 +0000"
@@ -10561,6 +10605,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
     "criteria": {
       "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10633,6 +10683,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
     "criteria": {
       "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10714,6 +10770,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2024-12-28 03:09:42 +0000"
@@ -10723,6 +10785,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10816,9 +10884,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_dagger_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
@@ -10834,9 +10914,21 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-28 03:52:42 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 03:52:42 +0000"
     },
     "done": false
   },
