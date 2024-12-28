@@ -4813,7 +4813,8 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "overgrown_greens": "2024-12-24 00:34:52 +0000"
+      "overgrown_greens": "2024-12-24 00:34:52 +0000",
+      "lavender_field": "2024-12-28 01:41:08 +0000"
     },
     "done": false
   },
@@ -9779,78 +9780,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-28 01:33:28 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/burnt/burnt/cooked_mutton": {
     "criteria": {
       "has_cooked_mutton": "2024-12-28 01:26:46 +0000"
@@ -9863,12 +9792,6 @@
     },
     "done": false
   },
-  "undead_revamp2:theundeadchallenges": {
-    "criteria": {
-      "theundeadchallenges_0": "2024-12-28 01:26:58 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/enchantments/enchantments/snow_walker": {
     "criteria": {
       "has_leather": "2024-12-28 01:26:46 +0000"
@@ -9880,6 +9803,12 @@
       "has_rotten_flesh": "2024-12-28 01:26:46 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-12-28 01:26:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

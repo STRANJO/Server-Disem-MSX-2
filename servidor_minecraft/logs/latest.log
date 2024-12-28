@@ -2943,3 +2943,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 01:34:14.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [28Dec2024 01:34:14.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [28Dec2024 01:34:14.032] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[28Dec2024 01:37:29.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Hunted]
+[28Dec2024 01:39:47.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:62285] logged in with entity id 4129 at (761.4004929103619, 133.0, -204.7873453225148)
+[28Dec2024 01:39:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[28Dec2024 01:39:47.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[28Dec2024 01:39:47.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[28Dec2024 01:39:47.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[28Dec2024 01:39:47.472] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[28Dec2024 01:39:47.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has completed the challenge [My Bald Satanic Goth Girl Friend]
+[28Dec2024 01:39:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [First big catch of the month!]
+[28Dec2024 01:39:49.692] [Netty Epoll Server IO #11/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[28Dec2024 01:41:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 674.500000, 126.500000, -337.500000]
