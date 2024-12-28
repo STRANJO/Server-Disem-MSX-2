@@ -3059,6 +3059,7 @@
   },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
+      "has_gunpowder": "2024-12-28 03:05:45 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -10324,6 +10325,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_claw_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 03:05:25 +0000"
     },
     "done": false
   },

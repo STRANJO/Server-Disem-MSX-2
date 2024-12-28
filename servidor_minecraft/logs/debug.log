@@ -16132,3 +16132,85 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 02:56:28.100] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
 [28Dec2024 02:56:28.100] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
 [28Dec2024 02:56:28.101] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 02:56:30.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:56:30.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:59:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported Liraanto to antiqueito]
+[28Dec2024 02:59:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 563.500000, 94.500000, -436.500000]
+[28Dec2024 02:59:56.088] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=387, y=-33, z=-656}
+[28Dec2024 02:59:56.088] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=388, y=-33, z=-656}
+[28Dec2024 02:59:56.088] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=389, y=-33, z=-656}
+[28Dec2024 03:00:08.590] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=578, y=100, z=-449}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:09.091] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=577, y=100, z=-449}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:09.587] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=576, y=100, z=-449}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:10.188] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=575, y=100, z=-449}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:10.684] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=574, y=100, z=-449}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:11.188] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=574, y=100, z=-448}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:11.685] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=575, y=100, z=-448}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:12.184] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=576, y=100, z=-448}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:13.787] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=577, y=100, z=-448}) doesn't have enough leaves around top most log
+[28Dec2024 03:00:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 596.500000, 111.500000, -553.500000]
+[28Dec2024 03:00:24.205] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=604, y=17, z=-736}
+[28Dec2024 03:00:24.674] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=768, y=-4, z=-748}
+[28Dec2024 03:01:30.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:01:30.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:01:39.563] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=609, y=7, z=-854}
+[28Dec2024 03:01:39.609] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=606, y=7, z=-857}
+[28Dec2024 03:01:47.954] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=672, y=120, z=-655}) doesn't have enough leaves around top most log
+[28Dec2024 03:01:48.547] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=672, y=120, z=-653}) doesn't have enough leaves around top most log
+[28Dec2024 03:01:49.052] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=672, y=120, z=-654}) doesn't have enough leaves around top most log
+[28Dec2024 03:01:49.547] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=672, y=120, z=-652}) doesn't have enough leaves around top most log
+[28Dec2024 03:01:50.056] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=672, y=120, z=-651}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:41.442] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=658, y=119, z=-597}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:42.193] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=658, y=119, z=-596}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:42.691] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=658, y=119, z=-595}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:43.194] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=658, y=119, z=-594}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:43.694] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=658, y=119, z=-593}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:45.822] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=653, y=118, z=-600}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:46.199] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=653, y=118, z=-601}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:46.693] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=653, y=118, z=-602}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:47.743] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=653, y=118, z=-603}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:48.293] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=653, y=118, z=-604}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:50.745] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=647, y=116, z=-612}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:51.250] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=646, y=116, z=-612}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:51.744] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=645, y=116, z=-612}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:52.247] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=644, y=116, z=-612}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:56.843] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=630, y=116, z=-594}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:57.394] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=630, y=116, z=-595}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:57.893] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=630, y=116, z=-593}) doesn't have enough leaves around top most log
+[28Dec2024 03:02:59.793] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=632, y=116, z=-587}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:00.300] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=633, y=116, z=-587}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:00.819] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=634, y=116, z=-587}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:01.299] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=635, y=116, z=-587}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:07.951] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=611, y=112, z=-569}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:08.443] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=611, y=112, z=-568}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:08.951] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=611, y=112, z=-567}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:09.453] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=611, y=112, z=-566}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:09.942] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=611, y=112, z=-565}) doesn't have enough leaves around top most log
+[28Dec2024 03:03:32.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 635.500000, 108.500000, -323.500000]
+[28Dec2024 03:05:32.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[28Dec2024 03:06:13.041] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:13.041] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:13.042] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:13.042] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:13.042] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:13.042] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.288] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.289] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.289] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.289] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.289] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:14.289] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.642] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.642] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.642] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.643] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.643] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:17.643] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.951] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.951] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.952] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.952] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.952] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:29.952] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[28Dec2024 03:06:30.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:06:30.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

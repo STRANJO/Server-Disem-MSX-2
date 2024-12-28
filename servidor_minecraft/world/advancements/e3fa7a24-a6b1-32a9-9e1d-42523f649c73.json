@@ -1912,7 +1912,8 @@
   },
   "supplementaries:recipes/notice_board": {
     "criteria": {
-      "minecraft:planks": "2024-12-24 00:30:03 +0000"
+      "minecraft:planks": "2024-12-24 00:30:03 +0000",
+      "has_paper": "2024-12-28 03:05:25 +0000"
     },
     "done": false
   },
@@ -6220,9 +6221,10 @@
   },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
+      "has_wood": "2024-12-28 03:04:36 +0000",
       "has_the_recipe": "2024-12-24 19:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/jungle": {
     "criteria": {
@@ -8234,6 +8236,12 @@
     },
     "done": false
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_javelin_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
@@ -8255,6 +8263,12 @@
   "l2weaponry:recipes/misc/misc/reinforced_handle": {
     "criteria": {
       "has_stick": "2024-12-28 02:27:35 +0000"
+    },
+    "done": false
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
     },
     "done": false
   },
@@ -8294,6 +8308,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_hammer_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:11:16 +0000"
@@ -8312,6 +8338,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_throwing_axe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
@@ -8321,6 +8353,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_battle_axe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
     },
     "done": false
   },
@@ -8345,6 +8383,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_hammer_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-28 03:05:25 +0000"
     },
     "done": false
   },
