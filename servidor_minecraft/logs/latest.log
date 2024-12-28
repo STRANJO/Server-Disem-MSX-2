@@ -2954,3 +2954,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 01:39:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [First big catch of the month!]
 [28Dec2024 01:39:49.692] [Netty Epoll Server IO #11/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
 [28Dec2024 01:41:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 674.500000, 126.500000, -337.500000]
+[28Dec2024 01:46:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [I'm not sugar coating it]
+[28Dec2024 01:46:30.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Unfunny dad jokes]
+[28Dec2024 01:46:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [First big catch of the month!]
+[28Dec2024 01:52:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:PRIMORDIAL NIGGA:P:1184:37:127:2:false:0:External
+[28Dec2024 01:52:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 1184.500000, 37.500000, 127.500000]
+[28Dec2024 01:52:27.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[28Dec2024 01:52:42.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:CASITA:C:649:108:-341:12:false:0:External
+[28Dec2024 01:52:48.101] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1351, y=20, z=203}
+[28Dec2024 01:52:48.491] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1351, y=-22, z=246}
+[28Dec2024 01:52:59.353] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1381, y=11, z=258}
+[28Dec2024 01:53:00.054] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1382, y=-4, z=73}
+[28Dec2024 01:53:05.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1392, y=6, z=18}
+[28Dec2024 01:53:05.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1392, y=6, z=19}
+[28Dec2024 01:53:06.354] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1403, y=-21, z=262}
+[28Dec2024 01:53:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[28Dec2024 01:53:22.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:PRIMORDIAL NIGGA:P:1184:37:127:2:false:0:Internal-overworld-waypoints
+[28Dec2024 01:53:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:CASITA:C:649:108:-341:12:false:0:Internal-overworld-waypoints
