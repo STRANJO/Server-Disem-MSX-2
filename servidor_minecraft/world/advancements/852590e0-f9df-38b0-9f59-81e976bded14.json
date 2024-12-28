@@ -765,7 +765,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
-      "has_spruce_planks": "2024-12-24 00:29:12 +0000"
+      "has_spruce_planks": "2024-12-24 00:29:12 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -852,7 +853,8 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 00:29:12 +0000",
-      "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+      "has_iron_ingot": "2024-12-28 01:57:09 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -977,7 +979,8 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:32:06 +0000",
-      "minecraft:planks": "2024-12-24 00:29:12 +0000"
+      "minecraft:planks": "2024-12-24 00:29:12 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -1232,7 +1235,8 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 00:29:12 +0000",
-      "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+      "has_iron_ingot": "2024-12-28 01:57:09 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -1260,7 +1264,8 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 00:29:12 +0000",
-      "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+      "has_iron_ingot": "2024-12-28 01:57:09 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -1683,6 +1688,7 @@
   },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
+      "has_black_wool": "2024-12-28 02:12:18 +0000",
       "has_stick": "2024-12-24 00:29:19 +0000"
     },
     "done": false
@@ -2446,14 +2452,16 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 00:41:57 +0000",
-      "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+      "has_iron_ingot": "2024-12-28 01:57:09 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 00:41:57 +0000",
-      "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+      "has_iron_ingot": "2024-12-28 01:57:09 +0000",
+      "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
   },
@@ -4219,6 +4227,7 @@
   },
   "cfm:recipes/decorations/black_trampoline": {
     "criteria": {
+      "has_wool": "2024-12-28 02:12:18 +0000",
       "has_iron": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -5113,7 +5122,8 @@
   },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "killed_by": "2024-12-24 01:28:52 +0000"
+      "killed_by": "2024-12-24 01:28:52 +0000",
+      "killed": "2024-12-28 02:20:53 +0000"
     },
     "done": false
   },
@@ -6735,9 +6745,10 @@
   },
   "mcwwindows:recipes/spruce": {
     "criteria": {
+      "has_wood": "2024-12-28 02:17:35 +0000",
       "has_the_recipe": "2024-12-24 17:26:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/stone": {
     "criteria": {
@@ -6786,6 +6797,7 @@
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2024-12-24 17:26:13 +0000",
+      "has_fences": "2024-12-28 02:17:33 +0000",
       "has_iron": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -7577,6 +7589,12 @@
     },
     "done": false
   },
+  "wool_collection:recipes/decorations/black_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-28 01:38:19 +0000"
@@ -7649,6 +7667,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-28 02:14:46 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
     "criteria": {
       "has_diamond_block": "2024-12-28 01:33:49 +0000"
@@ -7694,6 +7718,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-28 01:58:47 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
     },
     "done": false
   },
@@ -7745,6 +7775,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-28 02:12:37 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 01:33:49 +0000"
@@ -7760,6 +7796,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
     "criteria": {
       "has_diamond_block": "2024-12-28 01:33:49 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/black_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
     },
     "done": false
   },
@@ -7889,6 +7931,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-28 02:14:46 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2024-12-28 01:33:49 +0000"
@@ -7898,6 +7946,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 01:58:47 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/black_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
     },
     "done": false
   },
@@ -7968,9 +8022,27 @@
     },
     "done": true
   },
+  "wool_collection:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 02:25:17 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
     "criteria": {
       "has_iron_block": "2024-12-28 02:08:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:12:18 +0000"
     },
     "done": false
   },
@@ -8046,15 +8118,51 @@
     },
     "done": false
   },
+  "wool_collection:recipes/redstone/black_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 02:25:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2024-12-28 01:33:49 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 02:25:17 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
     "criteria": {
       "has_diamond_block": "2024-12-28 01:33:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-28 02:20:20 +0000"
     },
     "done": false
   },
@@ -8184,6 +8292,12 @@
     },
     "done": false
   },
+  "enemyexpansion:wasp_drone_summon": {
+    "criteria": {
+      "wasp_drone_summon_0": "2024-12-28 02:18:20 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
       "defeatundeadbosses_0": "2024-12-28 01:39:47 +0000"
@@ -8208,9 +8322,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_battle_axe_enchanted": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/building_blocks/black_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-28 02:14:46 +0000"
     },
     "done": false
   },
@@ -8220,9 +8352,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:12:18 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-28 01:58:47 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-28 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/black_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-28 02:12:18 +0000"
     },
     "done": false
   },
@@ -8292,6 +8442,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2024-12-28 02:12:37 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_nunchaku_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:07:01 +0000"
@@ -8337,6 +8493,12 @@
   "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:07:01 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-28 02:14:46 +0000"
     },
     "done": false
   },

@@ -158,7 +158,8 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_coal": "2024-12-24 00:23:15 +0000"
+      "has_coal": "2024-12-24 00:23:15 +0000",
+      "has_stick": "2024-12-28 02:27:35 +0000"
     },
     "done": false
   },
@@ -220,14 +221,16 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -240,14 +243,16 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -260,7 +265,8 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -279,42 +285,48 @@
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -327,42 +339,48 @@
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -375,91 +393,104 @@
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -472,14 +503,16 @@
   "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
-      "has_wheat": "2024-12-24 00:23:25 +0000"
+      "has_wheat": "2024-12-24 00:23:25 +0000",
+      "has_planks": "2024-12-28 02:23:53 +0000"
     },
     "done": false
   },
@@ -572,7 +605,8 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
-      "has_string": "2024-12-24 00:23:27 +0000"
+      "has_string": "2024-12-24 00:23:27 +0000",
+      "forge:rods/wooden": "2024-12-28 02:27:35 +0000"
     },
     "done": false
   },
@@ -1070,79 +1104,92 @@
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
@@ -1154,13 +1201,15 @@
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
@@ -1172,7 +1221,8 @@
   },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_sand": "2024-12-24 00:24:03 +0000"
+      "has_sand": "2024-12-24 00:24:03 +0000",
+      "has_gravel": "2024-12-28 02:21:10 +0000"
     },
     "done": false
   },
@@ -1292,9 +1342,10 @@
   },
   "naturescompass:natures_compass_log": {
     "criteria": {
+      "has_log": "2024-12-28 02:26:40 +0000",
       "has_recipe": "2024-12-24 00:28:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
@@ -1496,7 +1547,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
-      "has_spruce_planks": "2024-12-24 00:30:03 +0000"
+      "has_spruce_planks": "2024-12-24 00:30:03 +0000",
+      "has_stick": "2024-12-28 02:27:35 +0000"
     },
     "done": false
   },
@@ -1754,7 +1806,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
-      "has_spruce_planks": "2024-12-24 00:30:03 +0000"
+      "has_spruce_planks": "2024-12-24 00:30:03 +0000",
+      "has_stick": "2024-12-28 02:27:35 +0000"
     },
     "done": false
   },
@@ -2631,9 +2684,10 @@
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_by_something": "2024-12-24 00:31:45 +0000"
+      "killed_by_something": "2024-12-24 00:31:45 +0000",
+      "killed_something": "2024-12-28 02:24:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -2655,6 +2709,8 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "jacaranda_glade": "2024-12-28 02:28:18 +0000",
+      "spider_nest": "2024-12-28 02:32:18 +0000",
       "lavender_field": "2024-12-28 02:11:17 +0000",
       "glowing_grotto": "2024-12-24 00:36:47 +0000"
     },
@@ -2940,7 +2996,8 @@
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2024-12-28 02:26:40 +0000"
     },
     "done": false
   },
@@ -3018,7 +3075,8 @@
   },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_terracotta": "2024-12-28 02:21:38 +0000"
     },
     "done": false
   },
@@ -3240,7 +3298,8 @@
   },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2024-12-28 02:26:40 +0000"
     },
     "done": false
   },
@@ -3960,6 +4019,7 @@
   },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
+      "has_terracotta": "2024-12-28 02:21:38 +0000",
       "has_iron": "2024-12-24 00:53:23 +0000"
     },
     "done": false
@@ -5787,6 +5847,7 @@
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2024-12-24 18:01:34 +0000",
+      "has_fences": "2024-12-28 02:21:40 +0000",
       "has_iron": "2024-12-28 02:11:16 +0000"
     },
     "done": false
@@ -8191,6 +8252,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/misc/misc/reinforced_handle": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:27:35 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:11:16 +0000"
@@ -8284,6 +8351,12 @@
   "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:11:16 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-28 02:24:28 +0000"
     },
     "done": false
   },

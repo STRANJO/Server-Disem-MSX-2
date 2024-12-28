@@ -330,7 +330,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -342,6 +343,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -360,24 +362,29 @@
   },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
   },
   "supplementaries:recipes/lock_block": {
     "criteria": {
-      "minecraft:planks": "2024-12-24 00:06:08 +0000"
+      "minecraft:planks": "2024-12-24 00:06:08 +0000",
+      "has_redstone": "2024-12-28 02:31:24 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -414,7 +421,9 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_redstone": "2024-12-28 02:31:24 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -481,6 +490,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -530,18 +540,21 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:26:46 +0000",
-      "minecraft:planks": "2024-12-24 00:06:08 +0000"
+      "minecraft:planks": "2024-12-24 00:06:08 +0000",
+      "has_redstone": "2024-12-28 02:31:24 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -596,6 +609,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -638,6 +652,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -668,12 +683,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -710,7 +727,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -741,6 +759,8 @@
   },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -753,6 +773,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -801,6 +822,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -819,6 +841,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -880,12 +903,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -898,7 +923,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -934,7 +960,8 @@
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
-      "minecraft:planks": "2024-12-24 00:06:08 +0000"
+      "minecraft:planks": "2024-12-24 00:06:08 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -970,6 +997,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -982,6 +1010,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-28 02:31:24 +0000",
       "has_planks": "2024-12-24 00:06:08 +0000"
     },
     "done": false
@@ -1055,6 +1084,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -1127,6 +1157,7 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
+      "has_coal": "2024-12-28 02:15:24 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -1283,12 +1314,14 @@
   },
   "supplementaries:recipes/faucet": {
     "criteria": {
-      "forge:rods/wooden": "2024-12-24 00:06:28 +0000"
+      "forge:rods/wooden": "2024-12-24 00:06:28 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -2064,6 +2097,7 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-28 01:42:29 +0000",
+      "minecraft:spider": "2024-12-28 02:20:49 +0000",
       "minecraft:creeper": "2024-12-28 01:51:34 +0000",
       "minecraft:zombie": "2024-12-24 00:08:52 +0000"
     },
@@ -2444,7 +2478,8 @@
   },
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
-      "has_terracotta": "2024-12-24 00:13:55 +0000"
+      "has_terracotta": "2024-12-24 00:13:55 +0000",
+      "has_iron": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2546,7 +2581,8 @@
   },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2558,7 +2594,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2570,7 +2607,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2582,19 +2620,22 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2612,7 +2653,9 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2624,7 +2667,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2648,13 +2692,15 @@
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2678,37 +2724,43 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2726,7 +2778,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2768,13 +2821,16 @@
   },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000",
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2786,7 +2842,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2828,7 +2885,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -2840,7 +2898,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
-      "has_redstone": "2024-12-24 00:19:33 +0000"
+      "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -3180,6 +3239,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -3896,6 +3956,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -3957,6 +4018,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -4041,6 +4103,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
+      "has_spruce_planks": "2024-12-28 02:21:56 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -4179,6 +4242,7 @@
   },
   "supplementaries:recipes/key": {
     "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000",
       "has_gold_nugget": "2024-12-24 00:25:36 +0000"
     },
     "done": false
@@ -4350,19 +4414,22 @@
   },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4398,7 +4465,8 @@
   },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4422,7 +4490,8 @@
   },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4434,7 +4503,8 @@
   },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4452,19 +4522,22 @@
   },
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4488,7 +4561,8 @@
   },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4500,7 +4574,8 @@
   },
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
-      "has_log": "2024-12-24 00:28:55 +0000"
+      "has_log": "2024-12-24 00:28:55 +0000",
+      "has_planks": "2024-12-28 02:21:56 +0000"
     },
     "done": false
   },
@@ -4819,6 +4894,7 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "overgrown_greens": "2024-12-24 00:34:52 +0000",
+      "spider_nest": "2024-12-28 02:35:53 +0000",
       "redwood_forest": "2024-12-28 02:07:11 +0000",
       "lavender_field": "2024-12-28 01:41:08 +0000"
     },
@@ -6598,7 +6674,8 @@
   },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "killed_by": "2024-12-24 02:05:56 +0000"
+      "killed_by": "2024-12-24 02:05:56 +0000",
+      "killed": "2024-12-28 02:21:17 +0000"
     },
     "done": false
   },
@@ -7542,7 +7619,9 @@
   },
   "sawmill:recipes/sawmill": {
     "criteria": {
-      "has_sticks": "2024-12-24 17:24:34 +0000"
+      "has_sticks": "2024-12-24 17:24:34 +0000",
+      "has_fences": "2024-12-28 02:18:46 +0000",
+      "has_iron": "2024-12-28 02:37:01 +0000"
     },
     "done": false
   },
@@ -9816,11 +9895,179 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/iron_plate_shield_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_machete_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_throwing_axe": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_machete_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_nunchaku": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_javelin_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/shinny": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_claw_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_round_shield_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_javelin_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2024-12-28 01:46:30 +0000"
     },
     "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_spear_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_battle_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
   },
   "l2weaponry:recipes/misc/misc/reinforced_handle": {
     "criteria": {
@@ -9834,17 +10081,323 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_round_shield": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_leggings": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_helmet": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_claw_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_round_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_claw": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_spear_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_javelin": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_dagger_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_2": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_3": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_sword": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_hammer_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_hammer_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
       "defeatundeadbosses_0": "2024-12-28 01:46:30 +0000"
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/iron_nunchaku_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_throwing_axe_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_battle_axe_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2024-12-28 01:46:30 +0000"
     },
     "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_claw_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_nunchaku_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_shovel": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_dagger_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/iron_hammer_enchanted": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:37:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 02:28:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_machete": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_axe": {
+    "criteria": {
+      "has_diamond_block": "2024-12-28 02:33:39 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_plate_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:33:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
