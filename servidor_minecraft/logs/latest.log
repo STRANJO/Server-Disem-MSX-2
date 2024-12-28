@@ -2971,3 +2971,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 01:53:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
 [28Dec2024 01:53:22.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:PRIMORDIAL NIGGA:P:1184:37:127:2:false:0:Internal-overworld-waypoints
 [28Dec2024 01:53:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:CASITA:C:649:108:-341:12:false:0:Internal-overworld-waypoints
+[28Dec2024 02:03:10.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:CASITA:C:649:108:-341:12:false:0:Internal-overworld-waypoints
+[28Dec2024 02:03:12.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> xaero-waypoint:PRIMORDIAL NIGGA:P:1184:37:127:2:false:0:Internal-overworld-waypoints
