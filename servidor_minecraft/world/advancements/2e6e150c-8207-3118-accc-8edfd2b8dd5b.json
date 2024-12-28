@@ -420,7 +420,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_stick": "2024-12-28 02:08:11 +0000"
     },
     "done": false
   },
@@ -721,7 +722,8 @@
   },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
-      "minecraft:planks": "2024-12-24 00:06:08 +0000"
+      "minecraft:planks": "2024-12-24 00:06:08 +0000",
+      "has_emerald": "2024-12-28 02:08:22 +0000"
     },
     "done": false
   },
@@ -841,7 +843,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
-      "has_oak_planks": "2024-12-24 00:06:08 +0000"
+      "has_oak_planks": "2024-12-24 00:06:08 +0000",
+      "has_stick": "2024-12-28 02:08:11 +0000"
     },
     "done": false
   },
@@ -4816,6 +4819,7 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "overgrown_greens": "2024-12-24 00:34:52 +0000",
+      "redwood_forest": "2024-12-28 02:07:11 +0000",
       "lavender_field": "2024-12-28 01:41:08 +0000"
     },
     "done": false
@@ -9817,6 +9821,18 @@
       "daddy_0": "2024-12-28 01:46:30 +0000"
     },
     "done": true
+  },
+  "l2weaponry:recipes/misc/misc/reinforced_handle": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:08:11 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-28 02:08:22 +0000"
+    },
+    "done": false
   },
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
