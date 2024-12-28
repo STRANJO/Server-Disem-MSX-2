@@ -8799,6 +8799,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/cooked_salmon": {
+    "criteria": {
+      "has_cooked_salmon": "2024-12-28 04:13:25 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-28 03:56:34 +0000"
@@ -8919,6 +8925,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-28 04:16:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-28 03:49:23 +0000"
@@ -8946,6 +8958,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-28 03:56:34 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2024-12-28 04:16:27 +0000"
     },
     "done": false
   },
@@ -9092,6 +9110,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/cooked_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-28 04:18:47 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-28 03:56:51 +0000"
@@ -9167,6 +9191,12 @@
   "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-28 03:54:14 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2024-12-28 04:15:23 +0000"
     },
     "done": false
   },
@@ -9469,9 +9499,10 @@
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_chicken": "2024-12-28 03:33:56 +0000"
+      "has_chicken": "2024-12-28 03:33:56 +0000",
+      "has_the_recipe": "2024-12-28 04:18:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/cherry_bridge_pier": {
     "criteria": {

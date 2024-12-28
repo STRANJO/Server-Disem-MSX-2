@@ -114,6 +114,7 @@
       "minecraft:beach": "2024-12-24 00:31:15 +0000",
       "minecraft:dark_forest": "2024-12-24 00:35:02 +0000",
       "minecraft:river": "2024-12-24 00:31:06 +0000",
+      "minecraft:dripstone_caves": "2024-12-28 04:16:55 +0000",
       "minecraft:forest": "2024-12-24 00:26:39 +0000",
       "minecraft:lush_caves": "2024-12-24 00:39:37 +0000",
       "minecraft:ocean": "2024-12-24 00:36:13 +0000",
@@ -3342,7 +3343,8 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 00:49:21 +0000",
-      "has_log": "2024-12-28 03:43:26 +0000"
+      "has_log": "2024-12-28 03:43:26 +0000",
+      "has_planks": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
@@ -5666,12 +5668,14 @@
   },
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
@@ -5684,18 +5688,21 @@
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-24 01:44:23 +0000"
+      "has_log": "2024-12-24 01:44:23 +0000",
+      "has_planks": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
@@ -5708,6 +5715,7 @@
   },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
@@ -5720,18 +5728,21 @@
   },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 01:44:23 +0000"
+      "has_log": "2024-12-24 01:44:23 +0000",
+      "has_planks": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
-      "has_log": "2024-12-24 01:44:23 +0000"
+      "has_log": "2024-12-24 01:44:23 +0000",
+      "has_planks": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
@@ -5750,6 +5761,7 @@
   },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000",
       "has_planks": "2024-12-24 01:44:23 +0000"
     },
     "done": false
@@ -7544,6 +7556,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:22:19 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
       "has_planks": "2024-12-28 01:58:47 +0000"
@@ -7683,6 +7767,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-28 04:14:16 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
     "criteria": {
       "has_gold_block": "2024-12-28 01:33:49 +0000"
@@ -7704,6 +7794,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
     "criteria": {
       "has_iron_block": "2024-12-28 02:08:30 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
@@ -7851,6 +7947,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 01:33:49 +0000"
@@ -7860,6 +7962,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-28 03:38:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
@@ -8242,6 +8350,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
     "criteria": {
       "has_iron_block": "2024-12-28 02:08:30 +0000"
@@ -8608,6 +8722,18 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-28 04:14:16 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-28 04:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-28 02:12:18 +0000"
@@ -8785,6 +8911,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
     "criteria": {
       "has_diamond_block": "2024-12-28 01:33:49 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-28 04:14:16 +0000"
     },
     "done": false
   },
