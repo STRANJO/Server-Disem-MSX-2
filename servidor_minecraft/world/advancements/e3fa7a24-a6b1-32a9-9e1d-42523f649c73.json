@@ -10868,9 +10868,10 @@
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_porkchop": "2024-12-29 04:56:02 +0000"
+      "has_porkchop": "2024-12-29 04:56:02 +0000",
+      "has_the_recipe": "2024-12-29 22:31:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
@@ -10937,6 +10938,12 @@
       "leafcutter_ant_pupa": "2024-12-29 05:15:58 +0000"
     },
     "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-29 22:31:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -888,3 +888,66 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:26:49.202] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [29Dec2024 22:26:49.204] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
 [29Dec2024 22:26:51.246] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:27:09.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[29Dec2024 22:27:41.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[29Dec2024 22:27:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:27:41.362] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:27:53.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Basesita:B:198:5:524:12:false:0:Internal-overworld-waypoints
+[29Dec2024 22:27:54.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:49767] logged in with entity id 5393 at (612.0949781062775, 76.0, -2723.2656914193167)
+[29Dec2024 22:27:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:27:54.093] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:27:54.093] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:27:54.093] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:27:54.095] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:27:54.624] [Netty Epoll Server IO #8/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:27:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:lighthouse:L:77:109:-411:15:false:0:Internal-overworld-waypoints
+[29Dec2024 22:28:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:spawner zombies:S:982:67:-1146:12:false:0:Internal-overworld-waypoints
+[29Dec2024 22:28:06.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:loot:L:191:-42:490:8:false:0:Internal-overworld-waypoints
+[29Dec2024 22:28:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:minerales:M:331:8:497:15:false:0:Internal-overworld-waypoints
+[29Dec2024 22:28:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:cosa rara:C:654:-41:-237:15:false:0:Internal-overworld-waypoints
+[29Dec2024 22:28:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:cosa rara:C:654:-41:-237:15:false:0:Internal-overworld-waypoints
+[29Dec2024 22:29:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 654.500000, -40.500000, -236.500000]
+[29Dec2024 22:29:13.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 732.500000, -43.500000, -290.500000]
+[29Dec2024 22:29:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Sneak 100]
+[29Dec2024 22:29:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 982.500000, 67.500000, -1145.500000]
+[29Dec2024 22:29:39.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[29Dec2024 22:29:39.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:29:39.280] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:29:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[29Dec2024 22:30:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 654.500000, -40.500000, -236.500000]
+[29Dec2024 22:30:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 571.500000, -39.500000, -107.500000]
+[29Dec2024 22:31:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to Ferj2202]
+[29Dec2024 22:31:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Magic Writing]
+[29Dec2024 22:31:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[29Dec2024 22:33:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Stone Age]
+[29Dec2024 22:33:23.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Amateur Archaeologist]
+[29Dec2024 22:33:43.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:50031] logged in with entity id 8553 at (612.0949781062775, 76.0, -2723.2656914193167)
+[29Dec2024 22:33:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:33:43.963] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:33:43.963] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:33:43.963] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:33:43.965] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:33:46.294] [Netty Epoll Server IO #11/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:34:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 490.500000, -47.500000, -157.500000]
+[29Dec2024 22:34:28.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Alex's Caves]
+[29Dec2024 22:34:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [It Belongs in a Museum]
+[29Dec2024 22:34:41.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[29Dec2024 22:34:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:34:41.883] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:34:54.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:50049] logged in with entity id 9441 at (613.6999999880791, 75.0, -2722.699999988079)
+[29Dec2024 22:34:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:34:54.403] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:34:54.404] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:34:54.404] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:34:54.405] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:34:54.841] [Netty Epoll Server IO #13/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:34:56.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Vampire Slayer]
+[29Dec2024 22:34:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Diamonds!]
+[29Dec2024 22:35:20.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Amateur Archaeologist]
+[29Dec2024 22:36:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 738.500000, -42.500000, -274.500000]
+[29Dec2024 22:36:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 606.500000, -41.500000, -487.500000]
+[29Dec2024 22:36:50.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 637.500000, -41.500000, -345.500000]
+[29Dec2024 22:36:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 652.500000, -38.500000, -539.500000]
+[29Dec2024 22:37:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Night Night]
+[29Dec2024 22:37:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has completed the challenge [It Spreads]
+[29Dec2024 22:37:20.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
