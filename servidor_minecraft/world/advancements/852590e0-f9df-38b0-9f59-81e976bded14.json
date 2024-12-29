@@ -2187,10 +2187,13 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "shrubland": "2024-12-29 01:01:19 +0000",
       "jacaranda_glade": "2024-12-28 02:59:51 +0000",
+      "overgrown_greens": "2024-12-29 00:59:57 +0000",
       "spider_nest": "2024-12-28 03:53:48 +0000",
       "lavender_field": "2024-12-28 01:32:07 +0000",
-      "grassland": "2024-12-24 00:36:15 +0000"
+      "grassland": "2024-12-24 00:36:15 +0000",
+      "glowing_grotto": "2024-12-29 00:57:02 +0000"
     },
     "done": false
   },
@@ -8986,6 +8989,12 @@
       "has_cooked_mutton": "2024-12-28 22:57:34 +0000"
     },
     "done": false
+  },
+  "crystalcraft_unlimited_java:garnet_miner": {
+    "criteria": {
+      "garnet_miner_0": "2024-12-29 00:58:37 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
