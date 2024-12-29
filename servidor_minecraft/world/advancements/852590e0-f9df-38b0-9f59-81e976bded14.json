@@ -2208,9 +2208,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "shrubland": "2024-12-29 01:01:19 +0000",
+      "highland": "2024-12-29 02:11:36 +0000",
       "jacaranda_glade": "2024-12-28 02:59:51 +0000",
+      "orchard": "2024-12-29 02:11:47 +0000",
       "overgrown_greens": "2024-12-29 00:59:57 +0000",
       "spider_nest": "2024-12-28 03:53:48 +0000",
+      "redwood_forest": "2024-12-29 02:13:03 +0000",
       "lavender_field": "2024-12-28 01:32:07 +0000",
       "grassland": "2024-12-24 00:36:15 +0000",
       "glowing_grotto": "2024-12-29 00:57:02 +0000"
@@ -2224,6 +2227,7 @@
       "jacaranda_glade": "2024-12-24 01:38:31 +0000",
       "jade_cliffs": "2024-12-24 02:18:30 +0000",
       "field": "2024-12-24 01:19:47 +0000",
+      "orchard": "2024-12-29 02:11:47 +0000",
       "overgrown_greens": "2024-12-24 00:36:52 +0000",
       "coniferous_forest": "2024-12-24 01:08:16 +0000",
       "spider_nest": "2024-12-24 02:57:07 +0000",
@@ -9038,6 +9042,18 @@
       "garnet_miner_0": "2024-12-29 00:58:37 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-29 02:12:00 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-29 02:12:00 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
