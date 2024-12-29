@@ -5233,6 +5233,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-29 22:34:07 +0000",
       "cooked_mutton": "2024-12-24 05:34:25 +0000",
       "apple": "2024-12-24 03:15:09 +0000",
       "pumpkin_pie": "2024-12-25 22:53:33 +0000",
@@ -10936,6 +10937,12 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2024-12-29 05:15:58 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-29 22:37:09 +0000"
     },
     "done": true
   },
