@@ -9037,6 +9037,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-29 00:52:10 +0000"
+    },
+    "done": false
+  },
   "crystalcraft_unlimited_java:garnet_miner": {
     "criteria": {
       "garnet_miner_0": "2024-12-29 00:58:37 +0000"
@@ -9052,12 +9058,6 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-29 02:12:00 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2024-12-29 00:52:10 +0000"
     },
     "done": false
   },
