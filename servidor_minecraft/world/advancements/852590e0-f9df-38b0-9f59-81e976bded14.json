@@ -1685,6 +1685,7 @@
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2024-12-28 01:34:37 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "forge:rods/wooden": "2024-12-24 00:29:19 +0000"
     },
     "done": false
@@ -2949,6 +2950,7 @@
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -2956,6 +2958,7 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -2976,6 +2979,7 @@
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -2983,6 +2987,7 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3015,6 +3020,7 @@
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3042,6 +3048,7 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3075,6 +3082,7 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3088,6 +3096,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3095,6 +3104,7 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3102,6 +3112,7 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3109,6 +3120,7 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3122,6 +3134,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3129,6 +3142,7 @@
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3136,6 +3150,7 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3143,6 +3158,7 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3158,6 +3174,7 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2024-12-24 00:42:13 +0000",
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3223,6 +3240,7 @@
       "minecraft:creeper": "2024-12-24 01:55:27 +0000",
       "minecraft:wither_skeleton": "2024-12-27 04:41:05 +0000",
       "minecraft:silverfish": "2024-12-24 03:13:55 +0000",
+      "minecraft:enderman": "2024-12-29 03:01:38 +0000",
       "minecraft:zombie": "2024-12-24 00:43:05 +0000",
       "minecraft:drowned": "2024-12-24 02:57:26 +0000",
       "minecraft:zombie_villager": "2024-12-29 02:58:37 +0000"
@@ -3234,6 +3252,7 @@
       "minecraft:skeleton": "2024-12-28 01:35:19 +0000",
       "minecraft:spider": "2024-12-28 01:34:37 +0000",
       "minecraft:creeper": "2024-12-28 01:35:49 +0000",
+      "minecraft:enderman": "2024-12-29 03:01:38 +0000",
       "minecraft:zombie": "2024-12-24 00:43:05 +0000",
       "minecraft:zombie_villager": "2024-12-29 02:58:37 +0000"
     },
@@ -9061,6 +9080,54 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-29 02:12:00 +0000"
+    },
+    "done": false
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 03:01:58 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 03:02:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 03:02:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 03:02:38 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_reach": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 03:01:58 +0000"
+    },
+    "done": false
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-29 03:01:58 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-12-29 03:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 03:02:38 +0000"
     },
     "done": false
   },
