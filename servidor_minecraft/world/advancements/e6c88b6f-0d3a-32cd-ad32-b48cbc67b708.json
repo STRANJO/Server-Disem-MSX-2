@@ -116,9 +116,82 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-29 22:23:33 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-29 22:52:30 +0000",
       "minecraft:river": "2024-12-29 22:35:21 +0000",
       "minecraft:forest": "2024-12-29 22:19:26 +0000",
       "minecraft:deep_dark": "2024-12-29 22:29:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
     },
     "done": false
   },
@@ -134,9 +207,27 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -158,9 +249,27 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -178,13 +287,32 @@
   },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/dark_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-29 22:33:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -200,6 +328,12 @@
     },
     "done": false
   },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
@@ -212,9 +346,27 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -227,6 +379,12 @@
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-12-29 22:24:07 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -260,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-29 22:33:19 +0000"
@@ -272,6 +436,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
@@ -280,13 +450,32 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
-      "has_oak_planks": "2024-12-29 22:39:38 +0000"
+      "has_oak_planks": "2024-12-29 22:39:38 +0000",
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_microwave": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -299,6 +488,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -320,9 +515,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:11 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -338,6 +545,18 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2024-12-29 22:39:38 +0000"
@@ -350,15 +569,34 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
   },
+  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
+    "criteria": {
+      "has_warden_bone_shard": "2024-12-29 22:46:03 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_bottom": "2024-12-29 22:39:11 +0000"
+      "has_bottom": "2024-12-29 22:39:11 +0000",
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -368,15 +606,51 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
+    "criteria": {
+      "has_warden_bone_shard": "2024-12-29 22:46:03 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-29 22:29:50 +0000"
     },
     "done": false
   },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2024-12-29 22:33:21 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -389,6 +663,12 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -422,6 +702,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2024-12-29 22:30:06 +0000",
@@ -432,6 +718,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -447,19 +739,34 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-29 22:29:50 +0000"
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "floodplain": "2024-12-29 22:52:25 +0000",
       "jacaranda_glade": "2024-12-29 22:30:38 +0000",
       "overgrown_greens": "2024-12-29 22:29:37 +0000",
       "redwood_forest": "2024-12-29 22:29:30 +0000",
+      "rocky_rainforest": "2024-12-29 22:52:18 +0000",
       "lavender_field": "2024-12-29 22:25:45 +0000",
-      "prairie": "2024-12-29 22:23:52 +0000"
+      "prairie": "2024-12-29 22:23:52 +0000",
+      "rainforest": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -477,7 +784,14 @@
   },
   "supplementaries:recipes/turn_table": {
     "criteria": {
-      "minecraft:planks": "2024-12-29 22:39:38 +0000"
+      "minecraft:planks": "2024-12-29 22:39:38 +0000",
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -487,14 +801,27 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2024-12-29 22:43:25 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -595,6 +922,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2024-12-29 22:34:58 +0000"
@@ -631,6 +964,12 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
@@ -649,6 +988,18 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
@@ -661,6 +1012,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
       "has_log": "2024-12-29 22:39:11 +0000"
@@ -670,6 +1027,18 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -703,6 +1072,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-29 22:29:50 +0000"
@@ -715,15 +1090,33 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/light_fridge": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-12-29 22:33:34 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -747,6 +1140,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -757,9 +1151,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:33:03 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -793,6 +1199,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2024-12-29 22:33:53 +0000",
@@ -818,6 +1230,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
@@ -838,6 +1256,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -851,6 +1270,30 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -872,9 +1315,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2024-12-29 22:33:19 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -920,9 +1381,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -944,6 +1417,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-29 22:43:26 +0000"
@@ -956,27 +1435,59 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-29 22:53:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1010,9 +1521,21 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1047,8 +1570,15 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -1056,6 +1586,24 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1071,9 +1619,33 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1096,6 +1668,12 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
@@ -1114,15 +1692,33 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1140,7 +1736,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1149,6 +1752,18 @@
       "avoid_vibration": "2024-12-29 22:29:14 +0000"
     },
     "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
@@ -1191,6 +1806,12 @@
   "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1254,15 +1875,39 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1272,9 +1917,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/cooked_porkchop": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-29 22:25:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1346,6 +2009,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -1374,6 +2038,18 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_gunpowder": "2024-12-29 22:26:06 +0000"
@@ -1382,7 +2058,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -1428,15 +2111,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-29 22:31:42 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_toaster": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1448,7 +2155,8 @@
   },
   "supplementaries:recipes/lock_block": {
     "criteria": {
-      "minecraft:planks": "2024-12-29 22:39:38 +0000"
+      "minecraft:planks": "2024-12-29 22:39:38 +0000",
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1460,6 +2168,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -1473,6 +2182,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-29 22:39:11 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1491,6 +2206,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1516,7 +2237,8 @@
   },
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
-      "has_bottom": "2024-12-29 22:39:38 +0000"
+      "has_bottom": "2024-12-29 22:39:38 +0000",
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -1526,10 +2248,34 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_oak_planks": "2024-12-29 22:39:38 +0000",
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1545,11 +2291,47 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_stove": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-29 22:43:31 +0000"
     },
     "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
@@ -1575,6 +2357,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 22:33:03 +0000"
@@ -1590,6 +2378,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1617,6 +2411,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-29 22:31:42 +0000"
@@ -1629,9 +2429,22 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1656,6 +2469,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:33:03 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1701,9 +2526,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -1722,6 +2565,12 @@
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -1786,6 +2635,18 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-12-29 22:46:01 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
@@ -1795,6 +2656,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1810,6 +2677,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-29 22:42:46 +0000",
@@ -1820,6 +2693,12 @@
   "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
     "criteria": {
       "has_diamond": "2024-12-29 22:34:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1871,9 +2750,33 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1913,6 +2816,12 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-29 22:33:03 +0000"
@@ -1921,7 +2830,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -1935,6 +2851,18 @@
     "criteria": {
       "smoker": "2024-12-29 22:33:53 +0000",
       "smithingtable": "2024-12-29 22:33:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/light_electricity_generator": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -1953,6 +2881,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2024-12-29 22:25:30 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -1977,6 +2911,18 @@
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -2013,6 +2959,12 @@
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-29 22:39:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -2058,6 +3010,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
@@ -2082,13 +3040,22 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2024-12-29 22:46:01 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "floodplain": "2024-12-29 22:52:25 +0000",
       "jacaranda_glade": "2024-12-29 22:30:38 +0000",
       "overgrown_greens": "2024-12-29 22:29:37 +0000",
       "redwood_forest": "2024-12-29 22:29:30 +0000",
+      "rocky_rainforest": "2024-12-29 22:52:18 +0000",
       "lavender_field": "2024-12-29 22:25:45 +0000",
-      "prairie": "2024-12-29 22:23:52 +0000"
+      "prairie": "2024-12-29 22:23:52 +0000",
+      "rainforest": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -2116,9 +3083,27 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2024-12-29 22:30:10 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
@@ -2131,6 +3116,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -2164,6 +3155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 22:33:03 +0000"
@@ -2179,6 +3176,24 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 22:33:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/doorbell": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -2230,6 +3245,12 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2024-12-29 22:24:07 +0000"
@@ -2242,8 +3263,21 @@
     },
     "done": false
   },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -2275,6 +3309,24 @@
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -2326,6 +3378,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
@@ -2350,9 +3420,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-29 22:27:13 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
   },
@@ -2364,7 +3452,8 @@
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
-      "has_bottom": "2024-12-29 22:39:11 +0000"
+      "has_bottom": "2024-12-29 22:39:11 +0000",
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -2388,6 +3477,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -2424,7 +3514,8 @@
   },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
-      "has_bottom": "2024-12-29 22:39:38 +0000"
+      "has_bottom": "2024-12-29 22:39:38 +0000",
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -2488,11 +3579,23 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-29 22:31:40 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 22:49:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
@@ -2544,6 +3647,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
     },
     "done": false
@@ -2554,9 +3658,21 @@
     },
     "done": false
   },
+  "l2complements:recipes/misc/craft/sculkium_ingot": {
+    "criteria": {
+      "has_warden_bone_shard": "2024-12-29 22:46:03 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
     "criteria": {
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },
@@ -2568,13 +3684,26 @@
   },
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
+      "has_redstone": "2024-12-29 22:51:31 +0000",
       "has_planks": "2024-12-29 22:39:38 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2024-12-29 22:51:39 +0000"
     },
     "done": false
   },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2024-12-29 22:29:50 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
   },

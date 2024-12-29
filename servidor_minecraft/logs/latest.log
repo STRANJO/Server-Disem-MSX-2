@@ -1130,3 +1130,138 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:47:54.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1169.500000, -58.500000, -725.500000]
 [29Dec2024 22:47:55.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
 [29Dec2024 22:47:55.092] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[29Dec2024 22:47:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1170.500000, -58.500000, -724.500000]
+[29Dec2024 22:48:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Stronger than Steel]
+[29Dec2024 22:48:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[29Dec2024 22:48:33.571] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[29Dec2024 22:48:35.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[29Dec2024 22:48:37.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1136.500000, -57.500000, -704.500000]
+[29Dec2024 22:48:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[29Dec2024 22:48:46.255] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[29Dec2024 22:48:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1137.500000, -57.500000, -702.500000]
+[29Dec2024 22:48:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[29Dec2024 22:48:55.084] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[29Dec2024 22:48:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1137.500000, -57.500000, -702.500000]
+[29Dec2024 22:49:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[29Dec2024 22:49:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has completed the challenge [Phantom Thief]
+[29Dec2024 22:49:23.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Mutual Aid]
+[29Dec2024 22:49:23.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [The long arm of the law]
+[29Dec2024 22:49:54.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1049.500000, -49.500000, -881.500000]
+[29Dec2024 22:50:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1012.500000, -48.500000, -1011.500000]
+[29Dec2024 22:50:11.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[29Dec2024 22:50:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[29Dec2024 22:50:26.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:alex caves:A:1011:-46:-1012:6:false:0:Internal-overworld-waypoints
+[29Dec2024 22:50:32.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[29Dec2024 22:50:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to 1011.500000, -45.500000, -1011.500000]
+[29Dec2024 22:50:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1057.500000, -50.500000, -1174.500000]
+[29Dec2024 22:50:44.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 167.500000, 64.500000, 443.500000]
+[29Dec2024 22:50:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Ashes 'n Bones]
+[29Dec2024 22:50:51.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:50298] logged in with entity id 25058 at (1158.5, -57.9, -713.5)
+[29Dec2024 22:50:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:50:51.786] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:50:51.786] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:50:51.786] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:50:51.788] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:50:54.020] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:51:02.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Dec2024 22:51:15.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[29Dec2024 22:51:19.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[29Dec2024 22:51:38.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 22:51:39.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1167.500000, -43.500000, -1197.500000]
+[29Dec2024 22:51:57.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[29Dec2024 22:52:00.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1248.500000, -49.500000, -1237.500000]
+[29Dec2024 22:52:00.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:00.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:00.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:00.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:00.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[29Dec2024 22:52:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:52:00.859] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:52:25.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Dec2024 22:52:35.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:35.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[29Dec2024 22:52:37.940] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76a09493[id=<null>,name=antiqueito,properties={},legacy=false] (/100.109.62.125:60493) lost connection: Disconnected
+[29Dec2024 22:52:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1289.500000, -52.500000, -1152.500000]
+[29Dec2024 22:52:49.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1300.500000, -52.500000, -1170.500000]
+[29Dec2024 22:52:51.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 22:52:59.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1305.500000, -50.500000, -1066.500000]
+[29Dec2024 22:53:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [A Metropolis of Restless Souls]
+[29Dec2024 22:53:00.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:60501] logged in with entity id 26967 at (651.0878893746478, 108.0, -328.2850847433252)
+[29Dec2024 22:53:00.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:53:00.909] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:53:00.910] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:53:00.910] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:53:00.913] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:53:01.369] [Netty Epoll Server IO #9/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:53:08.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[29Dec2024 22:53:10.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:ancient city:A:1307:-51:-1066:6:false:0:Internal-overworld-waypoints
+[29Dec2024 22:53:14.536] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=537, y=-41, z=493}
+[29Dec2024 22:53:16.781] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=547, y=-1, z=589}
+[29Dec2024 22:53:26.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[29Dec2024 22:53:27.247] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=583, y=-53, z=486}
+[29Dec2024 22:53:41.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[29Dec2024 22:53:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:53:41.578] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:53:44.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[29Dec2024 22:53:53.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[29Dec2024 22:53:53.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[29Dec2024 22:53:53.761] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:54:01.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Dec2024 22:54:04.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[29Dec2024 22:54:04.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[29Dec2024 22:54:04.651] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:54:09.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77d306b5[id=<null>,name=antiqueito,properties={},legacy=false] (/100.109.62.125:60505) lost connection: Disconnected
+[29Dec2024 22:54:26.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:60507] logged in with entity id 28106 at (651.0878893746478, 108.0, -328.2850847433252)
+[29Dec2024 22:54:26.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[29Dec2024 22:54:26.258] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[29Dec2024 22:54:26.258] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[29Dec2024 22:54:26.258] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[29Dec2024 22:54:26.260] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[29Dec2024 22:54:26.724] [Netty Epoll Server IO #15/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[29Dec2024 22:54:27.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Lorem Ipsum]
+[29Dec2024 22:54:28.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGZSX lost connection: Disconnected
+[29Dec2024 22:54:28.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX left the game
+[29Dec2024 22:54:28.703] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:54:50.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[29Dec2024 22:54:50.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[29Dec2024 22:54:50.806] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:54:56.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[29Dec2024 22:54:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[29Dec2024 22:54:56.045] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[29Dec2024 22:55:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 22:55:00.227] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[29Dec2024 22:55:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 22:55:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 22:55:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 22:55:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 22:55:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[29Dec2024 22:55:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[29Dec2024 22:55:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[29Dec2024 22:55:00.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[29Dec2024 22:55:00.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[29Dec2024 22:55:00.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 22:55:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[29Dec2024 22:55:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Dec2024 22:55:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[29Dec2024 22:55:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[29Dec2024 22:55:00.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[29Dec2024 22:55:00.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[29Dec2024 22:55:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Dec2024 22:55:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[29Dec2024 22:55:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[29Dec2024 22:55:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[29Dec2024 22:55:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[29Dec2024 22:55:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 22:55:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 22:55:00.606] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Dec2024 22:55:00.607] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Dec2024 22:55:00.609] [Server thread/INFO] [Framework/]: Finished unloading server configs

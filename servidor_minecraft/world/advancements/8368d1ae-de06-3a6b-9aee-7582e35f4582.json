@@ -4203,7 +4203,8 @@
   },
   "supplementaries:recipes/notice_board": {
     "criteria": {
-      "minecraft:planks": "2024-12-29 04:34:07 +0000"
+      "minecraft:planks": "2024-12-29 04:34:07 +0000",
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
@@ -6175,6 +6176,78 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 22:53:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-29 22:24:18 +0000"
@@ -6319,6 +6392,12 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-29 22:54:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_bath": {
     "criteria": {
       "has_black_dye": "2024-12-29 22:35:38 +0000"
@@ -6334,6 +6413,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-29 22:24:18 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
@@ -6443,6 +6528,12 @@
   "cfm:recipes/decorations/dye_black_picket_gate": {
     "criteria": {
       "has_dye": "2024-12-29 22:35:38 +0000"
+    },
+    "done": false
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
@@ -6566,6 +6657,12 @@
     },
     "done": false
   },
+  "crystalcraft_unlimited_java:stronger_then_steel": {
+    "criteria": {
+      "stronger_then_steel_0": "2024-12-29 22:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-29 22:42:13 +0000"
@@ -6663,6 +6760,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_black_dye": "2024-12-29 22:35:38 +0000"
@@ -6684,6 +6787,12 @@
   "l2complements:recipes/enchantments/enchantments/snow_walker": {
     "criteria": {
       "has_leather": "2024-12-29 22:24:18 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
@@ -6732,6 +6841,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-29 22:42:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
@@ -6795,6 +6910,12 @@
     },
     "done": false
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/dark_lightswitch": {
     "criteria": {
       "has_dye": "2024-12-29 22:35:38 +0000"
@@ -6822,6 +6943,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-29 22:27:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-29 22:51:17 +0000"
     },
     "done": false
   },
