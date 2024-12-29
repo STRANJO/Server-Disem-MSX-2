@@ -760,6 +760,7 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -780,6 +781,7 @@
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -787,6 +789,7 @@
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -806,6 +809,7 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-24 00:29:12 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -819,6 +823,7 @@
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -876,6 +881,7 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 00:29:12 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -947,6 +953,7 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -981,6 +988,7 @@
     "criteria": {
       "has_cobblestone": "2024-12-28 01:32:06 +0000",
       "minecraft:planks": "2024-12-24 00:29:12 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
     "done": false
@@ -995,6 +1003,7 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1038,6 +1047,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1081,6 +1091,7 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1121,6 +1132,7 @@
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1172,6 +1184,7 @@
   },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
@@ -1188,6 +1201,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1229,6 +1243,7 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1258,6 +1273,7 @@
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1333,6 +1349,7 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1358,6 +1375,7 @@
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1465,6 +1483,7 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -1480,6 +1499,7 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-28 02:08:04 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_planks": "2024-12-24 00:29:12 +0000"
     },
     "done": false
@@ -2459,6 +2479,7 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 00:41:57 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000",
       "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
@@ -2467,6 +2488,7 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 00:41:57 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000",
       "has_copper_ingot": "2024-12-28 02:23:30 +0000"
     },
@@ -2767,6 +2789,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000",
       "has_copper_ingot": "2024-12-24 00:42:03 +0000"
     },
@@ -2864,6 +2887,7 @@
   },
   "supplementaries:recipes/altimeter": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_copper_ingot": "2024-12-24 00:42:03 +0000"
     },
     "done": false
@@ -4119,6 +4143,7 @@
   },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4192,6 +4217,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4271,12 +4297,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4295,6 +4323,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4307,6 +4336,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4325,6 +4355,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4367,6 +4398,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4538,6 +4570,7 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_jungle_planks": "2024-12-28 01:58:47 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4575,6 +4608,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4641,12 +4675,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4659,6 +4695,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4689,12 +4726,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4834,12 +4873,14 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:07:01 +0000",
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -4979,6 +5020,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -5039,6 +5081,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2024-12-29 01:20:00 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
