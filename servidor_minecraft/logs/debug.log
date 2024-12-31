@@ -15112,3 +15112,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 04:12:24.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1168.77, y=-21.97, z=334.07]
 [31Dec2024 04:12:24.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1168.51, y=-21.55, z=334.13], dimensionLocationPath overworld
 [31Dec2024 04:12:24.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1168.51, y=-21.55, z=334.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2d3d]
+[31Dec2024 04:12:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[31Dec2024 04:12:54.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:-1159, y:-27, z:348, dim:minecraft:overworld]
+[31Dec2024 04:12:54.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1158.98, y=-27.00, z=348.91]
+[31Dec2024 04:12:54.858] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1158.98, y=-27.00, z=348.91]
+[31Dec2024 04:12:54.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1158.98, y=-27.00, z=348.91]
+[31Dec2024 04:12:54.863] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:12:56.306] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[31Dec2024 04:13:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1158.500000, -26.500000, 348.500000]
+[31Dec2024 04:13:02.944] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1158.50, y=-26.94, z=348.50], dimensionLocationPath overworld
+[31Dec2024 04:13:02.944] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1158.50, y=-26.94, z=348.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2d3d]
+[31Dec2024 04:13:06.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[31Dec2024 04:13:06.128] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:-1161, y:-27, z:346, dim:minecraft:overworld]
+[31Dec2024 04:13:06.143] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1160.56, y=-27.00, z=346.39]
+[31Dec2024 04:13:06.144] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1160.56, y=-27.00, z=346.39]
+[31Dec2024 04:13:06.144] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1160.56, y=-27.00, z=346.39]
+[31Dec2024 04:13:06.147] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:13:09.829] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[31Dec2024 04:13:14.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1158.500000, -26.500000, 346.500000]
+[31Dec2024 04:13:14.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[31Dec2024 04:13:20.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1161.56, y=-26.00, z=347.24], dimensionLocationPath overworld
+[31Dec2024 04:13:20.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1161.56, y=-26.00, z=347.24] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2d3d]
+[31Dec2024 04:13:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 805.500000, 89.500000, -284.500000]
+[31Dec2024 04:13:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 868.500000, 79.500000, -184.500000]
+[31Dec2024 04:13:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 843.500000, 131.500000, -120.500000]
+[31Dec2024 04:14:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 97.500000, 75.500000, 117.500000]
+[31Dec2024 04:14:19.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 04:14:19.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 04:15:15.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -198.500000, 71.500000, 10.500000]
+[31Dec2024 04:15:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died because of Skeleton
+[31Dec2024 04:15:19.441] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:-1297, y:-22, z:294, dim:minecraft:overworld]
+[31Dec2024 04:15:19.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1296.82, y=-22.00, z=294.98]
+[31Dec2024 04:15:19.467] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1296.82, y=-22.00, z=294.98]
+[31Dec2024 04:15:19.467] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1296.82, y=-22.00, z=294.98]
+[31Dec2024 04:15:19.471] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:15:27.216] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[31Dec2024 04:15:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1296.500000, -21.500000, 295.500000]
+[31Dec2024 04:15:34.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1296.50, y=-22.00, z=295.50], dimensionLocationPath overworld
+[31Dec2024 04:15:34.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1150, l='ServerLevel[world]', x=-1296.50, y=-22.00, z=295.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2d3d]
+[31Dec2024 04:15:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -1064.500000, 63.500000, 6.500000]
+[31Dec2024 04:15:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:17:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:17:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 103.500000, 64.500000, -663.500000]
+[31Dec2024 04:17:17.278] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-18, y=-5, z=-883}
+[31Dec2024 04:17:58.738] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-50, y=-46, z=-1003}
+[31Dec2024 04:18:07.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=93, y=-13, z=-1017}
+[31Dec2024 04:18:21.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:18:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Jaws]
+[31Dec2024 04:18:48.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:18:48.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:19:19.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 04:19:19.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 04:19:47.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:19:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> oe
+[31Dec2024 04:19:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> tienen tinta de calamar?
+[31Dec2024 04:20:00.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:cosa rara:C:654:-41:-237:15:false:0:Internal-overworld-waypoints
+[31Dec2024 04:20:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nop
+[31Dec2024 04:20:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 04:21:41.506] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/MultiItemStackHandler (target of net/minecraftforge/items/IItemHandler)
+[31Dec2024 04:21:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 04:21:41.930] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexthe666/iceandfire/entity/tile/PixieJarInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[31Dec2024 04:21:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[31Dec2024 04:21:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> NIGGAA

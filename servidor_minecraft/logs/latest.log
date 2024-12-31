@@ -919,3 +919,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 04:11:52.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [31Dec2024 04:11:52.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [31Dec2024 04:12:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:12:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[31Dec2024 04:12:54.863] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:13:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1158.500000, -26.500000, 348.500000]
+[31Dec2024 04:13:06.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[31Dec2024 04:13:06.147] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:13:14.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1158.500000, -26.500000, 346.500000]
+[31Dec2024 04:13:14.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[31Dec2024 04:13:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 805.500000, 89.500000, -284.500000]
+[31Dec2024 04:13:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 868.500000, 79.500000, -184.500000]
+[31Dec2024 04:13:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 843.500000, 131.500000, -120.500000]
+[31Dec2024 04:14:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 97.500000, 75.500000, 117.500000]
+[31Dec2024 04:15:15.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -198.500000, 71.500000, 10.500000]
+[31Dec2024 04:15:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died because of Skeleton
+[31Dec2024 04:15:19.471] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:15:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1296.500000, -21.500000, 295.500000]
+[31Dec2024 04:15:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -1064.500000, 63.500000, 6.500000]
+[31Dec2024 04:15:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:17:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:17:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 103.500000, 64.500000, -663.500000]
+[31Dec2024 04:17:17.278] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-18, y=-5, z=-883}
+[31Dec2024 04:17:58.738] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-50, y=-46, z=-1003}
+[31Dec2024 04:18:07.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=93, y=-13, z=-1017}
+[31Dec2024 04:18:21.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:18:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Jaws]
+[31Dec2024 04:18:48.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:18:48.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:19:47.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 04:19:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> oe
+[31Dec2024 04:19:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> tienen tinta de calamar?
+[31Dec2024 04:20:00.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:cosa rara:C:654:-41:-237:15:false:0:Internal-overworld-waypoints
+[31Dec2024 04:20:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nop
+[31Dec2024 04:20:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 04:21:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 04:21:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[31Dec2024 04:21:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> NIGGAA

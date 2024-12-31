@@ -2297,6 +2297,7 @@
       "dune_beach": "2024-12-30 02:35:00 +0000",
       "volcano": "2024-12-29 03:47:42 +0000",
       "rocky_rainforest": "2024-12-29 04:03:24 +0000",
+      "pasture": "2024-12-31 04:11:19 +0000",
       "volcanic_plains": "2024-12-29 04:01:40 +0000",
       "lavender_field": "2024-12-28 01:32:07 +0000",
       "grassland": "2024-12-24 00:36:15 +0000",
@@ -2329,6 +2330,7 @@
       "dune_beach": "2024-12-30 02:35:00 +0000",
       "volcano": "2024-12-29 03:47:42 +0000",
       "rocky_rainforest": "2024-12-29 04:03:24 +0000",
+      "pasture": "2024-12-31 04:11:19 +0000",
       "volcanic_plains": "2024-12-29 04:01:40 +0000",
       "lavender_field": "2024-12-24 01:38:20 +0000",
       "grassland": "2024-12-24 00:36:15 +0000",
@@ -12075,6 +12077,12 @@
       "has_black_dye": "2024-12-31 04:00:02 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-12-31 04:18:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
