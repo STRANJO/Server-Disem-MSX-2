@@ -11284,6 +11284,25 @@
     },
     "done": false
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 01:52:49 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 01:52:49 +0000",
+      "has_the_recipe": "2024-12-31 01:57:04 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_professions_traded": {
     "criteria": {
       "fletcher": "2024-12-31 00:29:10 +0000",
@@ -11306,6 +11325,18 @@
   "cfm:recipes/decorations/dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
     },
     "done": false
   },
@@ -11339,6 +11370,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-31 00:47:14 +0000"
@@ -11357,9 +11394,33 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
     },
     "done": false
   },
@@ -11368,6 +11429,12 @@
       "villagertrade": "2024-12-31 00:29:10 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_dark_oak_chair": {
     "criteria": {
@@ -11383,9 +11450,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_log": "2024-12-31 00:43:59 +0000"
+      "has_log": "2024-12-31 00:43:59 +0000",
+      "has_the_recipe": "2024-12-31 01:57:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -11402,6 +11470,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:57:04 +0000"
     },
     "done": false
   },

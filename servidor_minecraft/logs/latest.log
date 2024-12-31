@@ -816,3 +816,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 01:45:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
 [31Dec2024 01:45:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2263.500000, 79.500000, -2010.500000]
 [31Dec2024 01:47:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Dirty Butter]
+[31Dec2024 01:54:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 109.500000, 63.500000, 332.500000]
+[31Dec2024 01:54:59.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[31Dec2024 01:56:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
+[31Dec2024 01:56:52.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/59459, l='ServerLevel[world]', x=712.52, y=78.00, z=-2689.67] died, message: 'Farmer hit the ground too hard'
+[31Dec2024 01:58:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the weather to clear]
+[31Dec2024 02:01:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto burned to death
+[31Dec2024 02:01:43.056] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 02:01:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 685.500000, 108.500000, -334.500000]

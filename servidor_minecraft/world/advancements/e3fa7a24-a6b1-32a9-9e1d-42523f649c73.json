@@ -5120,6 +5120,7 @@
       "minecraft:phantom": "2024-12-29 05:01:57 +0000",
       "minecraft:zombified_piglin": "2024-12-30 00:07:59 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:53:05 +0000",
+      "minecraft:enderman": "2024-12-31 01:53:46 +0000",
       "minecraft:vex": "2024-12-29 04:06:22 +0000",
       "minecraft:zombie": "2024-12-24 01:38:28 +0000"
     },
@@ -5291,6 +5292,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-29 22:34:07 +0000",
       "cooked_mutton": "2024-12-24 05:34:25 +0000",
+      "baked_potato": "2024-12-31 01:53:28 +0000",
       "apple": "2024-12-24 03:15:09 +0000",
       "pumpkin_pie": "2024-12-25 22:53:33 +0000",
       "bread": "2024-12-24 02:10:34 +0000",
@@ -11329,6 +11331,12 @@
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-31 01:48:12 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2024-12-31 01:52:49 +0000"
     },
     "done": false
   },
