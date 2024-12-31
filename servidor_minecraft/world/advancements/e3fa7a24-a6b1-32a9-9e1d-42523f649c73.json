@@ -11636,27 +11636,21 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
+      "has_item": "2024-12-31 03:47:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
+      "has_item": "2024-12-31 03:47:09 +0000"
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_sea_serpent": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-31 04:29:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
+      "has_enchanted_golden_apple": "2024-12-31 04:03:41 +0000"
     },
     "done": false
   },
@@ -11672,159 +11666,9 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-31 05:23:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-31 04:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2024-12-31 04:29:56 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2024-12-31 04:29:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2024-12-31 04:29:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-31 04:03:41 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
-    "criteria": {
-      "has_burning_blossom": "2024-12-31 05:17:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2024-12-31 04:29:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-31 05:25:19 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2024-12-31 04:29:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-31 04:57:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-31 05:25:19 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-31 05:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 05:27:40 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2024-12-31 03:47:09 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2024-12-31 03:47:09 +0000"
     },
     "done": false
   },
@@ -11834,27 +11678,51 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-31 04:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-31 04:29:55 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-31 04:29:55 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-31 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 04:29:56 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-31 04:29:56 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
-      "has_basalt": "2024-12-31 05:25:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-31 05:24:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2024-12-31 05:02:14 +0000"
+      "has_item": "2024-12-31 04:29:56 +0000"
     },
     "done": false
   },
@@ -11864,9 +11732,69 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/tide_red_helmet": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_item": "2024-12-31 04:29:56 +0000"
+      "has_ink_sac": "2024-12-31 04:57:51 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-31 05:02:14 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-31 05:16:54 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2024-12-31 05:17:11 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-31 05:23:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-31 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:25:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:25:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:25:19 +0000"
     },
     "done": false
   },
