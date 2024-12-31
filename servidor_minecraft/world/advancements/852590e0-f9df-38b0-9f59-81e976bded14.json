@@ -9828,6 +9828,7 @@
       "oceanographytable": "2024-12-29 05:24:22 +0000",
       "fletchingtable": "2024-12-30 03:05:03 +0000",
       "gardeningtable": "2024-12-29 05:24:08 +0000",
+      "blastfurnace": "2024-12-31 03:14:46 +0000",
       "lectern": "2024-12-29 05:31:25 +0000",
       "woodworkingtable": "2024-12-30 02:09:00 +0000",
       "stonecutter": "2024-12-31 03:10:27 +0000"
@@ -9841,6 +9842,7 @@
       "oceanographytable": "2024-12-29 05:24:22 +0000",
       "fletchingtable": "2024-12-30 03:05:03 +0000",
       "gardeningtable": "2024-12-29 05:24:08 +0000",
+      "blastfurnace": "2024-12-31 03:14:46 +0000",
       "lectern": "2024-12-29 05:31:25 +0000",
       "woodworkingtable": "2024-12-30 02:09:00 +0000",
       "stonecutter": "2024-12-31 03:10:27 +0000"
@@ -10608,9 +10610,10 @@
   },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_smooth_stone": "2024-12-30 00:24:12 +0000"
+      "has_smooth_stone": "2024-12-30 00:24:12 +0000",
+      "has_the_recipe": "2024-12-31 03:14:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
@@ -11454,6 +11457,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-31 03:23:28 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_stone": "2024-12-31 03:10:20 +0000"
@@ -11643,9 +11652,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+      "has_upgrade_base": "2024-12-31 02:52:49 +0000",
+      "has_the_recipe": "2024-12-31 03:19:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
     "criteria": {
@@ -11830,9 +11840,10 @@
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_stone": "2024-12-31 03:10:20 +0000"
+      "has_stone": "2024-12-31 03:10:20 +0000",
+      "has_the_recipe": "2024-12-31 03:14:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/stripped_dark_oak_chair": {
     "criteria": {
@@ -11851,6 +11862,12 @@
       "traded": "2024-12-31 00:29:10 +0000"
     },
     "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2024-12-31 03:19:52 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
