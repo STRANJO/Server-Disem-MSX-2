@@ -809,3 +809,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 01:17:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
 [31Dec2024 01:18:05.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
 [31Dec2024 01:28:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The Journey Begins]
+[31Dec2024 01:40:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[31Dec2024 01:41:21.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[31Dec2024 01:41:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[31Dec2024 01:41:21.381] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 01:45:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 01:45:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2263.500000, 79.500000, -2010.500000]
+[31Dec2024 01:47:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Dirty Butter]

@@ -1355,7 +1355,8 @@
   },
   "supplementaries:recipes/flower_box": {
     "criteria": {
-      "has_dirt": "2024-12-24 00:28:23 +0000"
+      "has_dirt": "2024-12-24 00:28:23 +0000",
+      "minecraft:wooden_slabs": "2024-12-31 01:37:47 +0000"
     },
     "done": false
   },
@@ -1592,6 +1593,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1615,6 +1617,7 @@
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
       "has_red_dye": "2024-12-28 03:54:14 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1623,6 +1626,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1659,6 +1663,7 @@
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_white_dye": "2024-12-28 03:56:34 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1695,7 +1700,8 @@
     "criteria": {
       "has_spruce_planks": "2024-12-24 00:30:03 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-28 02:11:16 +0000"
+      "has_iron_ingot": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -1757,6 +1763,7 @@
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
       "has_magenta_dye": "2024-12-28 03:56:51 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1799,6 +1806,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1811,6 +1819,7 @@
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
+      "has_wood_slab": "2024-12-31 01:37:47 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1819,6 +1828,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1841,6 +1851,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1877,6 +1888,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1924,6 +1936,7 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_slabs": "2024-12-31 01:37:47 +0000",
       "has_iron_ingot": "2024-12-28 02:11:16 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
@@ -1933,6 +1946,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1961,6 +1975,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -1984,6 +1999,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -2013,6 +2029,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -2040,6 +2057,7 @@
       "has_pink_dye": "2024-12-28 03:56:42 +0000",
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -2081,6 +2099,7 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-12-24 00:30:03 +0000",
+      "minecraft:wooden_slabs": "2024-12-31 01:37:47 +0000",
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
     },
     "done": false
@@ -2122,6 +2141,7 @@
     "criteria": {
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -2131,6 +2151,7 @@
       "has_white_wool": "2024-12-28 02:11:16 +0000",
       "has_purple_dye": "2024-12-28 03:44:12 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
       "has_planks": "2024-12-24 00:30:03 +0000"
     },
     "done": false
@@ -2199,13 +2220,15 @@
   },
   "supplementaries:recipes/crank": {
     "criteria": {
+      "has_cobblestone_slab": "2024-12-31 01:39:21 +0000",
       "forge:rods/wooden": "2024-12-24 00:30:22 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-24 00:30:22 +0000"
+      "has_stick": "2024-12-24 00:30:22 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -2278,7 +2301,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-24 00:30:22 +0000"
+      "has_stick": "2024-12-24 00:30:22 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -3308,7 +3332,8 @@
   },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -3625,6 +3650,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
@@ -3736,6 +3762,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000"
     },
     "done": false
@@ -3785,6 +3812,7 @@
   },
   "supplementaries:recipes/cage": {
     "criteria": {
+      "minecraft:wooden_slabs": "2024-12-31 01:37:47 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000"
     },
     "done": false
@@ -3812,14 +3840,16 @@
     "criteria": {
       "has_oak_planks": "2024-12-28 03:41:46 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -3860,7 +3890,8 @@
     "criteria": {
       "has_acacia_planks": "2024-12-29 04:55:23 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -3937,7 +3968,8 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4140,7 +4172,8 @@
     "criteria": {
       "has_jungle_planks": "2024-12-28 03:59:20 +0000",
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4179,7 +4212,8 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4254,14 +4288,16 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4306,7 +4342,8 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4381,6 +4418,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
@@ -4538,6 +4576,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
@@ -4816,7 +4855,9 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
     },
     "done": false
   },
@@ -4913,7 +4954,10 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_iron_pickaxe": "2024-12-24 00:57:59 +0000"
+      "has_iron_boots": "2024-12-31 01:48:17 +0000",
+      "has_iron_horse_armor": "2024-12-31 01:48:12 +0000",
+      "has_iron_pickaxe": "2024-12-24 00:57:59 +0000",
+      "has_iron_helmet": "2024-12-31 01:48:20 +0000"
     },
     "done": false
   },
@@ -4925,7 +4969,10 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_iron_pickaxe": "2024-12-24 00:57:59 +0000"
+      "has_iron_boots": "2024-12-31 01:48:17 +0000",
+      "has_iron_horse_armor": "2024-12-31 01:48:12 +0000",
+      "has_iron_pickaxe": "2024-12-24 00:57:59 +0000",
+      "has_iron_helmet": "2024-12-31 01:48:20 +0000"
     },
     "done": false
   },
@@ -4949,7 +4996,8 @@
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_boots": "2024-12-24 01:02:47 +0000"
+      "iron_boots": "2024-12-24 01:02:47 +0000",
+      "iron_helmet": "2024-12-31 01:48:20 +0000"
     },
     "done": false
   },
@@ -5626,7 +5674,8 @@
   },
   "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5650,7 +5699,8 @@
   },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5662,7 +5712,8 @@
   },
   "cfm:recipes/decorations/dark_oak_coffee_table": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5680,13 +5731,15 @@
   },
   "cfm:recipes/decorations/dark_oak_chair": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5698,7 +5751,8 @@
   },
   "cfm:recipes/decorations/dark_oak_table": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5722,7 +5776,8 @@
   },
   "cfm:recipes/decorations/dark_oak_crate": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5734,7 +5789,8 @@
   },
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -5758,13 +5814,15 @@
   },
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -6051,6 +6109,7 @@
     "criteria": {
       "has_sticks": "2024-12-24 18:01:34 +0000",
       "has_fences": "2024-12-28 02:21:40 +0000",
+      "has_slabs": "2024-12-31 01:37:47 +0000",
       "has_iron": "2024-12-28 02:11:16 +0000"
     },
     "done": false
@@ -6896,7 +6955,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
-      "has_glass": "2024-12-26 05:05:23 +0000"
+      "has_glass": "2024-12-26 05:05:23 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -7581,7 +7641,8 @@
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond_chestplate": "2024-12-26 05:38:47 +0000"
+      "diamond_chestplate": "2024-12-26 05:38:47 +0000",
+      "diamond_boots": "2024-12-31 01:48:19 +0000"
     },
     "done": false
   },
@@ -9005,7 +9066,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -9030,13 +9092,15 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -9317,7 +9381,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
     },
     "done": false
   },
@@ -11182,6 +11247,150 @@
       "mygothgf_0": "2024-12-30 01:42:16 +0000"
     },
     "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-31 01:48:12 +0000"
+    },
+    "done": false
+  },
+  "more_recipes_and_more:tin_advancement": {
+    "criteria": {
+      "tin_advancement_0": "2024-12-31 01:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-31 01:37:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
