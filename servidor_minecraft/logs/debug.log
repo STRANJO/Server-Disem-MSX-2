@@ -14291,3 +14291,563 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 23:11:19.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18209, l='ServerLevel[world]', x=2324.68, y=153.57, z=-511.71], dimensionLocationPath overworld
 [31Dec2024 23:11:19.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18209, l='ServerLevel[world]', x=2324.68, y=153.57, z=-511.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
 [31Dec2024 23:11:20.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18209, l='ServerLevel[world]', x=2325.42, y=153.33, z=-510.94, removed=DISCARDED]
+[31Dec2024 23:13:00.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18437, l='ServerLevel[world]', x=2314.71, y=142.48, z=-511.51], dimensionLocationPath overworld
+[31Dec2024 23:13:00.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18437, l='ServerLevel[world]', x=2314.71, y=142.48, z=-511.51] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:00.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18439, l='ServerLevel[world]', x=2315.70, y=142.35, z=-511.38], dimensionLocationPath overworld
+[31Dec2024 23:13:00.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18439, l='ServerLevel[world]', x=2315.70, y=142.35, z=-511.38] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4805]
+[31Dec2024 23:13:01.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18437, l='ServerLevel[world]', x=2313.99, y=142.00, z=-512.43, removed=DISCARDED]
+[31Dec2024 23:13:09.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18439, l='ServerLevel[world]', x=2315.99, y=142.00, z=-511.88, removed=DISCARDED]
+[31Dec2024 23:13:25.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:13:25.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:25.879] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.13, y=138.30, z=-518.79]
+[31Dec2024 23:13:25.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:13:25.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:25.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.26, y=138.22, z=-518.77]
+[31Dec2024 23:13:25.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:13:25.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:25.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.33, y=138.14, z=-518.75]
+[31Dec2024 23:13:26.019] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:13:26.019] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.019] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.36, y=138.06, z=-518.75]
+[31Dec2024 23:13:26.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:13:26.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.41, y=138.06, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.070] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.37, y=138.06, z=-518.75]
+[31Dec2024 23:13:26.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.26, y=138.22, z=-518.77], dimensionLocationPath overworld
+[31Dec2024 23:13:26.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.26, y=138.22, z=-518.77] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.123] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.24, y=138.64, z=-518.77]
+[31Dec2024 23:13:26.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.18, y=138.30, z=-518.78], dimensionLocationPath overworld
+[31Dec2024 23:13:26.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.18, y=138.30, z=-518.78] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.16, y=138.63, z=-518.78]
+[31Dec2024 23:13:26.226] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.10, y=138.29, z=-518.79], dimensionLocationPath overworld
+[31Dec2024 23:13:26.226] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.10, y=138.29, z=-518.79] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.08, y=138.54, z=-518.80]
+[31Dec2024 23:13:26.268] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.03, y=138.21, z=-518.81], dimensionLocationPath overworld
+[31Dec2024 23:13:26.268] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.03, y=138.21, z=-518.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.268] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.02, y=138.37, z=-518.81]
+[31Dec2024 23:13:26.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.97, y=138.06, z=-518.82], dimensionLocationPath overworld
+[31Dec2024 23:13:26.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.97, y=138.06, z=-518.82] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.96, y=138.15, z=-518.82]
+[31Dec2024 23:13:26.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.91, y=138.06, z=-518.83], dimensionLocationPath overworld
+[31Dec2024 23:13:26.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.91, y=138.06, z=-518.83] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.91, y=138.07, z=-518.83]
+[31Dec2024 23:13:26.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.88, y=138.06, z=-518.83], dimensionLocationPath overworld
+[31Dec2024 23:13:26.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.88, y=138.06, z=-518.83] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.88, y=138.06, z=-518.83]
+[31Dec2024 23:13:26.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.87, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.87, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.87, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.86, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.86, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.86, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.870] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.870] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:26.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:26.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:26.970] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.119] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.119] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.119] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.320] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.421] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.618] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:27.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84], dimensionLocationPath overworld
+[31Dec2024 23:13:27.828] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:13:27.828] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.85, y=138.06, z=-518.84]
+[31Dec2024 23:13:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was killed by Area Effect Cloud using magic
+[31Dec2024 23:13:32.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:2315, y:138, z:-520, dim:minecraft:overworld]
+[31Dec2024 23:13:32.581] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.93, y=138.06, z=-519.23]
+[31Dec2024 23:13:32.581] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.93, y=138.06, z=-519.23]
+[31Dec2024 23:13:32.584] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[31Dec2024 23:13:34.628] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[31Dec2024 23:13:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2316.500000, 138.500000, -519.500000]
+[31Dec2024 23:13:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Husk
+[31Dec2024 23:13:37.249] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:2314, y:138, z:-519, dim:minecraft:overworld]
+[31Dec2024 23:13:37.261] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/3782, l='ServerLevel[world]', x=2315.17, y=138.06, z=-519.70]
+[31Dec2024 23:13:37.264] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 23:13:38.544] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/3782, l='ServerLevel[world]', x=2312.50, y=142.00, z=-511.50]
+[31Dec2024 23:13:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2315.500000, 138.500000, -519.500000]
+[31Dec2024 23:13:44.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/3782, l='ServerLevel[world]', x=2314.30, y=138.88, z=-518.01], dimensionLocationPath overworld
+[31Dec2024 23:13:44.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/3782, l='ServerLevel[world]', x=2314.30, y=138.88, z=-518.01] in list []
+[31Dec2024 23:13:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was killed by Area Effect Cloud using magic
+[31Dec2024 23:13:54.472] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:2317, y:138, z:-520, dim:minecraft:overworld]
+[31Dec2024 23:13:54.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.50, y=138.06, z=-518.85]
+[31Dec2024 23:13:54.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2317.50, y=138.06, z=-518.85]
+[31Dec2024 23:13:54.479] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[31Dec2024 23:13:56.347] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[31Dec2024 23:13:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2317.500000, 138.500000, -519.500000]
+[31Dec2024 23:14:18.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:14:18.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:15:12.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97], dimensionLocationPath overworld
+[31Dec2024 23:15:12.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:12.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.24, z=-518.17]
+[31Dec2024 23:15:12.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97], dimensionLocationPath overworld
+[31Dec2024 23:15:12.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:12.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.16, z=-518.08]
+[31Dec2024 23:15:12.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97], dimensionLocationPath overworld
+[31Dec2024 23:15:12.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:12.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.08, z=-518.03]
+[31Dec2024 23:15:13.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97], dimensionLocationPath overworld
+[31Dec2024 23:15:13.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.03]
+[31Dec2024 23:15:13.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97], dimensionLocationPath overworld
+[31Dec2024 23:15:13.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-517.97] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.02]
+[31Dec2024 23:15:13.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.16, z=-518.08], dimensionLocationPath overworld
+[31Dec2024 23:15:13.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.16, z=-518.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.122] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.58, z=-518.11]
+[31Dec2024 23:15:13.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.23, z=-518.14], dimensionLocationPath overworld
+[31Dec2024 23:15:13.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.23, z=-518.14] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.57, z=-518.17]
+[31Dec2024 23:15:13.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.23, z=-518.20], dimensionLocationPath overworld
+[31Dec2024 23:15:13.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.23, z=-518.20] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.48, z=-518.22]
+[31Dec2024 23:15:13.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.15, z=-518.25], dimensionLocationPath overworld
+[31Dec2024 23:15:13.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.15, z=-518.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.31, z=-518.27]
+[31Dec2024 23:15:13.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.29], dimensionLocationPath overworld
+[31Dec2024 23:15:13.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.08, z=-518.31]
+[31Dec2024 23:15:13.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.33], dimensionLocationPath overworld
+[31Dec2024 23:15:13.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.33] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.34]
+[31Dec2024 23:15:13.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.35], dimensionLocationPath overworld
+[31Dec2024 23:15:13.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.35] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.36]
+[31Dec2024 23:15:13.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37], dimensionLocationPath overworld
+[31Dec2024 23:15:13.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37]
+[31Dec2024 23:15:13.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37], dimensionLocationPath overworld
+[31Dec2024 23:15:13.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.518] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.37]
+[31Dec2024 23:15:13.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.46], dimensionLocationPath overworld
+[31Dec2024 23:15:13.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.46]
+[31Dec2024 23:15:13.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.59], dimensionLocationPath overworld
+[31Dec2024 23:15:13.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.622] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.59]
+[31Dec2024 23:15:13.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.74], dimensionLocationPath overworld
+[31Dec2024 23:15:13.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.74]
+[31Dec2024 23:15:13.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.91], dimensionLocationPath overworld
+[31Dec2024 23:15:13.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.91] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.722] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-518.91]
+[31Dec2024 23:15:13.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.10], dimensionLocationPath overworld
+[31Dec2024 23:15:13.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.10]
+[31Dec2024 23:15:13.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.29], dimensionLocationPath overworld
+[31Dec2024 23:15:13.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.29]
+[31Dec2024 23:15:13.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.39], dimensionLocationPath overworld
+[31Dec2024 23:15:13.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.39]
+[31Dec2024 23:15:13.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.45], dimensionLocationPath overworld
+[31Dec2024 23:15:13.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.45] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.45]
+[31Dec2024 23:15:13.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.48], dimensionLocationPath overworld
+[31Dec2024 23:15:13.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:13.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.48]
+[31Dec2024 23:15:14.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.49], dimensionLocationPath overworld
+[31Dec2024 23:15:14.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.020] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.49]
+[31Dec2024 23:15:14.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50], dimensionLocationPath overworld
+[31Dec2024 23:15:14.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.30, y=138.00, z=-519.50]
+[31Dec2024 23:15:14.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.33, y=138.00, z=-519.60], dimensionLocationPath overworld
+[31Dec2024 23:15:14.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.33, y=138.00, z=-519.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.33, y=138.00, z=-519.60]
+[31Dec2024 23:15:14.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.34, y=138.00, z=-519.65], dimensionLocationPath overworld
+[31Dec2024 23:15:14.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.34, y=138.00, z=-519.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.419] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.34, y=138.00, z=-519.65]
+[31Dec2024 23:15:14.470] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.35, y=138.00, z=-519.68], dimensionLocationPath overworld
+[31Dec2024 23:15:14.470] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.35, y=138.00, z=-519.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.470] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.35, y=138.00, z=-519.68]
+[31Dec2024 23:15:14.519] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.69], dimensionLocationPath overworld
+[31Dec2024 23:15:14.519] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.519] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.69]
+[31Dec2024 23:15:14.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:15:14.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:15:14.670] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:15:14.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.720] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.720] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:15:14.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:15:14.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70], dimensionLocationPath overworld
+[31Dec2024 23:15:14.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:15:14.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2314.36, y=138.00, z=-519.70]
+[31Dec2024 23:16:04.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved wrongly!
+[31Dec2024 23:17:45.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.35, y=131.00, z=-517.56], dimensionLocationPath overworld
+[31Dec2024 23:17:45.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2316.35, y=131.00, z=-517.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:18:28.120] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2329.45, y=131.00, z=-512.50]
+[31Dec2024 23:18:30.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19606, l='ServerLevel[world]', x=2327.57, y=131.51, z=-511.43], dimensionLocationPath overworld
+[31Dec2024 23:18:30.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19606, l='ServerLevel[world]', x=2327.57, y=131.51, z=-511.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:18:33.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19606, l='ServerLevel[world]', x=2326.63, y=131.00, z=-511.99, removed=DISCARDED]
+[31Dec2024 23:18:34.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2326.07, y=131.00, z=-511.45], dimensionLocationPath overworld
+[31Dec2024 23:18:34.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2326.07, y=131.00, z=-511.45] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:19:18.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:19:18.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:20:14.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2288.19, y=105.00, z=-538.70]
+[31Dec2024 23:20:15.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19854, l='ServerLevel[world]', x=2287.33, y=105.49, z=-538.52], dimensionLocationPath overworld
+[31Dec2024 23:20:15.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19854, l='ServerLevel[world]', x=2287.33, y=105.49, z=-538.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:20:17.203] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/19854, l='ServerLevel[world]', x=2286.80, y=105.00, z=-538.71, removed=DISCARDED]
+[31Dec2024 23:20:18.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2287.29, y=105.00, z=-538.70], dimensionLocationPath overworld
+[31Dec2024 23:20:18.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2287.29, y=105.00, z=-538.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:20:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:20:43.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Great minds think alike]
+[31Dec2024 23:21:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Knowledge raises the soul]
+[31Dec2024 23:21:11.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/20045, l='ServerLevel[world]', x=2287.36, y=105.44, z=-538.54], dimensionLocationPath overworld
+[31Dec2024 23:21:11.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/20045, l='ServerLevel[world]', x=2287.36, y=105.44, z=-538.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@483]
+[31Dec2024 23:21:14.504] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/20045, l='ServerLevel[world]', x=2286.42, y=105.00, z=-538.27, removed=DISCARDED]
+[31Dec2024 23:21:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Die Classy]
+[31Dec2024 23:23:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:24:18.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:24:18.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:24:27.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21217, l='ServerLevel[world]', x=2292.41, y=-1.47, z=-629.27], dimensionLocationPath overworld
+[31Dec2024 23:24:27.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21217, l='ServerLevel[world]', x=2292.41, y=-1.47, z=-629.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@483]
+[31Dec2024 23:24:28.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21217, l='ServerLevel[world]', x=2292.13, y=-2.00, z=-629.43, removed=DISCARDED]
+[31Dec2024 23:26:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:26:37.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2374.62, y=20.00, z=-589.30]
+[31Dec2024 23:26:38.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21703, l='ServerLevel[world]', x=2373.57, y=19.52, z=-589.31], dimensionLocationPath overworld
+[31Dec2024 23:26:38.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21703, l='ServerLevel[world]', x=2373.57, y=19.52, z=-589.31] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:26:39.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21703, l='ServerLevel[world]', x=2373.13, y=19.27, z=-589.57, removed=DISCARDED]
+[31Dec2024 23:26:41.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2373.93, y=15.00, z=-590.17], dimensionLocationPath overworld
+[31Dec2024 23:26:41.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2373.93, y=15.00, z=-590.17] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:27:10.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:28:08.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2358, y=8, z=-599} BlockPos{x=2359, y=8, z=-598}
+[31Dec2024 23:29:18.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:29:18.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:29:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[31Dec2024 23:30:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2328.500000, 108.500000, -751.500000]
+[31Dec2024 23:31:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2416.500000, 162.500000, -585.500000]
+[31Dec2024 23:31:06.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[31Dec2024 23:31:26.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2396, y=169, z=-584} BlockPos{x=2395, y=167, z=-585}
+[31Dec2024 23:31:29.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:32:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2506.500000, 126.500000, -630.500000]
+[31Dec2024 23:32:29.781] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2499.63, y=97.26, z=-660.86]
+[31Dec2024 23:32:31.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2497.03, y=99.71, z=-656.60], dimensionLocationPath overworld
+[31Dec2024 23:32:31.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2497.03, y=99.71, z=-656.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:32:32.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2495.73, y=98.25, z=-655.30]
+[31Dec2024 23:32:32.780] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2495.48, y=98.38, z=-655.30], dimensionLocationPath overworld
+[31Dec2024 23:32:32.780] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1155, l='ServerLevel[world]', x=2495.48, y=98.38, z=-655.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@ec6]
+[31Dec2024 23:33:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2380.500000, 127.500000, -808.500000]
+[31Dec2024 23:33:43.014] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[31Dec2024 23:33:43.014] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[31Dec2024 23:33:43.015] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[31Dec2024 23:33:43.016] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[31Dec2024 23:33:43.017] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/cpu_capacity
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/cpu_capacity
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[31Dec2024 23:33:43.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/cpu_capacity
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/cpu_capacity
+[31Dec2024 23:33:43.019] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[31Dec2024 23:33:43.035] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[31Dec2024 23:33:43.036] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@537ca28e
+[31Dec2024 23:33:43.037] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@4783da3f
+[31Dec2024 23:33:43.050] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31Dec2024 23:33:43.050] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31Dec2024 23:33:43.053] [Server thread/ERROR] [net.minecraft.util.ThreadingDetector/]: Thread dumps: 
+Server thread: 
+	at java.base/java.lang.Thread.getStackTrace(Thread.java:2451)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199420_(ThreadingDetector.java:92)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:82)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47038_(NaturalSpawner.java:150)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47045_(NaturalSpawner.java:118)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47029_(NaturalSpawner.java:108)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:358)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[31Dec2024 23:33:43.056] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47038_(NaturalSpawner.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47045_(NaturalSpawner.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47029_(NaturalSpawner.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:358) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	... 5 more
+[31Dec2024 23:33:43.094] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0f9d1adf-ad4c-4e68-8672-36941fbad526
+[31Dec2024 23:33:43.094] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/Server-Disem-MSX-2/servidor_minecraft/./crash-reports/crash-2024-12-31_23.33.43-server.txt
+[31Dec2024 23:33:43.094] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[31Dec2024 23:33:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 23:33:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Server closed
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 23:33:43.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 23:33:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 23:33:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[31Dec2024 23:33:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[31Dec2024 23:33:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 23:33:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[31Dec2024 23:33:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[31Dec2024 23:33:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[31Dec2024 23:33:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[31Dec2024 23:33:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 23:33:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[31Dec2024 23:33:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[31Dec2024 23:33:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[31Dec2024 23:33:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[31Dec2024 23:33:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[31Dec2024 23:33:46.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:33:46.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 23:33:46.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 23:33:46.392] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Dec2024 23:33:46.393] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Server-Disem-MSX-2/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[31Dec2024 23:33:46.394] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Dec2024 23:33:46.395] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Dec2024 23:33:46.396] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[31Dec2024 23:33:46.396] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[31Dec2024 23:33:46.397] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easyanvils-server.toml, ignoring
+[31Dec2024 23:33:46.397] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easyanvils-server.toml, ignoring
+[31Dec2024 23:33:46.402] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[31Dec2024 23:33:46.403] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[31Dec2024 23:33:46.403] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tombstone-server.toml, ignoring
+[31Dec2024 23:33:46.403] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tradingpost-server.toml, ignoring
+[31Dec2024 23:33:46.403] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for tradingpost-server.toml, ignoring
+[31Dec2024 23:33:46.404] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easymagic-server.toml, ignoring
+[31Dec2024 23:33:46.404] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for easymagic-server.toml, ignoring
+[31Dec2024 23:33:46.404] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for universalbonemeal-server.toml, ignoring
+[31Dec2024 23:33:46.404] [Config file watcher thread/DEBUG] [portb.configlib.ConfigLib/]: Got ENTRY_MODIFY for universalbonemeal-server.toml, ignoring
+[31Dec2024 23:34:44.439] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[31Dec2024 23:34:44.439] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[31Dec2024 23:34:44.764] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[31Dec2024 23:34:44.764] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[31Dec2024 23:34:44.765] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[31Dec2024 23:34:44.766] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/cpu_capacity
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/cpu_capacity
+[31Dec2024 23:34:44.767] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/cpu_capacity
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[31Dec2024 23:34:44.768] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/cpu_capacity
+[31Dec2024 23:34:44.769] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[31Dec2024 23:34:44.779] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[31Dec2024 23:34:44.780] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@537ca28e
+[31Dec2024 23:34:44.780] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@4783da3f
+[31Dec2024 23:34:44.793] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31Dec2024 23:34:44.793] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31Dec2024 23:34:44.807] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b236dcd7-8d93-4882-b14f-ead3715a4043
+[31Dec2024 23:34:44.816] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 74f6373c-5938-4b75-9bef-3f4ace9f4775
+[31Dec2024 23:34:44.817] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-Disem-MSX-2/servidor_minecraft/./crash-reports/crash-2024-12-31_23.34.44-server.txt

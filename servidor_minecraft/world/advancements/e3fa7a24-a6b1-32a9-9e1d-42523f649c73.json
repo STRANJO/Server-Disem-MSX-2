@@ -116,6 +116,7 @@
       "minecraft:birch_forest": "2024-12-24 00:23:44 +0000",
       "minecraft:beach": "2024-12-24 00:21:21 +0000",
       "minecraft:dark_forest": "2024-12-26 15:46:34 +0000",
+      "minecraft:sparse_jungle": "2024-12-31 23:21:27 +0000",
       "minecraft:river": "2024-12-24 00:22:49 +0000",
       "minecraft:lukewarm_ocean": "2024-12-25 23:42:19 +0000",
       "minecraft:dripstone_caves": "2024-12-24 03:12:06 +0000",
@@ -642,6 +643,7 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-24 00:23:27 +0000",
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000",
       "has_iron_ingot": "2024-12-28 02:11:16 +0000"
     },
     "done": false
@@ -2757,7 +2759,8 @@
   },
   "supplementaries:recipes/checker": {
     "criteria": {
-      "has_cobblestone": "2024-12-24 00:31:08 +0000"
+      "has_cobblestone": "2024-12-24 00:31:08 +0000",
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },
@@ -5341,9 +5344,11 @@
       "pumpkin_pie": "2024-12-25 22:53:33 +0000",
       "bread": "2024-12-24 02:10:34 +0000",
       "golden_apple": "2024-12-25 23:30:24 +0000",
+      "glow_berries": "2024-12-31 23:28:51 +0000",
       "melon_slice": "2024-12-29 04:03:05 +0000",
       "golden_carrot": "2024-12-27 05:20:01 +0000",
       "cooked_chicken": "2024-12-29 03:57:50 +0000",
+      "mushroom_stew": "2024-12-31 23:18:25 +0000",
       "carrot": "2024-12-26 05:08:59 +0000"
     },
     "done": false
@@ -6212,6 +6217,7 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2024-12-28 03:56:34 +0000",
+      "has_blackstone": "2024-12-31 23:23:43 +0000",
       "minecraft:wooden_slabs": "2024-12-24 19:03:13 +0000"
     },
     "done": false
@@ -6554,9 +6560,10 @@
   },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
+      "has_wood": "2024-12-31 23:23:43 +0000",
       "has_the_recipe": "2024-12-24 19:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
@@ -8168,6 +8175,7 @@
     "criteria": {
       "has_brown_mushroom": "2024-12-26 15:44:58 +0000",
       "has_mushroom_stew": "2024-12-29 23:45:10 +0000",
+      "has_bowl": "2024-12-31 23:18:25 +0000",
       "has_red_mushroom": "2024-12-30 00:10:10 +0000"
     },
     "done": false
@@ -11803,15 +11811,129 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-31 23:03:14 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },
@@ -11827,9 +11949,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-31 23:05:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },
@@ -11851,9 +11997,87 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },
@@ -11869,9 +12093,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },

@@ -897,3 +897,124 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 23:10:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2319.500000, 148.500000, -513.500000]
 [31Dec2024 23:10:32.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2329.500000, 148.500000, -515.500000]
 [31Dec2024 23:11:18.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[31Dec2024 23:13:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was killed by Area Effect Cloud using magic
+[31Dec2024 23:13:32.584] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[31Dec2024 23:13:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2316.500000, 138.500000, -519.500000]
+[31Dec2024 23:13:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Husk
+[31Dec2024 23:13:37.264] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 23:13:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2315.500000, 138.500000, -519.500000]
+[31Dec2024 23:13:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was killed by Area Effect Cloud using magic
+[31Dec2024 23:13:54.479] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[31Dec2024 23:13:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2317.500000, 138.500000, -519.500000]
+[31Dec2024 23:16:04.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved wrongly!
+[31Dec2024 23:20:36.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:20:43.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Great minds think alike]
+[31Dec2024 23:21:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Knowledge raises the soul]
+[31Dec2024 23:21:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Die Classy]
+[31Dec2024 23:23:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:26:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:27:10.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 23:28:08.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2358, y=8, z=-599} BlockPos{x=2359, y=8, z=-598}
+[31Dec2024 23:29:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[31Dec2024 23:30:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2328.500000, 108.500000, -751.500000]
+[31Dec2024 23:31:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2416.500000, 162.500000, -585.500000]
+[31Dec2024 23:31:06.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[31Dec2024 23:31:26.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2396, y=169, z=-584} BlockPos{x=2395, y=167, z=-585}
+[31Dec2024 23:31:29.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:31:29.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2388, y=169, z=-589} BlockPos{x=2389, y=167, z=-589}
+[31Dec2024 23:32:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2506.500000, 126.500000, -630.500000]
+[31Dec2024 23:33:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2380.500000, 127.500000, -808.500000]
+[31Dec2024 23:33:43.053] [Server thread/ERROR] [net.minecraft.util.ThreadingDetector/]: Thread dumps: 
+Server thread: 
+	at java.base/java.lang.Thread.getStackTrace(Thread.java:2451)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199420_(ThreadingDetector.java:92)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:82)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47038_(NaturalSpawner.java:150)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47045_(NaturalSpawner.java:118)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.NaturalSpawner.m_47029_(NaturalSpawner.java:108)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:358)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[31Dec2024 23:33:43.056] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.util.ThreadingDetector.m_199417_(ThreadingDetector.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.levelgen.LegacyRandomSource.m_64707_(LegacyRandomSource.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.levelgen.BitRandomSource.m_188503_(BitRandomSource.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47038_(NaturalSpawner.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47045_(NaturalSpawner.java:118) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.world.level.NaturalSpawner.m_47029_(NaturalSpawner.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:358) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	... 5 more
+[31Dec2024 23:33:43.094] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0f9d1adf-ad4c-4e68-8672-36941fbad526
+[31Dec2024 23:33:43.094] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/Server-Disem-MSX-2/servidor_minecraft/./crash-reports/crash-2024-12-31_23.33.43-server.txt
+[31Dec2024 23:33:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 23:33:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Server closed
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[31Dec2024 23:33:43.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 23:33:43.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 23:33:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 23:33:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[31Dec2024 23:33:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[31Dec2024 23:33:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 23:33:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[31Dec2024 23:33:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[31Dec2024 23:33:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[31Dec2024 23:33:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[31Dec2024 23:33:46.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 23:33:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[31Dec2024 23:33:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[31Dec2024 23:33:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[31Dec2024 23:33:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[31Dec2024 23:33:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[31Dec2024 23:33:46.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[31Dec2024 23:33:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[31Dec2024 23:33:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 23:33:46.392] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Dec2024 23:33:46.394] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Dec2024 23:33:46.395] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Dec2024 23:34:44.439] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[31Dec2024 23:34:44.439] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[31Dec2024 23:34:44.807] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b236dcd7-8d93-4882-b14f-ead3715a4043
+[31Dec2024 23:34:44.816] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 74f6373c-5938-4b75-9bef-3f4ace9f4775
+[31Dec2024 23:34:44.817] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-Disem-MSX-2/servidor_minecraft/./crash-reports/crash-2024-12-31_23.34.44-server.txt
