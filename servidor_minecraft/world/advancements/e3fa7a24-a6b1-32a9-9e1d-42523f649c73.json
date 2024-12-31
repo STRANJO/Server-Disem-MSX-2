@@ -1317,12 +1317,14 @@
   },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
+      "has_result": "2024-12-31 01:14:56 +0000",
       "has_ingredient": "2024-12-24 00:26:52 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
+      "has_result": "2024-12-31 01:14:56 +0000",
       "has_ingredient": "2024-12-24 00:26:52 +0000"
     },
     "done": false

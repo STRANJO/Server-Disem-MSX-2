@@ -1434,6 +1434,7 @@
   },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
+      "has_brown_wool": "2024-12-31 01:26:29 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -3838,6 +3839,7 @@
   },
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
+      "has_wool": "2024-12-31 01:26:29 +0000",
       "has_iron": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -12689,9 +12691,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2024-12-31 01:24:51 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2024-12-31 00:53:52 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-31 01:28:45 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/brown_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-31 01:23:17 +0000"
     },
     "done": false
   },
@@ -12701,9 +12727,27 @@
     },
     "done": false
   },
+  "wool_collection:recipes/redstone/brown_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/brown_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-12-31 00:59:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-31 01:21:56 +0000"
     },
     "done": false
   },
@@ -12713,9 +12757,21 @@
     },
     "done": false
   },
+  "wool_collection:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-31 01:01:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-31 01:24:51 +0000"
     },
     "done": false
   },
@@ -12725,9 +12781,21 @@
     },
     "done": false
   },
+  "wool_collection:recipes/building_blocks/brown_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2024-12-31 01:04:28 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/brown_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
     },
     "done": false
   },
@@ -12737,9 +12805,45 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-31 01:23:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2024-12-31 00:59:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2024-12-31 01:24:51 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-31 01:26:29 +0000"
     },
     "done": false
   },
@@ -12749,9 +12853,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-31 01:19:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-31 00:53:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-31 01:23:17 +0000"
     },
     "done": false
   },
@@ -12767,9 +12889,39 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 01:24:51 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2024-12-31 01:21:56 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/brown_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-31 01:01:06 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_trigger_item": "2024-12-31 01:26:29 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-31 01:23:17 +0000"
     },
     "done": false
   },
