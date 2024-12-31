@@ -766,3 +766,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 00:29:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [What a Deal!]
 [31Dec2024 00:29:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [First Trade]
 [31Dec2024 00:30:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 738.500000, 67.500000, -2722.500000]
+[31Dec2024 00:33:08.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 00:33:34.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
+[31Dec2024 00:39:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 1019.500000, 67.500000, -2857.500000]
+[31Dec2024 00:39:14.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=815, y=-39, z=-3034}
+[31Dec2024 00:39:14.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=814, y=-39, z=-3034}
+[31Dec2024 00:39:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 1024.500000, 70.500000, -2804.500000]
