@@ -8713,9 +8713,10 @@
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "has_black_wool": "2024-12-28 02:12:18 +0000"
+      "has_black_wool": "2024-12-28 02:12:18 +0000",
+      "has_the_recipe": "2024-12-31 02:25:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
@@ -9722,9 +9723,10 @@
   },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
-      "has_light_gray_wool": "2024-12-29 04:14:16 +0000"
+      "has_light_gray_wool": "2024-12-29 04:14:16 +0000",
+      "has_the_recipe": "2024-12-31 02:25:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
@@ -11272,6 +11274,12 @@
     },
     "done": false
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2024-12-31 02:32:59 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2024-12-31 00:43:59 +0000"
@@ -11334,6 +11342,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
@@ -11376,15 +11390,39 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-31 00:47:14 +0000"
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-31 02:20:45 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_dark_oak_crate": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
     },
     "done": false
   },
@@ -11421,6 +11459,12 @@
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
     },
     "done": false
   },
@@ -11476,6 +11520,12 @@
   "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall": {
+    "criteria": {
+      "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
     },
     "done": false
   },

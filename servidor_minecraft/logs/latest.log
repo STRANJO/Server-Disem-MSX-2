@@ -824,3 +824,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:01:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto burned to death
 [31Dec2024 02:01:43.056] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [31Dec2024 02:01:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 685.500000, 108.500000, -334.500000]
+[31Dec2024 02:19:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 02:21:15.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
+[31Dec2024 02:22:16.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 591.500000, 81.500000, -2754.500000]
+[31Dec2024 02:22:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 657.500000, 67.500000, -2804.500000]
+[31Dec2024 02:22:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 02:23:05.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 487.500000, 76.500000, -2761.500000]
+[31Dec2024 02:23:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 432.500000, 63.500000, -2619.500000]
+[31Dec2024 02:24:19.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 02:24:19.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 02:24:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 614.500000, 82.500000, -2726.500000]
+[31Dec2024 02:29:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
+[31Dec2024 02:29:16.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 02:30:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 109.500000, 63.500000, 332.500000]
+[31Dec2024 02:30:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
+[31Dec2024 02:32:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3094.500000, 83.500000, -2007.500000]
+[31Dec2024 02:32:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2978.500000, 71.500000, -1985.500000]
+[31Dec2024 02:32:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2967.500000, 87.500000, -1986.500000]
+[31Dec2024 02:32:31.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2996.500000, 83.500000, -2125.500000]
+[31Dec2024 02:32:58.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 2642.500000, 63.500000, -2213.500000]
+[31Dec2024 02:33:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 02:33:11.865] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=2821, y=72, z=-2341}
+[31Dec2024 02:33:15.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[31Dec2024 02:33:21.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 610.500000, 76.500000, -2727.500000]
