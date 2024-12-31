@@ -3363,16 +3363,21 @@
     "criteria": {
       "minecraft:pillager": "2024-12-31 04:47:59 +0000",
       "minecraft:skeleton": "2024-12-24 01:30:25 +0000",
+      "minecraft:ravager": "2024-12-31 04:56:32 +0000",
       "minecraft:hoglin": "2024-12-29 04:53:34 +0000",
+      "minecraft:vindicator": "2024-12-31 04:53:33 +0000",
       "minecraft:spider": "2024-12-24 01:08:56 +0000",
       "minecraft:creeper": "2024-12-24 01:55:27 +0000",
+      "minecraft:evoker": "2024-12-31 04:58:49 +0000",
       "minecraft:phantom": "2024-12-31 03:49:57 +0000",
       "minecraft:zombified_piglin": "2024-12-30 01:18:14 +0000",
+      "minecraft:witch": "2024-12-31 04:57:41 +0000",
       "minecraft:wither_skeleton": "2024-12-27 04:41:05 +0000",
       "minecraft:husk": "2024-12-29 03:48:04 +0000",
       "minecraft:cave_spider": "2024-12-30 00:42:15 +0000",
       "minecraft:silverfish": "2024-12-24 03:13:55 +0000",
       "minecraft:enderman": "2024-12-29 03:01:38 +0000",
+      "minecraft:vex": "2024-12-31 04:59:28 +0000",
       "minecraft:zombie": "2024-12-24 00:43:05 +0000",
       "minecraft:drowned": "2024-12-24 02:57:26 +0000",
       "minecraft:zombie_villager": "2024-12-29 02:58:37 +0000"
@@ -3383,15 +3388,20 @@
     "criteria": {
       "minecraft:pillager": "2024-12-31 04:47:59 +0000",
       "minecraft:skeleton": "2024-12-28 01:35:19 +0000",
+      "minecraft:ravager": "2024-12-31 04:56:32 +0000",
       "minecraft:hoglin": "2024-12-29 04:53:34 +0000",
+      "minecraft:vindicator": "2024-12-31 04:53:33 +0000",
       "minecraft:spider": "2024-12-28 01:34:37 +0000",
       "minecraft:creeper": "2024-12-28 01:35:49 +0000",
+      "minecraft:evoker": "2024-12-31 04:58:49 +0000",
       "minecraft:phantom": "2024-12-31 03:49:57 +0000",
       "minecraft:zombified_piglin": "2024-12-30 01:18:14 +0000",
+      "minecraft:witch": "2024-12-31 04:57:41 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:34:19 +0000",
       "minecraft:husk": "2024-12-29 03:48:04 +0000",
       "minecraft:cave_spider": "2024-12-30 00:42:15 +0000",
       "minecraft:enderman": "2024-12-29 03:01:38 +0000",
+      "minecraft:vex": "2024-12-31 04:59:28 +0000",
       "minecraft:zombie": "2024-12-24 00:43:05 +0000",
       "minecraft:zombie_villager": "2024-12-29 02:58:37 +0000"
     },
@@ -4143,6 +4153,7 @@
       "pumpkin_pie": "2024-12-28 04:04:50 +0000",
       "mutton": "2024-12-27 05:05:08 +0000",
       "bread": "2024-12-28 02:03:39 +0000",
+      "golden_apple": "2024-12-31 04:59:10 +0000",
       "rotten_flesh": "2024-12-24 01:45:06 +0000",
       "melon_slice": "2024-12-30 01:10:02 +0000",
       "cooked_chicken": "2024-12-27 05:27:21 +0000",
@@ -12036,9 +12047,21 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-31 05:00:25 +0000"
     },
     "done": false
   },
@@ -12198,6 +12221,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-31 03:55:43 +0000"
@@ -12246,6 +12275,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_jungle": "2024-12-31 04:47:51 +0000"
@@ -12264,6 +12299,12 @@
     },
     "done": false
   },
+  "more_recipes_and_more:totem": {
+    "criteria": {
+      "totem_0": "2024-12-31 05:00:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
@@ -12280,6 +12321,18 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-31 03:55:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
     },
     "done": false
   },
@@ -12343,6 +12396,12 @@
     },
     "done": false
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/light_blue_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-31 03:56:00 +0000"
@@ -12379,9 +12438,27 @@
     },
     "done": false
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-31 05:03:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dye_black_picket_gate": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
     },
     "done": false
   },
@@ -12418,6 +12495,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
     "criteria": {
       "has_blue_dye": "2024-12-31 03:55:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
     },
     "done": false
   },
@@ -12511,6 +12594,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-31 05:00:25 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
@@ -12544,6 +12633,12 @@
   "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
     },
     "done": false
   },
@@ -12673,6 +12768,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 04:58:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12751,6 +12852,18 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-31 04:51:22 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12775,6 +12888,12 @@
     },
     "done": false
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-31 05:04:32 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12787,9 +12906,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-31 05:03:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
     "criteria": {
       "has_light_blue_dye": "2024-12-31 03:56:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-31 04:51:22 +0000"
     },
     "done": false
   },

@@ -120,6 +120,7 @@
       "minecraft:dripstone_caves": "2024-12-24 03:12:06 +0000",
       "minecraft:forest": "2024-12-24 00:21:47 +0000",
       "minecraft:lush_caves": "2024-12-24 00:35:41 +0000",
+      "minecraft:desert": "2024-12-31 04:52:32 +0000",
       "minecraft:ocean": "2024-12-24 00:25:23 +0000",
       "minecraft:jungle": "2024-12-29 05:19:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:27:52 +0000",
@@ -11688,6 +11689,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-31 04:57:51 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2024-12-31 03:47:09 +0000"
@@ -11709,6 +11716,12 @@
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-31 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-31 05:02:14 +0000"
     },
     "done": false
   },

@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-31 05:00:38 +0000",
       "minecraft:birch_forest": "2024-12-24 01:59:59 +0000",
       "minecraft:beach": "2024-12-24 01:41:10 +0000",
       "minecraft:river": "2024-12-24 01:50:33 +0000",
@@ -116,9 +117,12 @@
       "minecraft:dripstone_caves": "2024-12-27 05:40:48 +0000",
       "minecraft:forest": "2024-12-24 01:42:44 +0000",
       "minecraft:lush_caves": "2024-12-24 01:51:36 +0000",
+      "minecraft:desert": "2024-12-31 04:52:30 +0000",
       "minecraft:ocean": "2024-12-29 05:19:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 01:59:10 +0000",
       "minecraft:warm_ocean": "2024-12-31 04:40:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-31 04:59:14 +0000",
+      "minecraft:flower_forest": "2024-12-31 05:00:57 +0000",
       "minecraft:deep_dark": "2024-12-27 04:56:22 +0000",
       "minecraft:meadow": "2024-12-24 03:00:34 +0000"
     },
@@ -1868,6 +1872,7 @@
       "rocky_shrubland": "2024-12-29 05:14:29 +0000",
       "scrubland": "2024-12-31 04:35:58 +0000",
       "floodplain": "2024-12-29 04:02:10 +0000",
+      "lush_savanna": "2024-12-31 04:55:33 +0000",
       "highland": "2024-12-30 02:51:10 +0000",
       "jacaranda_glade": "2024-12-30 02:33:46 +0000",
       "jade_cliffs": "2024-12-30 02:52:36 +0000",
@@ -1875,6 +1880,7 @@
       "orchard": "2024-12-29 04:43:38 +0000",
       "overgrown_greens": "2024-12-24 01:51:37 +0000",
       "spider_nest": "2024-12-29 04:37:11 +0000",
+      "dryland": "2024-12-31 04:57:37 +0000",
       "wasteland": "2024-12-31 04:42:29 +0000",
       "lush_desert": "2024-12-31 04:41:35 +0000",
       "redwood_forest": "2024-12-29 04:41:31 +0000",
@@ -1884,6 +1890,7 @@
       "lavender_field": "2024-12-29 03:56:53 +0000",
       "grassland": "2024-12-29 04:04:13 +0000",
       "prairie": "2024-12-29 04:40:46 +0000",
+      "glowing_grotto": "2024-12-31 05:10:17 +0000",
       "rainforest": "2024-12-29 04:01:59 +0000"
     },
     "done": false
@@ -1894,6 +1901,7 @@
       "rocky_shrubland": "2024-12-29 05:14:29 +0000",
       "scrubland": "2024-12-31 04:35:58 +0000",
       "floodplain": "2024-12-29 04:02:10 +0000",
+      "lush_savanna": "2024-12-31 04:55:33 +0000",
       "highland": "2024-12-24 02:55:59 +0000",
       "jacaranda_glade": "2024-12-24 02:56:05 +0000",
       "jade_cliffs": "2024-12-24 02:55:33 +0000",
@@ -1901,6 +1909,7 @@
       "orchard": "2024-12-24 04:01:04 +0000",
       "overgrown_greens": "2024-12-24 01:51:37 +0000",
       "spider_nest": "2024-12-29 04:37:11 +0000",
+      "dryland": "2024-12-31 04:57:37 +0000",
       "wasteland": "2024-12-31 04:42:29 +0000",
       "lush_desert": "2024-12-31 04:41:35 +0000",
       "redwood_forest": "2024-12-24 02:49:55 +0000",
@@ -4415,7 +4424,8 @@
       "minecraft:phantom": "2024-12-29 04:54:22 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:54:26 +0000",
       "minecraft:vex": "2024-12-29 04:09:20 +0000",
-      "minecraft:zombie": "2024-12-29 04:03:06 +0000"
+      "minecraft:zombie": "2024-12-29 04:03:06 +0000",
+      "minecraft:zombie_villager": "2024-12-31 04:59:42 +0000"
     },
     "done": false
   },
@@ -4619,13 +4629,15 @@
   },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
-      "has_result": "2024-12-24 03:08:21 +0000"
+      "has_result": "2024-12-24 03:08:21 +0000",
+      "has_ingredient": "2024-12-31 04:59:42 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
-      "has_result": "2024-12-24 03:08:21 +0000"
+      "has_result": "2024-12-24 03:08:21 +0000",
+      "has_ingredient": "2024-12-31 04:59:42 +0000"
     },
     "done": false
   },
@@ -7176,6 +7188,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 04:59:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-31 04:59:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 05:14:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 04:59:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
@@ -7215,6 +7251,18 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-31 04:48:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 05:14:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-31 04:59:42 +0000"
     },
     "done": false
   },
