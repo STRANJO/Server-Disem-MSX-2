@@ -7138,6 +7138,8 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
+      "has_golden_sword": "2024-12-31 05:53:47 +0000",
+      "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
       "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
@@ -7177,6 +7179,8 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
+      "has_golden_sword": "2024-12-31 05:53:47 +0000",
+      "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
       "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
@@ -13530,15 +13534,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-31 05:54:01 +0000"
+    },
+    "done": false
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2024-12-31 05:41:00 +0000"
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2024-12-31 05:53:45 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2024-12-31 05:59:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-31 05:54:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-31 05:53:39 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-31 05:53:53 +0000"
     },
     "done": false
   },

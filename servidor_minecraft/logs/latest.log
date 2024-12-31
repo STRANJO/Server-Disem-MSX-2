@@ -1867,3 +1867,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 05:55:22.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
 [31Dec2024 05:55:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
 [31Dec2024 05:55:22.378] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 05:58:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
