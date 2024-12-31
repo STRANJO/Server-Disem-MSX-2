@@ -4456,6 +4456,7 @@
   },
   "supplementaries:recipes/cage": {
     "criteria": {
+      "has_iron_bars": "2024-12-31 04:26:19 +0000",
       "minecraft:wooden_slabs": "2024-12-29 05:14:28 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
@@ -12090,6 +12091,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2024-12-31 04:21:09 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12505,6 +12512,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-31 04:21:06 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
@@ -12694,6 +12707,12 @@
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-31 04:21:06 +0000"
     },
     "done": false
   },
