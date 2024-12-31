@@ -1717,3 +1717,111 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 05:24:59.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8877ms or 177 ticks behind
 [31Dec2024 05:25:22.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8123ms or 162 ticks behind
 [31Dec2024 05:25:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 299.500000, 51.500000, 1643.500000]
+[31Dec2024 05:25:54.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17445ms or 348 ticks behind
+[31Dec2024 05:25:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 12.500000, 65.500000, 37.500000]
+[31Dec2024 05:26:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:portal:P:12:65:37:2:false:0:Internal-the-nether-waypoints
+[31Dec2024 05:26:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Silverqueen
+[31Dec2024 05:26:21.779] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[31Dec2024 05:26:21.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.31472426150600086,1.7531999805212024,9.893005198302717
+[31Dec2024 05:26:21.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
+[31Dec2024 05:26:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 245.500000, 156.500000, 1726.500000]
+[31Dec2024 05:26:40.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[31Dec2024 05:26:40.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Dec2024 05:26:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Enderman
+[31Dec2024 05:26:51.408] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 05:26:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 169.500000, 158.500000, 1846.500000]
+[31Dec2024 05:26:57.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 663.500000, 108.500000, -339.500000]
+[31Dec2024 05:27:02.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6927ms or 138 ticks behind
+[31Dec2024 05:27:02.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 178.500000, 173.500000, 1859.500000]
+[31Dec2024 05:27:18.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 200.500000, 160.500000, 1868.500000]
+[31Dec2024 05:28:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -8.500000, 180.500000, 1855.500000]
+[31Dec2024 05:28:26.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[31Dec2024 05:28:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[31Dec2024 05:28:26.259] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 05:28:42.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -63.500000, 173.500000, 2007.500000]
+[31Dec2024 05:29:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -37.500000, 124.500000, 2160.500000]
+[31Dec2024 05:29:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -14.500000, 104.500000, 2183.500000]
+[31Dec2024 05:29:29.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Dec2024 05:29:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -22.500000, 93.500000, 2185.500000]
+[31Dec2024 05:29:55.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10669ms or 213 ticks behind
+[31Dec2024 05:29:59.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:65389] logged in with entity id 114509 at (600.0748483122089, 65.0, -2726.293736257434)
+[31Dec2024 05:29:59.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[31Dec2024 05:29:59.339] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[31Dec2024 05:29:59.339] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[31Dec2024 05:29:59.339] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[31Dec2024 05:29:59.341] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[31Dec2024 05:29:59.944] [Netty Epoll Server IO #12/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[31Dec2024 05:30:24.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -30.500000, 77.500000, 2221.500000]
+[31Dec2024 05:30:31.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 649.500000, 108.500000, -340.500000]
+[31Dec2024 05:30:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 108.500000, 146.500000, 2252.500000]
+[31Dec2024 05:30:34.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24033ms or 480 ticks behind
+[31Dec2024 05:30:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 988.500000, 218.500000, -2770.500000]
+[31Dec2024 05:30:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Creative Mode]
+[31Dec2024 05:31:18.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Survival Mode]
+[31Dec2024 05:31:39.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Forged in Flames]
+[31Dec2024 05:31:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:31:55.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[31Dec2024 05:32:14.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[31Dec2024 05:32:14.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[31Dec2024 05:32:14.874] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 05:32:45.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c31d9ec[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:59220) lost connection: Disconnected
+[31Dec2024 05:33:07.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d653ea[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:59238) lost connection: Disconnected
+[31Dec2024 05:33:21.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 12.500000, 65.500000, 37.500000]
+[31Dec2024 05:33:22.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d60102c[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:59261) lost connection: Disconnected
+[31Dec2024 05:33:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 05:34:50.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:59344] logged in with entity id 118935 at (130.30000001192093, 129.0, 2280.3404002893785)
+[31Dec2024 05:34:50.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[31Dec2024 05:34:50.355] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[31Dec2024 05:34:50.355] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[31Dec2024 05:34:50.355] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[31Dec2024 05:34:50.357] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[31Dec2024 05:34:52.212] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[31Dec2024 05:35:26.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/118381, l='ServerLevel[world]', x=640.03, y=74.00, z=-2671.39] died, message: 'Unemployed was slain by Zombie'
+[31Dec2024 05:36:32.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 198.500000, 5.500000, 524.500000]
+[31Dec2024 05:36:53.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Dec2024 05:37:14.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6344ms or 126 ticks behind
+[31Dec2024 05:37:40.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11101ms or 222 ticks behind
+[31Dec2024 05:37:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 649.500000, 108.500000, -340.500000]
+[31Dec2024 05:38:16.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20320ms or 406 ticks behind
+[31Dec2024 05:39:00.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29638ms or 592 ticks behind
+[31Dec2024 05:39:13.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:39:48.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32769ms or 655 ticks behind
+[31Dec2024 05:40:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Those Were the Days]
+[31Dec2024 05:40:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was doomed to fall by Piglin
+[31Dec2024 05:40:16.282] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[31Dec2024 05:40:20.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=87, z=2373} BlockPos{x=111, y=87, z=2374}
+[31Dec2024 05:40:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 271.500000, 98.500000, 2456.500000]
+[31Dec2024 05:40:29.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26526ms or 530 ticks behind
+[31Dec2024 05:40:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 307.500000, 63.500000, 2493.500000]
+[31Dec2024 05:40:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Radioactive]
+[31Dec2024 05:40:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[31Dec2024 05:40:43.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Radioactive]
+[31Dec2024 05:40:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 198.500000, 5.500000, 524.500000]
+[31Dec2024 05:40:59.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[31Dec2024 05:40:59.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 261.500000, 137.500000, 2615.500000]
+[31Dec2024 05:41:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Ancient Battlefield]
+[31Dec2024 05:41:24.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:41:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Ancient Battlefield]
+[31Dec2024 05:41:29.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 292.500000, 72.500000, 2682.500000]
+[31Dec2024 05:41:29.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15740ms or 314 ticks behind
+[31Dec2024 05:41:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:41:52.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8021ms or 160 ticks behind
+[31Dec2024 05:42:16.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 215.500000, 76.500000, 2797.500000]
+[31Dec2024 05:42:20.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[31Dec2024 05:42:21.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:42:41.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5610ms or 112 ticks behind
+[31Dec2024 05:43:22.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25828ms or 516 ticks behind
+[31Dec2024 05:43:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 377.500000, 115.500000, 2809.500000]
+[31Dec2024 05:43:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[31Dec2024 05:44:15.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38552ms or 771 ticks behind
+[31Dec2024 05:45:11.620] [Server thread/ERROR] [dev.xkmc.l2damagetracker.init.L2DamageTracker/]: attack cache too large: 1001
+[31Dec2024 05:45:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 1615 entities]
+[31Dec2024 05:45:24.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 53176ms or 1063 ticks behind
+[31Dec2024 05:45:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 219 entities]
+[31Dec2024 05:45:46.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=205, y=10, z=457} BlockPos{x=206, y=8, z=457}
+[31Dec2024 05:45:47.655] [Server thread/ERROR] [dev.xkmc.l2damagetracker.init.L2DamageTracker/]: attack cache too large: 1001
+[31Dec2024 05:45:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 1047 entities]
+[31Dec2024 05:45:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 559 entities]
+[31Dec2024 05:46:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 250 entities]
+[31Dec2024 05:46:05.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26616ms or 532 ticks behind
+[31Dec2024 05:46:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 149 entities]
