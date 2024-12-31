@@ -3150,6 +3150,7 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-24 00:19:41 +0000",
+      "iron_leggings": "2024-12-31 00:51:24 +0000",
       "iron_helmet": "2024-12-31 00:26:41 +0000"
     },
     "done": false
@@ -3158,6 +3159,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-29 04:09:32 +0000",
       "has_iron_horse_armor": "2024-12-29 05:02:39 +0000",
+      "has_iron_leggings": "2024-12-31 00:51:24 +0000",
       "has_iron_helmet": "2024-12-31 00:26:41 +0000",
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
       "has_chainmail_chestplate": "2024-12-28 03:33:19 +0000",
@@ -3169,6 +3171,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-29 04:09:32 +0000",
       "has_iron_horse_armor": "2024-12-29 05:02:39 +0000",
+      "has_iron_leggings": "2024-12-31 00:51:24 +0000",
       "has_iron_helmet": "2024-12-31 00:26:41 +0000",
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
       "has_chainmail_chestplate": "2024-12-28 03:33:19 +0000",
@@ -7090,7 +7093,8 @@
     "criteria": {
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
-      "has_golden_chestplate": "2024-12-29 05:02:39 +0000"
+      "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
+      "has_golden_shovel": "2024-12-31 00:50:13 +0000"
     },
     "done": false
   },
@@ -7128,7 +7132,8 @@
     "criteria": {
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
-      "has_golden_chestplate": "2024-12-29 05:02:39 +0000"
+      "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
+      "has_golden_shovel": "2024-12-31 00:50:13 +0000"
     },
     "done": false
   },
@@ -7657,6 +7662,7 @@
   },
   "supplementaries:recipes/candy": {
     "criteria": {
+      "has_sugar": "2024-12-31 00:57:24 +0000",
       "has_paper": "2024-12-24 05:30:08 +0000"
     },
     "done": false
@@ -8061,6 +8067,7 @@
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
+      "diamond_helmet": "2024-12-31 00:44:07 +0000",
       "diamond_chestplate": "2024-12-29 05:02:49 +0000",
       "diamond_boots": "2024-12-24 19:31:14 +0000"
     },
@@ -8893,7 +8900,8 @@
   },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "forge:eggs": "2024-12-25 23:02:51 +0000"
+      "forge:eggs": "2024-12-25 23:02:51 +0000",
+      "has_sugar": "2024-12-31 00:57:24 +0000"
     },
     "done": false
   },
@@ -11987,9 +11995,10 @@
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_ancient_debris": "2024-12-30 01:23:56 +0000"
+      "has_ancient_debris": "2024-12-30 01:23:56 +0000",
+      "has_the_recipe": "2024-12-31 00:55:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
@@ -12674,6 +12683,30 @@
       "legendaryweapon_0": "2024-12-30 03:34:30 +0000"
     },
     "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-31 00:53:52 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-31 00:57:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-31 00:53:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-31 00:53:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
