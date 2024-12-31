@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-31 23:07:22 +0000",
       "minecraft:deep_ocean": "2024-12-31 04:04:28 +0000",
       "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
@@ -2230,6 +2231,7 @@
       "minecraft:zombified_piglin": "2024-12-29 23:14:03 +0000",
       "minecraft:witch": "2024-12-24 19:34:29 +0000",
       "minecraft:wither_skeleton": "2024-12-24 19:30:58 +0000",
+      "minecraft:husk": "2024-12-31 23:08:37 +0000",
       "minecraft:cave_spider": "2024-12-24 03:55:15 +0000",
       "minecraft:piglin": "2024-12-30 02:03:34 +0000",
       "minecraft:enderman": "2024-12-24 03:01:47 +0000",
@@ -2265,6 +2267,7 @@
       "minecraft:zombified_piglin": "2024-12-29 23:14:03 +0000",
       "minecraft:witch": "2024-12-30 01:48:01 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:56:49 +0000",
+      "minecraft:husk": "2024-12-31 23:08:37 +0000",
       "minecraft:cave_spider": "2024-12-28 03:11:33 +0000",
       "minecraft:piglin": "2024-12-30 02:03:34 +0000",
       "minecraft:enderman": "2024-12-28 23:09:54 +0000",
@@ -3242,6 +3245,7 @@
       "brewingstand": "2024-12-24 00:19:52 +0000",
       "smoker": "2024-12-28 04:13:48 +0000",
       "blastfurnace": "2024-12-28 04:11:06 +0000",
+      "lectern": "2024-12-31 22:49:48 +0000",
       "stonecutter": "2024-12-29 23:47:31 +0000",
       "cauldron": "2024-12-30 01:08:41 +0000"
     },
@@ -3252,6 +3256,7 @@
       "brewingstand": "2024-12-24 00:19:52 +0000",
       "smoker": "2024-12-24 02:59:02 +0000",
       "blastfurnace": "2024-12-24 01:33:41 +0000",
+      "lectern": "2024-12-31 22:49:48 +0000",
       "stonecutter": "2024-12-24 00:27:45 +0000",
       "cauldron": "2024-12-30 01:08:41 +0000"
     },
@@ -13665,6 +13670,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-31 23:02:34 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
@@ -13707,6 +13718,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-31 22:39:27 +0000"
@@ -13728,6 +13745,12 @@
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-31 22:49:47 +0000"
     },
     "done": false
   },
@@ -13803,6 +13826,18 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2024-12-31 22:39:27 +0000"
@@ -13812,6 +13847,12 @@
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
     },
     "done": false
   },
@@ -13836,6 +13877,12 @@
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-31 22:39:27 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-31 23:03:19 +0000"
     },
     "done": false
   },
