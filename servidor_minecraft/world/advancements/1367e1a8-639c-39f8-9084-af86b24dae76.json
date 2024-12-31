@@ -1865,6 +1865,7 @@
     "criteria": {
       "shrubland": "2024-12-29 05:17:29 +0000",
       "rocky_shrubland": "2024-12-29 05:14:29 +0000",
+      "scrubland": "2024-12-31 04:35:58 +0000",
       "floodplain": "2024-12-29 04:02:10 +0000",
       "highland": "2024-12-30 02:51:10 +0000",
       "jacaranda_glade": "2024-12-30 02:33:46 +0000",
@@ -1888,6 +1889,7 @@
     "criteria": {
       "shrubland": "2024-12-24 02:03:45 +0000",
       "rocky_shrubland": "2024-12-29 05:14:29 +0000",
+      "scrubland": "2024-12-31 04:35:58 +0000",
       "floodplain": "2024-12-29 04:02:10 +0000",
       "highland": "2024-12-24 02:55:59 +0000",
       "jacaranda_glade": "2024-12-24 02:56:05 +0000",
@@ -6833,85 +6835,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mcwwindows:recipes/parapets": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
+      "has_wood": "2024-12-30 02:36:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "mcwwindows:recipes/shutters": {
     "criteria": {
-      "requirement": "2024-12-30 03:32:43 +0000",
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "direct": "2024-12-30 03:32:47 +0000",
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
+      "has_wood": "2024-12-30 02:36:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "mcwwindows:recipes/blinds": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
+      "has_wood": "2024-12-30 02:36:27 +0000"
     },
     "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 03:32:36 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/discover_candy_cavity": {
-    "criteria": {
-      "discover": "2024-12-30 03:15:32 +0000"
-    },
-    "done": true
   },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
@@ -6922,28 +6862,6 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-30 03:32:46 +0000",
-      "!bit13": "2024-12-30 03:32:46 +0000",
-      "!bit14": "2024-12-30 03:32:46 +0000",
-      "!bit11": "2024-12-30 03:32:46 +0000",
-      "!bit12": "2024-12-30 03:32:46 +0000",
-      "not_target": "2024-12-30 03:32:46 +0000",
-      "!bit10": "2024-12-30 03:32:46 +0000",
-      "!bit9": "2024-12-30 03:32:46 +0000",
-      "!bit8": "2024-12-30 03:32:46 +0000",
-      "!bit7": "2024-12-30 03:32:46 +0000",
-      "!bit6": "2024-12-30 03:32:46 +0000",
-      "!bit5": "2024-12-30 03:32:46 +0000",
-      "!bit4": "2024-12-30 03:32:46 +0000",
-      "!bit3": "2024-12-30 03:32:46 +0000",
-      "!bit2": "2024-12-30 03:32:46 +0000",
-      "!bit1": "2024-12-30 03:32:46 +0000",
-      "!bit0": "2024-12-30 03:32:46 +0000"
     },
     "done": false
   },
@@ -6959,51 +6877,15 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2024-12-30 03:10:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
     },
     "done": false
   },
-  "mcwwindows:recipes/parapets": {
-    "criteria": {
-      "has_wood": "2024-12-30 02:36:27 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-30 02:46:17 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-30 03:01:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-30 03:01:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-30 03:15:23 +0000"
     },
     "done": false
   },
@@ -7019,27 +6901,9 @@
     },
     "done": false
   },
-  "undead_revamp2:nowyouknow": {
-    "criteria": {
-      "nowyouknow_0": "2024-12-30 03:00:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-30 02:46:17 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2024-12-30 02:36:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-30 02:46:17 +0000"
     },
     "done": false
   },
@@ -7055,45 +6919,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-30 03:01:18 +0000"
-    },
-    "done": false
-  },
-  "mcwwindows:recipes/shutters": {
-    "criteria": {
-      "has_wood": "2024-12-30 02:36:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
     },
     "done": false
   },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2024-12-30 03:23:22 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2024-12-30 03:20:42 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
-    },
-    "done": false
-  },
-  "mcwwindows:recipes/blinds": {
-    "criteria": {
-      "has_wood": "2024-12-30 02:36:27 +0000"
     },
     "done": false
   },
@@ -7115,18 +6949,6 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2024-12-30 03:16:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-30 02:46:17 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
@@ -7145,30 +6967,6 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2024-12-30 03:22:19 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-30 03:15:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-30 03:15:23 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-30 02:37:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
@@ -7180,18 +6978,6 @@
       "has_boat": "2024-12-30 02:36:59 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-30 03:15:23 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-30 02:49:19 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
@@ -7211,12 +6997,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-30 03:01:18 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
@@ -7226,6 +7006,228 @@
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-30 02:36:59 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 02:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 02:46:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-30 02:46:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 02:46:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-30 02:46:17 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-30 02:49:19 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2024-12-30 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 03:01:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 03:01:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 03:01:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 03:01:18 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-30 03:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 03:15:23 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 03:15:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 03:15:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 03:15:23 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-30 03:15:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-30 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-30 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-30 03:22:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-30 03:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2024-12-31 04:38:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
     },
     "done": false
   },

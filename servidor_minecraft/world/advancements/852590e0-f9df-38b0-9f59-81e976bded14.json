@@ -11250,9 +11250,10 @@
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_bone_meal": "2024-12-30 02:59:56 +0000"
+      "has_bone_meal": "2024-12-30 02:59:56 +0000",
+      "has_the_recipe": "2024-12-31 04:33:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
@@ -12079,6 +12080,12 @@
     },
     "done": false
   },
+  "bossominium:skele_slayer": {
+    "criteria": {
+      "skele_slayer": "2024-12-31 04:34:38 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2024-12-31 04:18:38 +0000"
@@ -12608,6 +12615,12 @@
     },
     "done": false
   },
+  "bossominium:skelenados": {
+    "criteria": {
+      "skelenados": "2024-12-31 04:34:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12739,6 +12752,12 @@
       "has_dye": "2024-12-31 03:56:00 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-31 04:36:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
