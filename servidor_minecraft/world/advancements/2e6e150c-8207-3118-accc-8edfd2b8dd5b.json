@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-31 04:04:28 +0000",
       "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
       "minecraft:beach": "2024-12-24 00:03:58 +0000",
@@ -118,8 +119,11 @@
       "minecraft:lush_caves": "2024-12-24 00:35:58 +0000",
       "minecraft:ocean": "2024-12-24 00:25:22 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:28:47 +0000",
+      "minecraft:warm_ocean": "2024-12-31 03:55:37 +0000",
+      "minecraft:flower_forest": "2024-12-31 04:04:53 +0000",
       "minecraft:deep_dark": "2024-12-24 06:02:11 +0000",
       "minecraft:meadow": "2024-12-24 02:16:34 +0000",
+      "minecraft:savanna": "2024-12-31 04:04:01 +0000",
       "minecraft:plains": "2024-12-24 02:18:24 +0000"
     },
     "done": false
@@ -3163,6 +3167,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-29 04:09:32 +0000",
       "has_iron_horse_armor": "2024-12-29 05:02:39 +0000",
+      "has_iron_shovel": "2024-12-31 03:46:31 +0000",
       "has_iron_leggings": "2024-12-31 00:51:24 +0000",
       "has_iron_helmet": "2024-12-31 00:26:41 +0000",
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
@@ -3176,6 +3181,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-29 04:09:32 +0000",
       "has_iron_horse_armor": "2024-12-29 05:02:39 +0000",
+      "has_iron_shovel": "2024-12-31 03:46:31 +0000",
       "has_iron_leggings": "2024-12-31 00:51:24 +0000",
       "has_iron_helmet": "2024-12-31 00:26:41 +0000",
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
@@ -4602,14 +4608,16 @@
   "morevillagers:first_village": {
     "criteria": {
       "taiga": "2024-12-24 00:26:09 +0000",
-      "plains": "2024-12-29 23:39:29 +0000"
+      "plains": "2024-12-29 23:39:29 +0000",
+      "savanna": "2024-12-31 03:49:50 +0000"
     },
     "done": false
   },
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2024-12-24 00:26:09 +0000",
-      "plains": "2024-12-29 23:39:29 +0000"
+      "plains": "2024-12-29 23:39:29 +0000",
+      "savanna": "2024-12-31 03:49:50 +0000"
     },
     "done": false
   },
@@ -5222,18 +5230,25 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "woodland": "2024-12-31 04:00:32 +0000",
       "shrubland": "2024-12-29 02:56:02 +0000",
       "rocky_shrubland": "2024-12-31 03:30:47 +0000",
+      "scrubland": "2024-12-31 03:46:46 +0000",
       "erupting_inferno": "2024-12-30 02:11:38 +0000",
       "floodplain": "2024-12-31 03:29:50 +0000",
       "jacaranda_glade": "2024-12-28 23:16:44 +0000",
+      "jade_cliffs": "2024-12-31 03:38:34 +0000",
       "old_growth_woodland": "2024-12-30 00:35:01 +0000",
       "orchard": "2024-12-29 04:56:43 +0000",
       "overgrown_greens": "2024-12-24 00:34:52 +0000",
+      "mediterranean_forest": "2024-12-31 03:52:21 +0000",
       "coniferous_forest": "2024-12-29 23:14:57 +0000",
       "spider_nest": "2024-12-28 02:35:53 +0000",
+      "dryland": "2024-12-31 04:07:42 +0000",
       "wasteland": "2024-12-30 00:44:32 +0000",
+      "lush_desert": "2024-12-31 03:56:02 +0000",
       "redwood_forest": "2024-12-28 02:07:11 +0000",
+      "dune_beach": "2024-12-31 04:04:15 +0000",
       "lavender_field": "2024-12-28 01:41:08 +0000",
       "grassland": "2024-12-29 04:26:10 +0000",
       "prairie": "2024-12-29 22:22:14 +0000",
@@ -5247,6 +5262,7 @@
       "woodland": "2024-12-24 05:56:38 +0000",
       "shrubland": "2024-12-24 01:54:27 +0000",
       "rocky_shrubland": "2024-12-24 23:14:16 +0000",
+      "scrubland": "2024-12-31 03:46:46 +0000",
       "erupting_inferno": "2024-12-30 02:11:38 +0000",
       "floodplain": "2024-12-24 05:56:50 +0000",
       "highland": "2024-12-24 02:42:25 +0000",
@@ -5256,9 +5272,12 @@
       "orchard": "2024-12-24 05:52:54 +0000",
       "field": "2024-12-24 23:05:09 +0000",
       "overgrown_greens": "2024-12-24 00:34:52 +0000",
+      "mediterranean_forest": "2024-12-31 03:52:21 +0000",
       "coniferous_forest": "2024-12-29 23:14:57 +0000",
       "spider_nest": "2024-12-24 03:55:05 +0000",
+      "dryland": "2024-12-31 04:07:42 +0000",
       "wasteland": "2024-12-30 00:44:32 +0000",
+      "lush_desert": "2024-12-31 03:56:02 +0000",
       "redwood_forest": "2024-12-24 01:18:42 +0000",
       "dune_beach": "2024-12-24 05:38:07 +0000",
       "pasture": "2024-12-24 05:40:09 +0000",
@@ -13046,12 +13065,6 @@
     },
     "done": false
   },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2024-12-31 03:30:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
@@ -13124,13 +13137,6 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed_by": "2024-12-31 03:33:16 +0000",
-      "killed": "2024-12-31 03:33:16 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_dagger": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
@@ -13188,6 +13194,44 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-31 03:30:56 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2024-12-31 03:33:16 +0000",
+      "killed": "2024-12-31 03:33:16 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-31 03:46:31 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-31 03:48:48 +0000",
+      "killed": "2024-12-31 03:48:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:50:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2024-12-31 03:59:05 +0000"
     },
     "done": false
   },
