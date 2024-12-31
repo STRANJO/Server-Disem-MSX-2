@@ -5261,6 +5261,7 @@
       "grassland": "2024-12-29 04:26:10 +0000",
       "prairie": "2024-12-29 22:22:14 +0000",
       "glowing_grotto": "2024-12-28 22:43:13 +0000",
+      "undergrowth": "2024-12-31 05:16:40 +0000",
       "rainforest": "2024-12-29 04:03:40 +0000"
     },
     "done": false
@@ -5296,6 +5297,7 @@
       "grassland": "2024-12-24 02:06:43 +0000",
       "prairie": "2024-12-24 02:41:48 +0000",
       "glowing_grotto": "2024-12-24 00:45:58 +0000",
+      "undergrowth": "2024-12-31 05:16:40 +0000",
       "rainforest": "2024-12-24 05:56:48 +0000"
     },
     "done": false
@@ -6055,6 +6057,7 @@
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -6091,7 +6094,8 @@
   },
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:36:37 +0000"
+      "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_log": "2024-12-31 05:19:22 +0000"
     },
     "done": false
   },
@@ -8816,9 +8820,10 @@
   },
   "mcwwindows:recipes/warped": {
     "criteria": {
+      "has_wood": "2024-12-31 05:19:22 +0000",
       "has_the_recipe": "2024-12-25 23:02:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
@@ -11837,6 +11842,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-31 05:16:44 +0000",
       "minecraft:nether_wastes": "2024-12-30 00:07:45 +0000",
       "minecraft:soul_sand_valley": "2024-12-31 05:06:09 +0000",
       "minecraft:basalt_deltas": "2024-12-31 05:04:12 +0000"
@@ -12407,12 +12413,14 @@
   },
   "cfm:recipes/decorations/warped_kitchen_counter": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/warped_coffee_table": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12425,12 +12433,14 @@
   },
   "cfm:recipes/decorations/warped_bedside_cabinet": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/warped_table": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12443,6 +12453,7 @@
   },
   "cfm:recipes/decorations/warped_desk": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12509,12 +12520,14 @@
   },
   "cfm:recipes/decorations/warped_desk_cabinet": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/warped_cabinet": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12539,6 +12552,7 @@
   },
   "cfm:recipes/decorations/warped_park_bench": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12569,6 +12583,7 @@
   },
   "cfm:recipes/decorations/warped_crate": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -12593,6 +12608,7 @@
   },
   "cfm:recipes/decorations/warped_chair": {
     "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000",
       "has_planks": "2024-12-30 02:14:48 +0000"
     },
     "done": false
@@ -13247,6 +13263,24 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_chair": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-31 05:00:35 +0000"
@@ -13279,7 +13313,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2024-12-31 04:27:57 +0000"
+      "incendium:ash_barrens": "2024-12-31 04:27:57 +0000",
+      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000"
     },
     "done": false
   },
@@ -13289,9 +13324,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/soul_sand": {
     "criteria": {
       "has_soul_sand": "2024-12-31 04:31:20 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
     },
     "done": false
   },
@@ -13304,6 +13351,24 @@
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 04:30:40 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_table": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2024-12-31 05:17:22 +0000"
     },
     "done": false
   },
@@ -13325,6 +13390,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/soul_soil": {
     "criteria": {
       "has_soul_soil": "2024-12-31 05:07:49 +0000"
@@ -13333,7 +13404,8 @@
   },
   "incendium:misc/root": {
     "criteria": {
-      "incendium:ash_barrens": "2024-12-31 04:27:57 +0000"
+      "incendium:ash_barrens": "2024-12-31 04:27:57 +0000",
+      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000"
     },
     "done": false
   },
@@ -13343,11 +13415,23 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2024-12-31 04:27:57 +0000"
     },
     "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_desk": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
@@ -13355,9 +13439,34 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-31 05:16:55 +0000",
+      "killed": "2024-12-31 05:16:55 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_blinds": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 04:30:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
     },
     "done": false
   },
@@ -13373,15 +13482,33 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_warped_crate": {
+    "criteria": {
+      "has_planks": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-31 04:30:40 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-31 05:19:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-31 05:00:35 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-31 05:18:08 +0000"
     },
     "done": false
   },

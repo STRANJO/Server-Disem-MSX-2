@@ -2864,6 +2864,7 @@
       "grassland": "2024-12-29 04:25:54 +0000",
       "prairie": "2024-12-29 04:40:39 +0000",
       "glowing_grotto": "2024-12-24 00:36:47 +0000",
+      "undergrowth": "2024-12-31 05:16:50 +0000",
       "rainforest": "2024-12-29 04:01:57 +0000"
     },
     "done": false
@@ -2896,6 +2897,7 @@
       "prairie": "2024-12-24 02:47:13 +0000",
       "grassland": "2024-12-29 04:25:54 +0000",
       "glowing_grotto": "2024-12-24 00:36:47 +0000",
+      "undergrowth": "2024-12-31 05:16:50 +0000",
       "rainforest": "2024-12-25 23:25:21 +0000"
     },
     "done": false
@@ -11229,6 +11231,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-31 05:16:54 +0000",
       "minecraft:nether_wastes": "2024-12-30 00:06:14 +0000"
     },
     "done": false
@@ -11677,6 +11680,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2024-12-31 05:17:11 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2024-12-31 04:29:56 +0000"
@@ -11692,6 +11701,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-31 04:57:51 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-31 05:16:54 +0000"
     },
     "done": false
   },

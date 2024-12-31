@@ -1663,3 +1663,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 05:14:38.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [31Dec2024 05:14:55.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
 [31Dec2024 05:14:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 189.500000, 173.500000, 1065.500000]
+[31Dec2024 05:15:11.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 86.500000, 86.500000, 1019.500000]
+[31Dec2024 05:15:16.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
+[31Dec2024 05:15:23.276] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[31Dec2024 05:15:34.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[31Dec2024 05:15:53.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[31Dec2024 05:16:07.421] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[31Dec2024 05:16:22.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Dec2024 05:16:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 317.500000, 127.500000, 1170.500000]
+[31Dec2024 05:16:27.617] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=443, y=19, z=1065}
+[31Dec2024 05:16:27.617] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=443, y=19, z=1067}
+[31Dec2024 05:16:40.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 367.500000, 45.500000, 1175.500000]
+[31Dec2024 05:16:50.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[31Dec2024 05:18:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was shot by Skeleton
+[31Dec2024 05:18:55.089] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[31Dec2024 05:18:57.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[31Dec2024 05:19:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 295.500000, 35.500000, 1264.500000]
+[31Dec2024 05:19:14.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 262.500000, 169.500000, 1285.500000]
+[31Dec2024 05:19:22.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Dec2024 05:19:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 169.500000, 67.500000, 1312.500000]
+[31Dec2024 05:19:44.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7523ms or 150 ticks behind
+[31Dec2024 05:19:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Enraged Troll
+[31Dec2024 05:19:45.720] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[31Dec2024 05:20:02.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=79, z=1319} BlockPos{x=154, y=78, z=1319}
+[31Dec2024 05:20:02.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=79, z=1319} BlockPos{x=154, y=78, z=1319}
+[31Dec2024 05:20:03.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4289ms or 85 ticks behind
+[31Dec2024 05:20:08.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has reached the goal [Troll Hunter]
+[31Dec2024 05:20:28.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9746ms or 194 ticks behind
+[31Dec2024 05:20:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 87.500000, 132.500000, 1381.500000]
+[31Dec2024 05:20:51.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7687ms or 153 ticks behind
+[31Dec2024 05:21:02.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 35.500000, 68.500000, 1402.500000]
+[31Dec2024 05:21:11.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[31Dec2024 05:21:29.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[31Dec2024 05:21:51.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6918ms or 138 ticks behind
+[31Dec2024 05:21:53.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1.500000, 90.500000, 1412.500000]
+[31Dec2024 05:22:10.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
+[31Dec2024 05:22:28.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[31Dec2024 05:22:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -24.500000, 62.500000, 1468.500000]
+[31Dec2024 05:22:45.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[31Dec2024 05:22:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 28.500000, 157.500000, 1496.500000]
+[31Dec2024 05:23:04.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[31Dec2024 05:23:10.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was doomed to fall
+[31Dec2024 05:23:11.086] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 05:23:21.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[31Dec2024 05:23:40.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[31Dec2024 05:23:42.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 108.500000, 141.500000, 1560.500000]
+[31Dec2024 05:24:03.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7715ms or 154 ticks behind
+[31Dec2024 05:24:21.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 213.500000, 114.500000, 1580.500000]
+[31Dec2024 05:24:35.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17480ms or 349 ticks behind
+[31Dec2024 05:24:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 263.500000, 79.500000, 1578.500000]
+[31Dec2024 05:24:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[31Dec2024 05:24:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Those Were the Days]
+[31Dec2024 05:24:59.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8877ms or 177 ticks behind
+[31Dec2024 05:25:22.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8123ms or 162 ticks behind
+[31Dec2024 05:25:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 299.500000, 51.500000, 1643.500000]
