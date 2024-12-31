@@ -868,3 +868,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:52:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
 [31Dec2024 02:53:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
 [31Dec2024 02:54:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 02:57:55.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85359, l='ServerLevel[world]', x=689.62, y=78.00, z=-2685.76] died, message: 'Unemployed was slain by The Bigger Suck'
+[31Dec2024 03:00:42.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3391.500000, 13.500000, -2162.500000]
+[31Dec2024 03:00:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3501.500000, 25.500000, -2405.500000]
+[31Dec2024 03:01:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3594.500000, -6.500000, -2252.500000]
+[31Dec2024 03:01:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3302.500000, -29.500000, -2583.500000]
+[31Dec2024 03:05:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 03:06:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[31Dec2024 03:07:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[31Dec2024 03:08:04.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92031, l='ServerLevel[world]', x=774.56, y=97.00, z=-294.85] died, message: 'Unemployed hit the ground too hard whilst trying to escape The Wolf'
+[31Dec2024 03:08:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 672.500000, 123.500000, -334.500000]
+[31Dec2024 03:09:52.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:51127] logged in with entity id 92452 at (644.5209293708429, 108.0, -340.7401039868626)
+[31Dec2024 03:09:52.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[31Dec2024 03:09:52.398] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[31Dec2024 03:09:52.399] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[31Dec2024 03:09:52.399] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[31Dec2024 03:09:52.402] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[31Dec2024 03:09:54.240] [Netty Epoll Server IO #13/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[31Dec2024 03:10:34.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[31Dec2024 03:10:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[31Dec2024 03:10:34.469] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand

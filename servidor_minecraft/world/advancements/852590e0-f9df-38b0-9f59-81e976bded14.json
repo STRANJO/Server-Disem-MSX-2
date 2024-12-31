@@ -2765,7 +2765,8 @@
   },
   "supplementaries:recipes/cog_block": {
     "criteria": {
-      "has_copper_ingot": "2024-12-24 00:42:03 +0000"
+      "has_copper_ingot": "2024-12-24 00:42:03 +0000",
+      "has_redstone_block": "2024-12-31 03:09:37 +0000"
     },
     "done": false
   },
@@ -4293,6 +4294,7 @@
   },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
+      "has_sticky_piston": "2024-12-31 02:57:49 +0000",
       "has_gunpowder": "2024-12-28 01:35:50 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
@@ -4845,6 +4847,7 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_redstone": "2024-12-29 01:20:00 +0000",
+      "has_piston": "2024-12-31 02:57:46 +0000",
       "has_iron_ingot": "2024-12-24 01:20:14 +0000"
     },
     "done": false
@@ -6990,9 +6993,10 @@
   },
   "mcwwindows:recipes/stone": {
     "criteria": {
+      "has_wood": "2024-12-31 03:10:20 +0000",
       "has_the_recipe": "2024-12-24 17:26:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/crimson": {
     "criteria": {
@@ -7075,9 +7079,10 @@
   },
   "mcwwindows:recipes/bricks": {
     "criteria": {
+      "has_wood": "2024-12-31 03:13:41 +0000",
       "has_the_recipe": "2024-12-24 17:26:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
@@ -9283,9 +9288,10 @@
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_slime_ball": "2024-12-29 03:02:38 +0000"
+      "has_slime_ball": "2024-12-29 03:02:38 +0000",
+      "has_the_recipe": "2024-12-31 02:57:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "undead_revamp2:nowyouknow": {
     "criteria": {
@@ -9823,7 +9829,8 @@
       "fletchingtable": "2024-12-30 03:05:03 +0000",
       "gardeningtable": "2024-12-29 05:24:08 +0000",
       "lectern": "2024-12-29 05:31:25 +0000",
-      "woodworkingtable": "2024-12-30 02:09:00 +0000"
+      "woodworkingtable": "2024-12-30 02:09:00 +0000",
+      "stonecutter": "2024-12-31 03:10:27 +0000"
     },
     "done": false
   },
@@ -9835,7 +9842,8 @@
       "fletchingtable": "2024-12-30 03:05:03 +0000",
       "gardeningtable": "2024-12-29 05:24:08 +0000",
       "lectern": "2024-12-29 05:31:25 +0000",
-      "woodworkingtable": "2024-12-30 02:09:00 +0000"
+      "woodworkingtable": "2024-12-30 02:09:00 +0000",
+      "stonecutter": "2024-12-31 03:10:27 +0000"
     },
     "done": false
   },
@@ -11306,6 +11314,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
@@ -11362,9 +11376,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-31 03:09:37 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
     },
     "done": false
   },
@@ -11422,9 +11454,28 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab": {
     "criteria": {
       "has_cut_sculk_stone": "2024-12-31 02:16:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000",
+      "has_the_recipe": "2024-12-31 03:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-31 03:09:37 +0000"
     },
     "done": false
   },
@@ -11446,9 +11497,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-31 03:13:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
     },
     "done": false
   },
@@ -11464,6 +11539,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2024-12-31 00:25:32 +0000"
@@ -11473,6 +11554,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2024-12-31 03:10:20 +0000"
     },
     "done": false
   },
@@ -11494,6 +11581,18 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-31 02:57:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-31 00:47:14 +0000"
@@ -11506,15 +11605,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-31 02:20:45 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_dark_oak_crate": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-31 02:57:57 +0000"
     },
     "done": false
   },
@@ -11533,6 +11650,18 @@
   "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
     },
     "done": false
   },
@@ -11590,6 +11719,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-12-31 02:57:49 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
@@ -11598,9 +11733,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+      "has_upgrade_base": "2024-12-31 02:52:49 +0000",
+      "has_the_recipe": "2024-12-31 02:57:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
@@ -11611,6 +11747,12 @@
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2024-12-31 03:09:37 +0000"
     },
     "done": false
   },
@@ -11644,6 +11786,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/enchantments/enchantments/heavy": {
     "criteria": {
       "has_anvil": "2024-12-31 02:40:10 +0000"
@@ -11656,9 +11804,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-31 03:13:41 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2024-12-31 03:09:37 +0000"
     },
     "done": false
   },
@@ -11668,9 +11828,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_dark_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2024-12-31 02:58:30 +0000"
     },
     "done": false
   },
@@ -11705,6 +11877,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-31 03:10:20 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
@@ -11726,6 +11904,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-31 03:13:41 +0000"
     },
     "done": false
   },
