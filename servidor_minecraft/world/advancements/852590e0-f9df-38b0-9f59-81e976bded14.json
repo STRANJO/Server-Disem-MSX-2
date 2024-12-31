@@ -131,14 +131,16 @@
   "morevillagers:first_village": {
     "criteria": {
       "taiga": "2024-12-24 00:27:05 +0000",
-      "plains": "2024-12-29 04:12:57 +0000"
+      "plains": "2024-12-29 04:12:57 +0000",
+      "savanna": "2024-12-31 02:35:50 +0000"
     },
     "done": false
   },
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2024-12-24 00:27:05 +0000",
-      "plains": "2024-12-29 04:12:57 +0000"
+      "plains": "2024-12-29 04:12:57 +0000",
+      "savanna": "2024-12-31 02:35:50 +0000"
     },
     "done": false
   },
@@ -11292,6 +11294,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2024-12-31 02:40:10 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
@@ -11477,6 +11485,12 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2024-12-31 01:57:04 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2024-12-31 02:40:10 +0000"
     },
     "done": false
   },
