@@ -2266,6 +2266,7 @@
     "criteria": {
       "woodland": "2024-12-30 00:02:39 +0000",
       "shrubland": "2024-12-29 01:01:19 +0000",
+      "rocky_shrubland": "2024-12-31 03:31:34 +0000",
       "floodplain": "2024-12-29 03:57:15 +0000",
       "highland": "2024-12-29 02:11:36 +0000",
       "jacaranda_glade": "2024-12-28 02:59:51 +0000",
@@ -2292,6 +2293,7 @@
     "criteria": {
       "woodland": "2024-12-30 00:02:39 +0000",
       "shrubland": "2024-12-27 05:02:01 +0000",
+      "rocky_shrubland": "2024-12-31 03:31:34 +0000",
       "floodplain": "2024-12-29 03:57:15 +0000",
       "highland": "2024-12-24 02:55:59 +0000",
       "jacaranda_glade": "2024-12-24 01:38:31 +0000",
@@ -9623,9 +9625,10 @@
   },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_melon": "2024-12-29 04:03:19 +0000"
+      "has_melon": "2024-12-29 04:03:19 +0000",
+      "has_the_recipe": "2024-12-31 03:24:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
@@ -11287,6 +11290,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-31 03:25:51 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 02:52:49 +0000"
@@ -11305,6 +11314,12 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-31 03:32:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-31 00:43:59 +0000"
@@ -11317,6 +11332,12 @@
     },
     "done": false
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-31 03:31:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 03:10:20 +0000"
@@ -11325,9 +11346,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-31 02:52:49 +0000"
+      "has_upgrade_base": "2024-12-31 02:52:49 +0000",
+      "has_the_recipe": "2024-12-31 03:25:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
     "criteria": {
@@ -11366,6 +11388,12 @@
       "librarian": "2024-12-31 00:36:00 +0000"
     },
     "done": false
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2024-12-31 03:28:39 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
