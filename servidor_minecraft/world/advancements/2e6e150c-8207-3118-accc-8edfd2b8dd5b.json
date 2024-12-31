@@ -13286,14 +13286,17 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2024-12-31 04:27:57 +0000",
-      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000"
+      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000",
+      "incendium:toxic_heap": "2024-12-31 05:40:33 +0000",
+      "incendium:withered_forest": "2024-12-31 05:41:00 +0000"
     },
     "done": false
   },
   "incendium:misc/root": {
     "criteria": {
       "incendium:ash_barrens": "2024-12-31 04:27:57 +0000",
-      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000"
+      "incendium:inverted_forest": "2024-12-31 05:16:27 +0000",
+      "incendium:withered_forest": "2024-12-31 05:41:00 +0000"
     },
     "done": false
   },
@@ -13524,6 +13527,42 @@
     "criteria": {
       "killed_by": "2024-12-31 05:31:26 +0000",
       "killed": "2024-12-31 05:31:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-31 05:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:53:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-12-31 05:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-31 05:48:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:53:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 05:53:39 +0000"
     },
     "done": false
   },

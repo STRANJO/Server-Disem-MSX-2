@@ -1825,3 +1825,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 05:46:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 250 entities]
 [31Dec2024 05:46:05.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26616ms or 532 ticks behind
 [31Dec2024 05:46:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 149 entities]
+[31Dec2024 05:46:16.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 467 entities]
+[31Dec2024 05:46:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 98 entities]
+[31Dec2024 05:46:22.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 103 entities]
+[31Dec2024 05:46:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 465.500000, 50.500000, 2786.500000]
+[31Dec2024 05:46:34.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[31Dec2024 05:46:36.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15972ms or 319 ticks behind
+[31Dec2024 05:47:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 657.500000, 53.500000, 2739.500000]
+[31Dec2024 05:47:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:47:47.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=71, z=2850} BlockPos{x=642, y=49, z=2727}
+[31Dec2024 05:48:08.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 10 entities]
+[31Dec2024 05:48:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Made of love]
+[31Dec2024 05:48:11.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Killed 115 entities]
+[31Dec2024 05:49:29.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 764.500000, 159.500000, 2697.500000]
+[31Dec2024 05:49:32.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:50:15.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 852.500000, 103.500000, 2690.500000]
+[31Dec2024 05:50:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:51:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 897.500000, 182.500000, 2865.500000]
+[31Dec2024 05:51:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito withered away
+[31Dec2024 05:51:16.009] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[31Dec2024 05:51:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 794.500000, 153.500000, 2854.500000]
+[31Dec2024 05:51:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[31Dec2024 05:52:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 848.500000, 151.500000, 2998.500000]
+[31Dec2024 05:52:32.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 713.500000, 159.500000, 2912.500000]
+[31Dec2024 05:53:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 997.500000, 73.500000, 3124.500000]
+[31Dec2024 05:53:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Chest Slayer]
+[31Dec2024 05:53:35.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Dec2024 05:53:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 12.500000, 65.500000, 37.500000]
+[31Dec2024 05:53:36.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1029.500000, 83.500000, 3128.500000]
+[31Dec2024 05:53:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1070.500000, 81.500000, 3218.500000]
+[31Dec2024 05:53:51.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 05:53:54.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[31Dec2024 05:54:08.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[31Dec2024 05:54:20.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 649.500000, 108.500000, -340.500000]
+[31Dec2024 05:54:39.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
+[31Dec2024 05:54:39.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game
+[31Dec2024 05:54:39.303] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[31Dec2024 05:54:42.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33767ms or 675 ticks behind
+[31Dec2024 05:55:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[31Dec2024 05:55:15.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17792ms or 355 ticks behind
+[31Dec2024 05:55:22.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[31Dec2024 05:55:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[31Dec2024 05:55:22.378] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
