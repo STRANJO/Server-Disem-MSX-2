@@ -118,6 +118,7 @@
       "minecraft:lush_caves": "2024-12-24 01:51:36 +0000",
       "minecraft:ocean": "2024-12-29 05:19:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 01:59:10 +0000",
+      "minecraft:warm_ocean": "2024-12-31 04:40:51 +0000",
       "minecraft:deep_dark": "2024-12-27 04:56:22 +0000",
       "minecraft:meadow": "2024-12-24 03:00:34 +0000"
     },
@@ -1874,6 +1875,8 @@
       "orchard": "2024-12-29 04:43:38 +0000",
       "overgrown_greens": "2024-12-24 01:51:37 +0000",
       "spider_nest": "2024-12-29 04:37:11 +0000",
+      "wasteland": "2024-12-31 04:42:29 +0000",
+      "lush_desert": "2024-12-31 04:41:35 +0000",
       "redwood_forest": "2024-12-29 04:41:31 +0000",
       "dune_beach": "2024-12-29 04:42:21 +0000",
       "rocky_rainforest": "2024-12-29 04:03:27 +0000",
@@ -1898,6 +1901,8 @@
       "orchard": "2024-12-24 04:01:04 +0000",
       "overgrown_greens": "2024-12-24 01:51:37 +0000",
       "spider_nest": "2024-12-29 04:37:11 +0000",
+      "wasteland": "2024-12-31 04:42:29 +0000",
+      "lush_desert": "2024-12-31 04:41:35 +0000",
       "redwood_forest": "2024-12-24 02:49:55 +0000",
       "dune_beach": "2024-12-29 04:42:21 +0000",
       "rocky_rainforest": "2024-12-29 04:03:27 +0000",
@@ -7159,6 +7164,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 04:48:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
@@ -7183,6 +7194,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-31 04:48:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
@@ -7192,6 +7209,24 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-31 04:35:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 04:48:04 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 04:48:04 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 04:48:04 +0000"
     },
     "done": false
   },

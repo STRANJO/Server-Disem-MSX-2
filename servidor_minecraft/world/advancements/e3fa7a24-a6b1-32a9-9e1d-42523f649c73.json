@@ -2852,6 +2852,7 @@
       "coniferous_forest": "2024-12-29 23:11:55 +0000",
       "spider_nest": "2024-12-28 02:32:18 +0000",
       "dryland": "2024-12-31 03:52:02 +0000",
+      "wasteland": "2024-12-31 04:42:19 +0000",
       "lush_desert": "2024-12-31 03:55:22 +0000",
       "redwood_forest": "2024-12-28 03:54:35 +0000",
       "dune_beach": "2024-12-29 04:42:17 +0000",
@@ -2883,6 +2884,7 @@
       "coniferous_forest": "2024-12-29 23:11:55 +0000",
       "spider_nest": "2024-12-27 02:30:12 +0000",
       "dryland": "2024-12-31 03:52:02 +0000",
+      "wasteland": "2024-12-31 04:42:19 +0000",
       "lush_desert": "2024-12-31 03:55:22 +0000",
       "redwood_forest": "2024-12-24 02:49:56 +0000",
       "dune_beach": "2024-12-24 19:07:07 +0000",
@@ -11707,6 +11709,12 @@
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-31 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+    "criteria": {
+      "has_wilted_lily": "2024-12-31 04:45:45 +0000"
     },
     "done": false
   },

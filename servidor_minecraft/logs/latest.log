@@ -1379,3 +1379,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 04:43:23.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Sea Serpent
 [31Dec2024 04:43:23.697] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
 [31Dec2024 04:44:13.853] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:45:12.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Sea Serpent
+[31Dec2024 04:45:12.893] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[31Dec2024 04:45:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Sea Serpent
+[31Dec2024 04:45:37.990] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:45:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1440.500000, 63.500000, -205.500000]
+[31Dec2024 04:47:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3848.500000, 80.500000, -2443.500000]
+[31Dec2024 04:47:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3937.500000, 76.500000, -2353.500000]
+[31Dec2024 04:47:21.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:47:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 4028.500000, 77.500000, -2316.500000]
+[31Dec2024 04:47:52.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Dec2024 04:48:10.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[31Dec2024 04:48:29.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3640ms or 72 ticks behind
+[31Dec2024 04:48:48.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[31Dec2024 04:49:08.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5274ms or 105 ticks behind
+[31Dec2024 04:49:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Fortuitous Militia]
+[31Dec2024 04:49:31.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:49:31.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:49:31.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Voluntary Exile]
+[31Dec2024 04:49:33.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[31Dec2024 04:49:36.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 0.550285089078443
+[31Dec2024 04:49:36.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 1.2978799542413526
+[31Dec2024 04:49:36.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 1.2016479473384152
+[31Dec2024 04:49:36.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 1.4026582364499518
+[31Dec2024 04:49:36.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 1.5437292728320244
+[31Dec2024 04:49:36.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of chicaexactas) moved wrongly! 1.6374044172882805
+[31Dec2024 04:50:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Vertebrat
+[31Dec2024 04:50:02.257] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[31Dec2024 04:50:07.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1687.500000, 62.500000, 171.500000]
+[31Dec2024 04:50:18.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[31Dec2024 04:50:41.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:50:41.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:51:45.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Liraanto) moved wrongly! 0.9455659247187214
+[31Dec2024 04:51:45.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Liraanto) moved wrongly! 0.9455659247187214
+[31Dec2024 04:51:45.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Liraanto) moved wrongly! 0.9455659247187214
+[31Dec2024 04:51:56.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:51:56.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:16.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:16.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:20.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:20.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:31.307] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:49.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[31Dec2024 04:52:54.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[31Dec2024 04:53:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 609.500000, 76.500000, -2734.500000]
+[31Dec2024 04:53:02.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of Liraanto) moved too quickly! 8.83460232518155,0.0,5.898231720252625
+[31Dec2024 04:53:11.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[31Dec2024 04:53:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 223.500000, 116.500000, 142.500000]
+[31Dec2024 04:53:22.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62436, l='ServerLevel[world]', x=632.49, y=61.00, z=-2717.34] died, message: 'Unemployed died whilst trying to escape The Spitter'
+[31Dec2024 04:53:31.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31Dec2024 04:53:48.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62503, l='ServerLevel[world]', x=605.23, y=72.25, z=-2791.53] died, message: 'Unemployed was shot by Pillager'
+[31Dec2024 04:53:49.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[31Dec2024 04:53:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 267.500000, 79.500000, 250.500000]
+[31Dec2024 04:54:08.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[31Dec2024 04:54:28.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4920ms or 98 ticks behind

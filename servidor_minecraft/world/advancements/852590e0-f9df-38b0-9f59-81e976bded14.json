@@ -114,6 +114,7 @@
       "minecraft:birch_forest": "2024-12-24 00:31:43 +0000",
       "minecraft:beach": "2024-12-24 00:31:15 +0000",
       "minecraft:dark_forest": "2024-12-24 00:35:02 +0000",
+      "minecraft:sparse_jungle": "2024-12-31 04:47:31 +0000",
       "minecraft:river": "2024-12-24 00:31:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-29 03:59:16 +0000",
       "minecraft:dripstone_caves": "2024-12-28 04:16:55 +0000",
@@ -3128,6 +3129,7 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-24 00:42:12 +0000",
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000",
       "has_iron_ingot": "2024-12-28 01:57:09 +0000"
     },
     "done": false
@@ -3359,6 +3361,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-31 04:47:59 +0000",
       "minecraft:skeleton": "2024-12-24 01:30:25 +0000",
       "minecraft:hoglin": "2024-12-29 04:53:34 +0000",
       "minecraft:spider": "2024-12-24 01:08:56 +0000",
@@ -3378,6 +3381,7 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
+      "minecraft:pillager": "2024-12-31 04:47:59 +0000",
       "minecraft:skeleton": "2024-12-28 01:35:19 +0000",
       "minecraft:hoglin": "2024-12-29 04:53:34 +0000",
       "minecraft:spider": "2024-12-28 01:34:37 +0000",
@@ -12056,6 +12060,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-31 04:48:33 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/light_blue_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-31 03:56:00 +0000"
@@ -12098,6 +12108,12 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2024-12-31 04:21:09 +0000"
@@ -12127,6 +12143,12 @@
       "has_black_dye": "2024-12-31 04:00:02 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 04:49:31 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/dye_light_blue_picket_fence": {
     "criteria": {
@@ -12200,15 +12222,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2024-12-31 04:47:51 +0000"
     },
     "done": false
   },
@@ -12315,6 +12355,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12399,6 +12445,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-31 04:48:33 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
     "criteria": {
       "forge:dyes/light_blue": "2024-12-31 03:56:00 +0000"
@@ -12471,9 +12523,27 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-31 04:48:39 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
     },
     "done": false
   },
@@ -12486,6 +12556,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
     "criteria": {
       "has_light_blue_dye": "2024-12-31 03:56:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-31 04:48:39 +0000"
     },
     "done": false
   },
@@ -12506,6 +12582,12 @@
       "has_blue_dye": "2024-12-31 03:55:43 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 04:49:08 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
@@ -12582,6 +12664,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_toilet": {
     "criteria": {
       "has_black_dye": "2024-12-31 04:00:02 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
     },
     "done": false
   },
@@ -12681,6 +12769,12 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 04:48:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2024-12-31 04:00:02 +0000"
@@ -12710,6 +12804,12 @@
       "has_dye": "2024-12-31 03:56:00 +0000"
     },
     "done": false
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-31 04:45:58 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
     "criteria": {
