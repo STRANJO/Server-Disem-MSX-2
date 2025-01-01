@@ -12689,3 +12689,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 19:42:07.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
 [01Jan2025 19:42:07.211] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [01Jan2025 19:42:07.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/7422, l='ServerLevel[world]', x=669.06, y=108.00, z=-295.13, removed=UNLOADED_WITH_PLAYER]
+[01Jan2025 19:46:22.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:46:22.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:51:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:51:22.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
