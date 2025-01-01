@@ -3250,6 +3250,7 @@
     "criteria": {
       "brewingstand": "2024-12-24 00:19:52 +0000",
       "smoker": "2024-12-28 04:13:48 +0000",
+      "smithingtable": "2025-01-01 05:15:24 +0000",
       "blastfurnace": "2024-12-28 04:11:06 +0000",
       "lectern": "2024-12-31 22:49:48 +0000",
       "stonecutter": "2024-12-29 23:47:31 +0000",
@@ -3261,6 +3262,7 @@
     "criteria": {
       "brewingstand": "2024-12-24 00:19:52 +0000",
       "smoker": "2024-12-24 02:59:02 +0000",
+      "smithingtable": "2025-01-01 05:15:24 +0000",
       "blastfurnace": "2024-12-24 01:33:41 +0000",
       "lectern": "2024-12-31 22:49:48 +0000",
       "stonecutter": "2024-12-24 00:27:45 +0000",
@@ -8197,11 +8199,12 @@
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
+      "diamond_leggings": "2025-01-01 05:14:37 +0000",
       "diamond_helmet": "2024-12-31 00:44:07 +0000",
       "diamond_chestplate": "2024-12-29 05:02:49 +0000",
       "diamond_boots": "2024-12-24 19:31:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
@@ -8217,9 +8220,13 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-01-01 04:58:43 +0000",
       "phantom": "2024-12-24 19:32:50 +0000",
+      "shriek_worm": "2025-01-01 04:55:38 +0000",
       "sculk_centipede": "2025-01-01 04:37:47 +0000",
-      "warden": "2024-12-27 04:57:47 +0000"
+      "sculk_leech": "2025-01-01 04:56:13 +0000",
+      "warden": "2024-12-27 04:57:47 +0000",
+      "angler_fish": "2025-01-01 04:55:43 +0000"
     },
     "done": false
   },
@@ -10216,7 +10223,8 @@
   },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
-      "has_heart_of_the_deep": "2024-12-27 04:57:49 +0000"
+      "has_heart_of_the_deep": "2024-12-27 04:57:49 +0000",
+      "has_sculk_bone": "2025-01-01 04:58:49 +0000"
     },
     "done": false
   },
@@ -13184,9 +13192,10 @@
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "has_the_recipe": "2025-01-01 05:35:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
@@ -13196,9 +13205,10 @@
   },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "has_the_recipe": "2025-01-01 05:35:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
     "criteria": {
@@ -13208,9 +13218,10 @@
   },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "has_the_recipe": "2025-01-01 05:40:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
     "criteria": {
@@ -13274,9 +13285,10 @@
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "has_the_recipe": "2025-01-01 05:38:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
     "criteria": {
@@ -13644,7 +13656,8 @@
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
-      "loot_bastion_other": "2024-12-31 05:48:29 +0000"
+      "loot_bastion_other": "2024-12-31 05:48:29 +0000",
+      "loot_bastion_hoglin_stable": "2025-01-01 05:30:44 +0000"
     },
     "done": false
   },
@@ -14280,83 +14293,31 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-01 04:39:15 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-01-01 04:36:25 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-01-01 04:36:26 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-01-01 04:36:26 +0000",
+      "blooming_caverns": "2025-01-01 04:39:04 +0000",
+      "echoing_forest": "2025-01-01 04:38:50 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-01-01 04:37:13 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/smooth_sculk_stone_wall_from_smooth_sculk_stone_stonecutting": {
     "criteria": {
@@ -14376,35 +14337,15 @@
     },
     "done": false
   },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-01-01 04:37:13 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/building_blocks/smooth_sculk_stone_slab": {
     "criteria": {
       "has_smooth_sculk_stone": "2025-01-01 04:37:30 +0000"
     },
     "done": false
   },
-  "deeperdarker:main/find_ancient_temple": {
-    "criteria": {
-      "ancient_temple": "2025-01-01 04:36:26 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/smooth_sculk_stone_slab_from_smooth_sculk_stone_stonecutting": {
     "criteria": {
       "has_smooth_sculk_stone": "2025-01-01 04:37:30 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "deeplands": "2025-01-01 04:36:26 +0000",
-      "blooming_caverns": "2025-01-01 04:39:04 +0000",
-      "echoing_forest": "2025-01-01 04:38:50 +0000"
     },
     "done": false
   },
@@ -14435,6 +14376,264 @@
   "deeperdarker:recipes/building_blocks/cut_sculk_stone": {
     "criteria": {
       "has_smooth_sculk_stone": "2025-01-01 04:37:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 05:48:01 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "crystalcraft_unlimited_java:celestial_hot_stuff": {
+    "criteria": {
+      "celestial_hot_stuff_0": "2025-01-01 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-01 05:35:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-01-01 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-01 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-01-01 05:35:53 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-01-01 04:54:58 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-01 05:40:50 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-01-01 05:14:37 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-01-01 05:23:15 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-01 04:59:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 04:59:25 +0000"
     },
     "done": false
   },

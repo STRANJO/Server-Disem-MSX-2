@@ -1535,7 +1535,8 @@
   },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
-      "has_log": "2024-12-24 00:29:07 +0000"
+      "has_log": "2024-12-24 00:29:07 +0000",
+      "has_gate": "2025-01-01 06:13:06 +0000"
     },
     "done": false
   },
@@ -1574,7 +1575,8 @@
   },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
-      "has_log": "2024-12-24 00:29:07 +0000"
+      "has_log": "2024-12-24 00:29:07 +0000",
+      "has_chest": "2025-01-01 06:15:03 +0000"
     },
     "done": false
   },
@@ -1587,6 +1589,7 @@
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-24 00:29:07 +0000",
+      "has_chest": "2025-01-01 06:15:03 +0000",
       "has_planks": "2024-12-28 03:41:44 +0000"
     },
     "done": false
@@ -5341,6 +5344,7 @@
       "cooked_mutton": "2024-12-24 05:34:25 +0000",
       "baked_potato": "2024-12-31 01:53:28 +0000",
       "apple": "2024-12-24 03:15:09 +0000",
+      "potato": "2025-01-01 06:30:58 +0000",
       "pumpkin_pie": "2024-12-25 22:53:33 +0000",
       "bread": "2024-12-24 02:10:34 +0000",
       "golden_apple": "2024-12-25 23:30:24 +0000",
@@ -5418,7 +5422,8 @@
   },
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
-      "has_log": "2024-12-24 02:17:26 +0000"
+      "has_log": "2024-12-24 02:17:26 +0000",
+      "has_gate": "2025-01-01 06:13:06 +0000"
     },
     "done": false
   },
@@ -5809,7 +5814,8 @@
   },
   "cfm:recipes/decorations/dark_oak_upgraded_gate": {
     "criteria": {
-      "has_log": "2024-12-24 03:25:01 +0000"
+      "has_log": "2024-12-24 03:25:01 +0000",
+      "has_gate": "2025-01-01 06:13:06 +0000"
     },
     "done": false
   },
@@ -6645,8 +6651,10 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-01-01 05:00:38 +0000",
       "phantom": "2024-12-24 19:43:00 +0000",
-      "warden": "2024-12-29 22:49:03 +0000"
+      "warden": "2024-12-29 22:49:03 +0000",
+      "angler_fish": "2025-01-01 04:55:14 +0000"
     },
     "done": false
   },
@@ -11091,7 +11099,8 @@
   },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
-      "has_heart_of_the_deep": "2024-12-29 22:47:07 +0000"
+      "has_heart_of_the_deep": "2024-12-29 22:47:07 +0000",
+      "has_sculk_bone": "2025-01-01 05:00:40 +0000"
     },
     "done": false
   },
@@ -11811,75 +11820,15 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_pink_petals": "2024-12-31 22:54:35 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_pink_petals": "2024-12-31 22:54:35 +0000"
     },
     "done": false
   },
@@ -11889,21 +11838,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_blackstone": "2024-12-31 23:23:43 +0000"
+      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
     },
     "done": false
   },
-  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_blackstone": "2024-12-31 23:23:43 +0000"
+      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
     },
     "done": false
   },
@@ -11913,9 +11862,39 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "has_blackstone": "2024-12-31 23:23:43 +0000"
+      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
     },
     "done": false
   },
@@ -11931,33 +11910,57 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-12-31 23:23:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2024-12-31 22:54:35 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
-      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 23:23:43 +0000"
     },
     "done": false
   },
@@ -11976,36 +11979,6 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 23:23:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2024-12-31 22:54:35 +0000"
-    },
-    "done": false
-  },
-  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
-    },
-    "done": false
-  },
-  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
     },
     "done": false
   },
@@ -12039,12 +12012,6 @@
     },
     "done": false
   },
-  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-31 23:23:43 +0000"
@@ -12063,33 +12030,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
-    },
-    "done": false
-  },
-  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-31 23:15:27 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2024-12-31 23:23:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-31 23:05:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
     },
     "done": false
   },
@@ -12108,12 +12051,6 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2024-12-31 23:23:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2024-12-31 23:08:25 +0000"
     },
     "done": false
   },
@@ -12138,6 +12075,445 @@
   "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 23:23:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 06:37:02 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-01-01 04:53:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_hammer": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-01-01 05:39:01 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_round_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-01-01 06:33:16 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_machete": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_claw": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_spear": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_dagger": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-01-01 06:19:58 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "blooming_caverns": "2025-01-01 04:53:57 +0000",
+      "echoing_forest": "2025-01-01 05:00:06 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-01-01 04:54:37 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-01-01 06:13:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_battle_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-01 05:12:14 +0000"
     },
     "done": false
   },
