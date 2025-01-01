@@ -798,3 +798,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 03:41:34.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=17, z=-103} BlockPos{x=363, y=16, z=-102}
 [01Jan2025 03:41:34.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=365, y=17, z=-105} BlockPos{x=365, y=17, z=-101}
 [01Jan2025 03:41:34.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=17, z=-104} BlockPos{x=365, y=17, z=-101}
+[01Jan2025 03:41:58.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=17, z=-99} BlockPos{x=373, y=17, z=-101}
+[01Jan2025 03:43:18.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=17, z=-112} BlockPos{x=401, y=17, z=-113}
+[01Jan2025 03:44:00.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17159, l='ServerLevel[world]', x=661.76, y=77.00, z=-2730.63] died, message: 'Farmer was slain by Zombie'
+[01Jan2025 03:44:10.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01Jan2025 03:44:43.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01Jan2025 03:45:24.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Jan2025 03:45:28.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=16, z=-178} BlockPos{x=392, y=15, z=-179}
+[01Jan2025 03:45:40.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:45:54.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01Jan2025 03:46:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[01Jan2025 03:47:16.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:48:13.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=17, z=-216} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=16, z=-217} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:13.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=16, z=-217} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:14.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=16, z=-217} BlockPos{x=360, y=16, z=-216}
+[01Jan2025 03:48:14.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=15, z=-220} BlockPos{x=355, y=15, z=-219}
+[01Jan2025 03:48:14.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=15, z=-220} BlockPos{x=355, y=15, z=-219}
+[01Jan2025 03:48:56.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
