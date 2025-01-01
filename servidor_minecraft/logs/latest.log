@@ -969,3 +969,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 04:19:53.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
 [01Jan2025 04:20:23.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 7.2545207139693275,-5.0,-5.495505958792478
 [01Jan2025 04:20:28.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[01Jan2025 04:22:52.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Book of Monsters]
+[01Jan2025 04:23:40.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1307.500000, -50.500000, -1065.500000]
+[01Jan2025 04:23:47.741] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1421, y=36, z=-1277}
+[01Jan2025 04:24:15.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1301, y=-52, z=-1023} BlockPos{x=1302, y=-52, z=-1024}
+[01Jan2025 04:25:08.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 0.31658651437578555,67.99866402088784,0.0
+[01Jan2025 04:25:20.121] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[01Jan2025 04:25:27.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1147.500000, 17.500000, -976.500000]
+[01Jan2025 04:25:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1309.500000, 18.500000, -927.500000]
+[01Jan2025 04:25:48.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[01Jan2025 04:25:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[01Jan2025 04:25:48.073] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Jan2025 04:25:48.129] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 04:25:52.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[01Jan2025 04:25:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[01Jan2025 04:25:52.164] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Jan2025 04:26:06.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:57977] logged in with entity id 62658 at (678.9149048211307, 117.0, -337.84095004864696)
+[01Jan2025 04:26:06.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[01Jan2025 04:26:06.201] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[01Jan2025 04:26:06.201] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[01Jan2025 04:26:06.202] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[01Jan2025 04:26:06.204] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[01Jan2025 04:26:06.656] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[01Jan2025 04:26:09.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.95.118.74:56037] logged in with entity id 62839 at (1307.6366603538515, 17.0, -936.6226974548624)
+[01Jan2025 04:26:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[01Jan2025 04:26:09.882] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[01Jan2025 04:26:09.882] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[01Jan2025 04:26:09.882] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[01Jan2025 04:26:09.884] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[01Jan2025 04:26:10.444] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Ferj2202: protocol version: 2.0
+[01Jan2025 04:26:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1044.500000, 24.500000, -1167.500000]
+[01Jan2025 04:26:53.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[01Jan2025 04:27:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 121.500000, 7.500000, 152.500000]
+[01Jan2025 04:27:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Ambush]
+[01Jan2025 04:28:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1074.500000, 36.500000, -1161.500000]
+[01Jan2025 04:29:29.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1047.500000, 41.500000, -1188.500000]
+[01Jan2025 04:30:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1084.500000, 23.500000, -1199.500000]
+[01Jan2025 04:30:56.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1050.500000, 21.500000, -1192.500000]
+[01Jan2025 04:30:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1042.500000, 21.500000, -1189.500000]
+[01Jan2025 04:31:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was obliterated by a sonically-charged shriek
+[01Jan2025 04:31:20.602] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[01Jan2025 04:31:34.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1307.500000, -50.500000, -1065.500000]
+[01Jan2025 04:32:16.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 0.09329822810013866,67.75081292125532,0.0
+[01Jan2025 04:32:20.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1036.500000, 21.500000, -1184.500000]
+[01Jan2025 04:32:29.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1291.500000, 35.500000, -971.500000]
+[01Jan2025 04:32:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1049.500000, 33.500000, -1191.500000]
+[01Jan2025 04:33:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1035.500000, 34.500000, -1195.500000]
+[01Jan2025 04:33:19.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 919.500000, 25.500000, -1212.500000]
+[01Jan2025 04:35:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1052.500000, 33.500000, -1176.500000]
+[01Jan2025 04:36:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Below the Bedrock]
+[01Jan2025 04:36:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[01Jan2025 04:36:26.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Abyssal Descent]
+[01Jan2025 04:38:46.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal warden:P:1291:35:-972:15:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[01Jan2025 04:38:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1291.500000, 35.500000, -971.500000]
+[01Jan2025 04:39:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 939.500000, 29.500000, -1272.500000]
+[01Jan2025 04:39:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 948.500000, 21.500000, -1251.500000]
+[01Jan2025 04:39:40.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[01Jan2025 04:39:40.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[01Jan2025 04:39:40.525] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Jan2025 04:39:54.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[01Jan2025 04:39:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[01Jan2025 04:39:54.070] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
