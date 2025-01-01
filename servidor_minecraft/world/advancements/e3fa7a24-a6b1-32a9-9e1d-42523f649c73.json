@@ -12457,5 +12457,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2025-01-01 19:16:53 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
