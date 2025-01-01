@@ -6699,9 +6699,10 @@
   },
   "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_wheat": "2024-12-29 23:57:07 +0000"
+      "has_wheat": "2024-12-29 23:57:07 +0000",
+      "has_the_recipe": "2025-01-01 04:14:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
@@ -9308,6 +9309,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-01 04:17:49 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-01-01 03:36:31 +0000"
@@ -9374,6 +9381,12 @@
     },
     "done": false
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-01-01 04:12:09 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_blackstone": "2025-01-01 03:49:55 +0000"
@@ -9395,6 +9408,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-01 03:49:55 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-01 04:18:00 +0000"
     },
     "done": false
   },

@@ -11347,9 +11347,10 @@
   },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
-      "has_silver_ingot": "2024-12-28 04:14:44 +0000"
+      "has_silver_ingot": "2024-12-28 04:14:44 +0000",
+      "has_the_recipe": "2025-01-01 04:13:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
@@ -14097,9 +14098,10 @@
   },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_silver_nugget": "2024-12-31 23:51:01 +0000"
+      "has_silver_nugget": "2024-12-31 23:51:01 +0000",
+      "has_the_recipe": "2025-01-01 04:13:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "mowziesmobs:kill_grottol": {
     "criteria": {
@@ -14234,9 +14236,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "requirement": "2025-01-01 04:07:37 +0000"
+      "has_copper_backpack": "2025-01-01 04:17:23 +0000"
     },
     "done": false
   },
