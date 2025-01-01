@@ -3547,6 +3547,7 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2024-12-28 03:09:37 +0000",
+      "has_tnt": "2025-01-01 03:57:53 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -14235,7 +14236,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-01-01 03:51:50 +0000"
+      "requirement": "2025-01-01 04:01:54 +0000"
     },
     "done": false
   },
