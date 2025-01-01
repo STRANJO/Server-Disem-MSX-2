@@ -773,3 +773,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 03:29:26.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [01Jan2025 03:29:43.796] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-379, y=-22, z=2170}
 [01Jan2025 03:30:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[01Jan2025 03:31:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[01Jan2025 03:32:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 610.500000, 76.500000, -2727.500000]
+[01Jan2025 03:34:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[01Jan2025 03:34:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Where's Goopy?]
+[01Jan2025 03:35:28.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [No Slime No Service]
+[01Jan2025 03:35:59.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[01Jan2025 03:36:07.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! -10.05296443599309,-0.4990033597325265,0.19255505630417247
+[01Jan2025 03:36:07.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[01Jan2025 03:36:33.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Rotten to the Core]
+[01Jan2025 03:36:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Stay Out of my Peripheral!]
+[01Jan2025 03:36:34.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 236.500000, 54.500000, 23.500000]
+[01Jan2025 03:36:56.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[01Jan2025 03:37:22.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=232, y=26, z=-24} BlockPos{x=232, y=26, z=-25}
+[01Jan2025 03:37:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[01Jan2025 03:37:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 610.500000, 76.500000, -2727.500000]
+[01Jan2025 03:37:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[01Jan2025 03:37:49.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 241.500000, 54.500000, 24.500000]
+[01Jan2025 03:38:29.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=232, y=17, z=-49} BlockPos{x=232, y=17, z=-51}
+[01Jan2025 03:41:02.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=15, z=-106} BlockPos{x=360, y=16, z=-107}
+[01Jan2025 03:41:34.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=16, z=-102} BlockPos{x=363, y=16, z=-102}
+[01Jan2025 03:41:34.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=16, z=-102} BlockPos{x=363, y=16, z=-102}
+[01Jan2025 03:41:34.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=17, z=-103} BlockPos{x=363, y=16, z=-102}
+[01Jan2025 03:41:34.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=17, z=-103} BlockPos{x=363, y=16, z=-102}
+[01Jan2025 03:41:34.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=365, y=17, z=-105} BlockPos{x=365, y=17, z=-101}
+[01Jan2025 03:41:34.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=17, z=-104} BlockPos{x=365, y=17, z=-101}
