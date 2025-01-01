@@ -5258,6 +5258,7 @@
       "floodplain": "2024-12-31 03:29:50 +0000",
       "jacaranda_glade": "2024-12-28 23:16:44 +0000",
       "jade_cliffs": "2024-12-31 03:38:34 +0000",
+      "mystic_grove": "2025-01-01 00:20:32 +0000",
       "old_growth_woodland": "2024-12-30 00:35:01 +0000",
       "crystalline_chasm": "2024-12-31 05:05:35 +0000",
       "withered_abyss": "2024-12-31 04:58:48 +0000",
@@ -5273,6 +5274,8 @@
       "visceral_heap": "2024-12-31 05:25:23 +0000",
       "dune_beach": "2024-12-31 04:04:15 +0000",
       "volcano": "2024-12-31 23:30:59 +0000",
+      "rocky_rainforest": "2024-12-31 23:46:07 +0000",
+      "volcanic_plains": "2024-12-31 23:47:45 +0000",
       "lavender_field": "2024-12-28 01:41:08 +0000",
       "fir_clearing": "2024-12-31 22:37:49 +0000",
       "grassland": "2024-12-29 04:26:10 +0000",
@@ -5294,6 +5297,7 @@
       "highland": "2024-12-24 02:42:25 +0000",
       "jacaranda_glade": "2024-12-24 02:16:53 +0000",
       "jade_cliffs": "2024-12-24 02:51:57 +0000",
+      "mystic_grove": "2025-01-01 00:20:32 +0000",
       "old_growth_woodland": "2024-12-24 20:28:45 +0000",
       "crystalline_chasm": "2024-12-31 05:05:35 +0000",
       "withered_abyss": "2024-12-31 04:58:48 +0000",
@@ -5312,6 +5316,7 @@
       "volcano": "2024-12-31 23:30:59 +0000",
       "pasture": "2024-12-24 05:40:09 +0000",
       "rocky_rainforest": "2024-12-24 05:58:33 +0000",
+      "volcanic_plains": "2024-12-31 23:47:45 +0000",
       "lavender_field": "2024-12-24 02:12:20 +0000",
       "fir_clearing": "2024-12-31 22:37:49 +0000",
       "grassland": "2024-12-24 02:06:43 +0000",
@@ -7209,6 +7214,7 @@
       "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
+      "has_golden_horse_armor": "2025-01-01 00:15:34 +0000",
       "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
       "has_golden_shovel": "2024-12-31 00:50:13 +0000"
     },
@@ -7250,6 +7256,7 @@
       "has_golden_leggings": "2024-12-31 05:53:53 +0000",
       "has_golden_pickaxe": "2024-12-28 03:33:30 +0000",
       "has_golden_boots": "2024-12-24 02:13:48 +0000",
+      "has_golden_horse_armor": "2025-01-01 00:15:34 +0000",
       "has_golden_chestplate": "2024-12-29 05:02:39 +0000",
       "has_golden_shovel": "2024-12-31 00:50:13 +0000"
     },
@@ -7869,9 +7876,10 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-29 23:18:26 +0000",
+      "killed_lightning_dragon": "2025-01-01 00:06:57 +0000",
       "killed_fire_dragon": "2024-12-24 05:41:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
@@ -12344,6 +12352,7 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_chiseled_stone_bricks": "2024-12-31 01:01:06 +0000",
+      "has_stone_brick_slab": "2024-12-31 23:45:13 +0000",
       "has_stone_bricks": "2024-12-30 01:52:20 +0000"
     },
     "done": false
@@ -12714,7 +12723,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_nether": "2024-12-30 02:17:11 +0000"
+      "in_pyramid_nether": "2024-12-30 02:17:11 +0000",
+      "in_pyramid_jungle": "2024-12-31 23:44:45 +0000"
     },
     "done": false
   },
@@ -13352,6 +13362,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "fletcher": "2025-01-01 01:02:08 +0000",
       "librarian": "2024-12-31 04:23:35 +0000"
     },
     "done": false
@@ -13681,82 +13692,93 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/birch_desk": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/birch_crate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "cfm:recipes/decorations/birch_table": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "cfm:recipes/decorations/birch_blinds": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
-      "requirement": "2024-12-31 23:33:22 +0000",
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 23:33:18 +0000"
+      "has_planks": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
-      "has_item": "2024-12-31 23:02:34 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2024-12-31 22:39:27 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-31 22:39:27 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
@@ -13778,51 +13800,15 @@
     },
     "done": false
   },
-  "cfm:recipes/decorations/birch_desk": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_crate": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 23:20:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2024-12-31 23:03:19 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
@@ -13832,27 +13818,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 23:21:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-31 23:10:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-31 23:10:05 +0000"
     },
     "done": false
   },
@@ -13861,18 +13829,6 @@
       "has_concrete": "2024-12-31 22:45:12 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-31 22:49:47 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-31 22:48:12 +0000"
-    },
-    "done": true
   },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
@@ -13886,45 +13842,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/burnt/burnt/cooked_rabbit": {
-    "criteria": {
-      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_desk_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-31 23:31:21 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_table": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
     },
     "done": false
   },
@@ -13934,63 +13854,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_blinds": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/green_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
     },
     "done": false
   },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2024-12-31 23:09:30 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_gray_helmet": {
-    "criteria": {
-      "has_item": "2024-12-31 23:03:19 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_gray_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-31 23:03:19 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_coffee_table": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
-    "criteria": {
-      "has_item": "2024-12-31 23:03:19 +0000"
     },
     "done": false
   },
@@ -14006,57 +13878,9 @@
     },
     "done": false
   },
-  "mcwbridges:recipes/birch_bridge_pier": {
-    "criteria": {
-      "has_planks": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_upgraded_fence": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2024-12-31 23:03:19 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/white_picket_fence": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_chair": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/birch_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 23:21:39 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2024-12-31 23:09:30 +0000"
     },
     "done": false
   },
@@ -14066,9 +13890,123 @@
     },
     "done": false
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-31 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-31 22:49:47 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-31 23:02:34 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-31 23:03:19 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-31 23:09:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-31 23:09:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-31 23:10:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-31 23:10:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_rabbit": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-31 23:10:09 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 23:20:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 23:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-31 23:31:21 +0000"
     },
     "done": false
   },
@@ -14077,6 +14015,223 @@
       "has_snowball": "2024-12-31 23:31:21 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-31 23:40:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_orange_cosmos": "2024-12-31 23:43:09 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-12-31 23:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-31 23:48:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-31 23:51:01 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-01-01 00:01:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-01 00:07:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-01 00:07:44 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-01-01 00:12:22 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 00:20:40 +0000",
+      "has_the_recipe": "2025-01-01 00:20:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 00:20:40 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 00:20:43 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-01 01:03:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
