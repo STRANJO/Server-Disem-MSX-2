@@ -759,3 +759,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 02:53:25.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SubterranodonEntity['Subterranodon'/1384, l='ServerLevel[world]', x=1028.59, y=28.48, z=-126.16]
 [01Jan2025 02:53:25.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SubterranodonEntity['Subterranodon'/1426, l='ServerLevel[world]', x=1024.20, y=28.62, z=-111.97]
 [01Jan2025 02:55:10.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[01Jan2025 03:13:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 930.500000, -57.500000, -338.500000]
+[01Jan2025 03:25:53.886] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped]] from pos BlockPos{x=1291, y=100, z=-501}
+[01Jan2025 03:29:24.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.95.118.74:55516] logged in with entity id 10660 at (-178.73176978641214, -35.0, 2259.699999988079)
+[01Jan2025 03:29:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[01Jan2025 03:29:24.754] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[01Jan2025 03:29:24.755] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[01Jan2025 03:29:24.755] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[01Jan2025 03:29:24.759] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[01Jan2025 03:29:26.189] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Ferj2202: protocol version: 2.0
+[01Jan2025 03:29:26.682] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[01Jan2025 03:29:26.687] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[01Jan2025 03:29:26.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[01Jan2025 03:29:43.796] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-379, y=-22, z=2170}
+[01Jan2025 03:30:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
