@@ -751,3 +751,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:17:41.816] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [01Jan2025 21:17:54.372] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
 [01Jan2025 21:17:55.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14242ms or 284 ticks behind
+[01Jan2025 21:24:09.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PICHULEIRE (vehicle of Liraanto) moved wrongly! 0.3125
+[01Jan2025 21:26:54.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Travolta (vehicle of Liraanto) moved wrongly! 0.3125
+[01Jan2025 21:26:54.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Travolta (vehicle of Liraanto) moved wrongly! 0.5
+[01Jan2025 21:26:54.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Travolta (vehicle of Liraanto) moved wrongly! 0.8286723058319012
+[01Jan2025 21:26:54.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Travolta (vehicle of Liraanto) moved wrongly! 1.0374695934657439
