@@ -6585,9 +6585,10 @@
   },
   "mcwwindows:recipes/andesite": {
     "criteria": {
+      "has_wood": "2025-01-02 03:37:42 +0000",
       "has_the_recipe": "2024-12-24 19:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/mangrove": {
     "criteria": {
@@ -8143,7 +8144,8 @@
   },
   "supplementaries:recipes/pedestal": {
     "criteria": {
-      "has_chiseled_stone_bricks": "2024-12-26 15:44:51 +0000"
+      "has_chiseled_stone_bricks": "2024-12-26 15:44:51 +0000",
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
     },
     "done": false
   },
@@ -10090,9 +10092,10 @@
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_stone": "2024-12-28 22:31:03 +0000"
+      "has_stone": "2024-12-28 22:31:03 +0000",
+      "has_the_recipe": "2025-01-02 03:44:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -12460,6 +12463,91 @@
   "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
     "criteria": {
       "has_grass": "2025-01-01 19:16:53 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000",
+      "has_the_recipe": "2025-01-02 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:44:47 +0000"
     },
     "done": false
   },
