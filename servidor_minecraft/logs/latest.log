@@ -914,3 +914,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 04:36:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xdd
 [03Jan2025 04:36:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ddiganle
 [03Jan2025 04:36:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> al gabo
+[03Jan2025 04:44:51.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[03Jan2025 04:45:18.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[03Jan2025 04:45:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[03Jan2025 04:45:52.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to chicaexactas]
+[03Jan2025 04:46:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[03Jan2025 04:46:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[03Jan2025 04:46:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[03Jan2025 04:51:29.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[03Jan2025 04:51:29.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[03Jan2025 04:51:29.761] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Jan2025 04:52:51.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to chicaexactas]
