@@ -7773,6 +7773,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 20:16:05 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
@@ -7989,6 +7995,12 @@
     },
     "done": false
   },
+  "crystalcraft_unlimited_java:garnet_miner": {
+    "criteria": {
+      "garnet_miner_0": "2025-01-03 20:11:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
@@ -8073,6 +8085,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 20:11:10 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
@@ -8140,6 +8158,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 20:11:10 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
@@ -8161,6 +8185,18 @@
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 20:16:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 20:11:10 +0000"
     },
     "done": false
   },
@@ -8416,6 +8452,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-03 20:16:05 +0000"
     },
     "done": false
   },
