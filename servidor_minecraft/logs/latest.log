@@ -868,3 +868,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 20:55:07.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGZSX lost connection: Disconnected
 [03Jan2025 20:55:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX left the game
 [03Jan2025 20:55:07.485] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Jan2025 21:42:25.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:63889] logged in with entity id 35088 at (668.7869596529582, 114.16610926093821, -346.36390876777824)
+[03Jan2025 21:42:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[03Jan2025 21:42:25.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 21:42:25.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 21:42:25.983] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 21:42:25.985] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[03Jan2025 21:42:28.420] [Netty Epoll Server IO #10/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[03Jan2025 21:42:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -702.500000, 77.500000, 3058.500000]
+[03Jan2025 21:44:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by Vindicator
+[03Jan2025 21:44:20.337] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[03Jan2025 21:44:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -696.500000, 87.500000, 3053.500000]
+[03Jan2025 21:44:47.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by Vindicator
+[03Jan2025 21:44:47.988] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[03Jan2025 21:44:59.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[03Jan2025 21:44:59.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[03Jan2025 21:44:59.220] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
