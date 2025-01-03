@@ -133,8 +133,10 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "woodland": "2025-01-03 19:40:35 +0000",
       "shrubland": "2024-12-30 02:44:26 +0000",
       "rocky_shrubland": "2024-12-30 02:43:14 +0000",
+      "scrubland": "2025-01-03 19:36:53 +0000",
       "erupting_inferno": "2024-12-30 02:56:28 +0000",
       "floodplain": "2024-12-29 22:52:25 +0000",
       "jacaranda_glade": "2024-12-29 22:30:38 +0000",
@@ -143,6 +145,7 @@
       "crystalline_chasm": "2025-01-01 05:22:46 +0000",
       "orchard": "2024-12-29 23:32:12 +0000",
       "overgrown_greens": "2024-12-29 22:29:37 +0000",
+      "mediterranean_forest": "2025-01-03 19:40:12 +0000",
       "coniferous_forest": "2024-12-29 23:25:39 +0000",
       "spider_nest": "2024-12-30 00:43:02 +0000",
       "wasteland": "2024-12-30 00:44:23 +0000",
@@ -161,8 +164,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-01-03 19:40:35 +0000",
       "shrubland": "2024-12-30 02:44:26 +0000",
       "rocky_shrubland": "2024-12-30 02:43:14 +0000",
+      "scrubland": "2025-01-03 19:36:53 +0000",
       "erupting_inferno": "2024-12-30 02:56:28 +0000",
       "floodplain": "2024-12-29 22:52:25 +0000",
       "jacaranda_glade": "2024-12-29 22:30:38 +0000",
@@ -171,6 +176,7 @@
       "crystalline_chasm": "2025-01-01 05:22:46 +0000",
       "orchard": "2024-12-29 23:32:12 +0000",
       "overgrown_greens": "2024-12-29 22:29:37 +0000",
+      "mediterranean_forest": "2025-01-03 19:40:12 +0000",
       "coniferous_forest": "2024-12-29 23:25:39 +0000",
       "spider_nest": "2024-12-30 00:43:02 +0000",
       "wasteland": "2024-12-30 00:44:23 +0000",
@@ -6742,7 +6748,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-29 23:57:54 +0000"
+      "in_better_zombie_dungeon": "2024-12-29 23:57:54 +0000",
+      "in_better_spider_dungeon": "2025-01-03 19:29:51 +0000"
     },
     "done": false
   },
@@ -10371,6 +10378,216 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-01 05:46:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-01-03 19:27:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-01-03 19:22:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-03 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-03 19:33:03 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 19:33:03 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 19:39:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-03 19:40:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 19:29:08 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-03 19:33:32 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 19:37:20 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-03 19:29:51 +0000"
     },
     "done": true
   },
