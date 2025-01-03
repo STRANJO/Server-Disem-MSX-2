@@ -795,3 +795,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 02:54:58.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11746ms or 234 ticks behind
 [03Jan2025 02:55:03.495] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EnderMan['Enderman'/1363, l='ServerLevel[world]', x=496.00, y=42.00, z=-223.48]
 [03Jan2025 03:06:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[03Jan2025 03:22:18.813] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [supplementaries:channel,alexscaves:main_channel,vanillaplustools:net-channel,buildinggadgets2:main_network_channel,cfm:network,l2itemselector:main,sophisticatedbackpacks:channel,l2library:main,azurelib:main,nitrogen_internals:main,framework:play,azurelib:network_channel,l2complements:main,the_backrooms_loxor:the_backrooms_loxor,forge:tier_sorting,biggerstacks:rules,alexsmobs:main_channel,threateningly_mobs:threateningly_mobs,mowziesmobs:net,sawmill:channel,caelus:main,benssharks:benssharks,bossominium:bossominium,lampcrafting:lampcrafting,elytraslot:main,geckolib:main,thalassophobia:thalassophobia,enemyexpansion:enemyexpansion,moonlight:channel,refurbished_furniture:play,tradingpost:1,stalwart_dungeons:stalwart_dungeons,l2tabs:main,l2damagetracker:main,aether:main,hs_bosses:hs_bosses,citadel:main_channel,easymagic:1,securitycraft:securitycraft,iceandfire:main_channel,boh:boh,obscure_api:obscure_api,curios:main,fantasyfurniture:net,more_recipes_and_more:more_recipes_and_more,polymorph:main,framework:handshake,crust:channel,aquamirae:main,l2screentracker:main,trashslot:network,tombstone:tombstone_channel,l2weaponry:main,undead_revamp2:undead_revamp2,wardrobe:wardrobe,sophisticatedcore:channel,patchouli:main,easyanvils:1,selfexpression:selfexpression,ironchest:network,crystalcraft_unlimited_java:crystalcraft_unlimited_java,true_herobrine:true_herobrine,apexcore:main] rejected vanilla connections
+[03Jan2025 03:22:18.814] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.125.84.8:51186] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Jan2025 03:24:37.260] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jan2025 03:24:37.295] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[03Jan2025 03:24:37.300] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5e505ab1[id=<null>,name=chicaexactas,properties={},legacy=false] (/100.125.84.8:51227): Unexpected custom data from client
+[03Jan2025 03:24:37.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e505ab1[id=<null>,name=chicaexactas,properties={},legacy=false] (/100.125.84.8:51227) lost connection: Unexpected custom data from client
+[03Jan2025 03:24:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto burned to death
+[03Jan2025 03:24:45.289] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[03Jan2025 03:25:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 694.500000, 108.500000, -297.500000]
+[03Jan2025 03:26:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto burned to death
+[03Jan2025 03:26:23.629] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[03Jan2025 03:26:30.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 702.500000, 108.500000, -316.500000]
+[03Jan2025 03:27:27.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:52403] logged in with entity id 7448 at (601.3841138609392, 65.0, -2734.1957339965356)
+[03Jan2025 03:27:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[03Jan2025 03:27:27.667] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 03:27:27.667] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 03:27:27.668] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 03:27:27.670] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[03Jan2025 03:27:29.374] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[03Jan2025 03:27:29.386] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[03Jan2025 03:27:29.390] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[03Jan2025 03:27:43.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[03Jan2025 03:27:43.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[03Jan2025 03:27:43.326] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Jan2025 03:29:52.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d64415e[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:52522) lost connection: Disconnected
+[03Jan2025 03:30:25.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicaexactas[/100.125.84.8:51386] logged in with entity id 8580 at (662.1633881975127, 108.0, -339.30000001192093)
+[03Jan2025 03:30:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas joined the game
+[03Jan2025 03:30:26.087] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 03:30:26.087] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 03:30:26.088] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 03:30:26.090] [Server thread/INFO] [Jade/]: Syncing config to chicaexactas (1367e1a8-639c-39f8-9084-af86b24dae76)
+[03Jan2025 03:30:30.972] [Netty Epoll Server IO #11/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] chicaexactas: protocol version: 2.0
+[03Jan2025 03:31:03.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:52563] logged in with entity id 8743 at (601.3841138609392, 65.0, -2734.1957339965356)
+[03Jan2025 03:31:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[03Jan2025 03:31:03.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 03:31:03.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 03:31:03.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 03:31:03.984] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[03Jan2025 03:31:05.659] [Netty Epoll Server IO #12/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
