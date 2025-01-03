@@ -860,3 +860,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 04:05:44.173] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [03Jan2025 04:05:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 640.500000, 108.500000, -314.500000]
 [03Jan2025 04:10:56.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to Liraanto]
+[03Jan2025 04:14:43.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 457.500000, 73.500000, -371.500000]
+[03Jan2025 04:14:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[03Jan2025 04:16:17.941] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=387, y=-33, z=-656}
+[03Jan2025 04:16:17.942] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=388, y=-33, z=-656}
+[03Jan2025 04:16:17.942] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=389, y=-33, z=-656}
+[03Jan2025 04:16:18.032] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=305, y=15, z=-664}
+[03Jan2025 04:16:18.032] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=305, y=15, z=-662}
+[03Jan2025 04:16:25.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=64, z=-480} BlockPos{x=286, y=63, z=-482}
+[03Jan2025 04:16:25.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=64, z=-481} BlockPos{x=286, y=63, z=-482}
+[03Jan2025 04:17:37.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was squashed by a falling anvil
+[03Jan2025 04:17:37.985] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[03Jan2025 04:18:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 244.500000, 74.500000, -587.500000]
+[03Jan2025 04:18:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to chicaexactas]
+[03Jan2025 04:18:22.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was squashed by a falling anvil
+[03Jan2025 04:18:22.985] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[03Jan2025 04:18:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 258.500000, 65.500000, -605.500000]
+[03Jan2025 04:18:37.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=258, y=66, z=-602} BlockPos{x=257, y=64, z=-602}
+[03Jan2025 04:18:37.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=258, y=66, z=-602} BlockPos{x=257, y=64, z=-602}
+[03Jan2025 04:18:37.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=258, y=66, z=-602} BlockPos{x=257, y=64, z=-602}
+[03Jan2025 04:18:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Gross]
+[03Jan2025 04:21:58.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[03Jan2025 04:22:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto burned to death
+[03Jan2025 04:22:08.833] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[03Jan2025 04:22:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 694.500000, 108.500000, -324.500000]
