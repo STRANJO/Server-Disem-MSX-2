@@ -909,3 +909,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 04:28:25.790] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/25387, l='ServerLevel[world]', x=387.58, y=-11.92, z=-754.24, removed=DISCARDED]
 [03Jan2025 04:28:42.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 457.500000, 73.500000, -371.500000]
 [03Jan2025 04:29:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to Liraanto]
+[03Jan2025 04:34:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Ol' Betsy]
+[03Jan2025 04:36:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> pensé q me iban a paquear
+[03Jan2025 04:36:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xdd
+[03Jan2025 04:36:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ddiganle
+[03Jan2025 04:36:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> al gabo
