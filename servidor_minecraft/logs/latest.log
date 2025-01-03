@@ -750,3 +750,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:40:30.018] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [03Jan2025 23:40:41.078] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [03Jan2025 23:40:41.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11739ms or 234 ticks behind
+[03Jan2025 23:55:14.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 731.500000, 92.500000, -361.500000]
