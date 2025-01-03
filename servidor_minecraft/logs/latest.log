@@ -864,3 +864,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 20:11:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Made of love]
 [03Jan2025 20:28:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to 109.500000, -27.500000, -504.500000]
 [03Jan2025 20:31:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to -47.500000, -19.500000, -593.500000]
+[03Jan2025 20:55:06.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to 649.500000, 108.500000, -340.500000]
+[03Jan2025 20:55:07.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MAGZSX lost connection: Disconnected
+[03Jan2025 20:55:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX left the game
+[03Jan2025 20:55:07.485] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
