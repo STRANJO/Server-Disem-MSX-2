@@ -5285,6 +5285,7 @@
       "dune_beach": "2024-12-31 04:04:15 +0000",
       "volcano": "2024-12-31 23:30:59 +0000",
       "rocky_rainforest": "2024-12-31 23:46:07 +0000",
+      "pasture": "2025-01-03 04:18:29 +0000",
       "volcanic_plains": "2024-12-31 23:47:45 +0000",
       "lavender_field": "2024-12-28 01:41:08 +0000",
       "fir_clearing": "2024-12-31 22:37:49 +0000",
@@ -14700,6 +14701,12 @@
       "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-01-03 04:18:48 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {

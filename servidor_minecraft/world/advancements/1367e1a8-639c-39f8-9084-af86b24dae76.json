@@ -2149,6 +2149,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-24 03:08:23 +0000",
       "baked_potato": "2024-12-24 03:09:25 +0000",
+      "beef": "2025-01-03 04:25:45 +0000",
       "porkchop": "2024-12-31 05:23:04 +0000",
       "apple": "2024-12-24 02:05:50 +0000",
       "pumpkin_pie": "2024-12-27 04:39:29 +0000",
@@ -7690,6 +7691,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/beef": {
+    "criteria": {
+      "has_beef": "2025-01-03 04:24:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -8033,6 +8040,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-03 04:24:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
@@ -8057,6 +8070,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/enchantments/enchantments/snow_walker": {
+    "criteria": {
+      "has_leather": "2025-01-03 04:24:35 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -8072,6 +8091,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-03 04:24:40 +0000"
     },
     "done": false
   },
@@ -8166,6 +8191,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 04:24:40 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-01-03 03:49:24 +0000"
@@ -8205,6 +8236,12 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 04:24:40 +0000"
     },
     "done": false
   },
