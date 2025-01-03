@@ -12109,3 +12109,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 02:57:23.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1178, l='ServerLevel[world]', x=724.80, y=61.57, z=-383.08] in list []
 [03Jan2025 02:58:14.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 02:58:15.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:03:14.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:03:14.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:06:17.908] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1178, l='ServerLevel[world]', x=719.97, y=63.00, z=-369.34]
+[03Jan2025 03:06:18.757] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1178, l='ServerLevel[world]', x=719.97, y=63.00, z=-369.34], dimensionLocationPath overworld
+[03Jan2025 03:06:18.757] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1178, l='ServerLevel[world]', x=719.97, y=63.00, z=-369.34] in list []
+[03Jan2025 03:06:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[03Jan2025 03:08:14.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:08:14.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:09:16.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1178, l='ServerLevel[world]', x=683.61, y=108.00, z=-290.86]
