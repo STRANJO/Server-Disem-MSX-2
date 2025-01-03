@@ -6318,9 +6318,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_leather": "2024-12-29 22:24:18 +0000"
+      "has_leather": "2024-12-29 22:24:18 +0000",
+      "has_the_recipe": "2025-01-03 19:44:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
@@ -7682,9 +7683,39 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
@@ -7694,15 +7725,93 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-03 19:49:35 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-03 19:49:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
@@ -7718,9 +7827,63 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-03 19:48:26 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
@@ -7730,9 +7893,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
@@ -7742,9 +7917,39 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
