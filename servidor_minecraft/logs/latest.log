@@ -741,3 +741,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 02:06:00.987] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [03Jan2025 02:06:00.988] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [03Jan2025 02:06:00.989] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[03Jan2025 02:18:34.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.64.7.25:56263] logged in with entity id 1174 at (680.5, 113.0, -342.5)
+[03Jan2025 02:18:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[03Jan2025 02:18:35.161] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 02:18:35.162] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 02:18:35.182] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 02:18:47.496] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[03Jan2025 02:18:48.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14212ms or 284 ticks behind
+[03Jan2025 02:19:27.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 113.500000, 65.500000, 44.500000]
+[03Jan2025 02:22:50.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[03Jan2025 02:31:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
