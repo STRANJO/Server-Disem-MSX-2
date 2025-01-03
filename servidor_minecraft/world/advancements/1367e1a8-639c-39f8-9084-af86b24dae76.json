@@ -4043,6 +4043,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -5541,6 +5542,7 @@
   },
   "supplementaries:recipes/key": {
     "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000",
       "has_gold_nugget": "2024-12-27 05:15:10 +0000"
     },
     "done": false
@@ -7571,15 +7573,45 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_machete_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7613,6 +7645,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7625,9 +7663,21 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_javelin_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7685,6 +7735,12 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7700,6 +7756,24 @@
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/shinny": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7747,7 +7821,8 @@
   },
   "supplementaries:recipes/hourglass": {
     "criteria": {
-      "has_glass": "2025-01-03 03:49:24 +0000"
+      "has_glass": "2025-01-03 03:49:24 +0000",
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7781,6 +7856,12 @@
     },
     "done": false
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-01-03 05:00:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7796,6 +7877,24 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_battle_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7860,6 +7959,24 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_claw_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_round_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7871,6 +7988,12 @@
       "has_glass": "2025-01-03 03:49:24 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-01-03 05:00:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
@@ -7914,6 +8037,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7929,6 +8064,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -7950,6 +8091,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7959,6 +8106,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -8034,6 +8187,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-03 04:34:17 +0000"
@@ -8055,6 +8214,18 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_dagger_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
@@ -8100,6 +8271,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_hammer_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-03 04:24:40 +0000"
@@ -8111,6 +8288,12 @@
       "has_sand": "2025-01-03 03:47:46 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-03 05:00:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
@@ -8203,6 +8386,18 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_nunchaku_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-01-03 03:49:24 +0000"
@@ -8221,6 +8416,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-01-03 04:10:49 +0000"
@@ -8236,6 +8437,12 @@
   "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-01-03 03:50:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 05:00:15 +0000"
     },
     "done": false
   },
