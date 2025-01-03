@@ -856,3 +856,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 03:58:05.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to Liraanto]
 [03Jan2025 03:59:01.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [03Jan2025 03:59:08.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to chicaexactas]
+[03Jan2025 04:05:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Bomber
+[03Jan2025 04:05:44.173] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[03Jan2025 04:05:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 640.500000, 108.500000, -314.500000]
+[03Jan2025 04:10:56.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to Liraanto]
