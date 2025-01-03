@@ -7904,6 +7904,7 @@
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
+      "has_hay_block": "2025-01-03 05:21:20 +0000",
       "has_redstone": "2024-12-26 15:33:23 +0000"
     },
     "done": false
@@ -12555,6 +12556,24 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-03 03:02:23 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 05:13:28 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-03 05:21:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-03 05:21:20 +0000"
     },
     "done": false
   },

@@ -1048,6 +1048,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
+      "has_spruce_planks": "2025-01-03 05:04:04 +0000",
       "has_stick": "2024-12-24 01:46:27 +0000"
     },
     "done": false
@@ -1277,6 +1278,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
+      "has_spruce_planks": "2025-01-03 05:04:04 +0000",
       "has_stick": "2024-12-24 01:46:27 +0000"
     },
     "done": false
@@ -2442,19 +2444,22 @@
   },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2490,7 +2495,8 @@
   },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2514,7 +2520,8 @@
   },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2526,7 +2533,8 @@
   },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2544,19 +2552,22 @@
   },
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/spruce_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2580,7 +2591,8 @@
   },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -2592,7 +2604,8 @@
   },
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
-      "has_log": "2024-12-24 02:09:37 +0000"
+      "has_log": "2024-12-24 02:09:37 +0000",
+      "has_planks": "2025-01-03 05:04:04 +0000"
     },
     "done": false
   },
@@ -7950,6 +7963,12 @@
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000",
       "has_the_recipe": "2025-01-03 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-03 05:09:11 +0000"
     },
     "done": true
   },

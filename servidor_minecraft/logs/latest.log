@@ -937,3 +937,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 05:03:07.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
 [03Jan2025 05:03:07.470] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [03Jan2025 05:03:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 685.500000, 108.500000, -292.500000]
+[03Jan2025 05:05:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to Liraanto]
+[03Jan2025 05:09:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [The Lighthouse]
+[03Jan2025 05:09:48.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=67, z=-409} BlockPos{x=116, y=66, z=-409}
+[03Jan2025 05:11:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas burned to death
+[03Jan2025 05:11:09.129] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[03Jan2025 05:11:14.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 378.500000, 69.500000, -484.500000]
+[03Jan2025 05:12:52.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[03Jan2025 05:13:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 05:13:08.226] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[03Jan2025 05:13:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 525.500000, 86.500000, -535.500000]
+[03Jan2025 05:13:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to chicaexactas]
+[03Jan2025 05:13:32.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=83, z=-527} BlockPos{x=512, y=82, z=-527}
+[03Jan2025 05:13:34.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=84, z=-525} BlockPos{x=514, y=82, z=-524}
+[03Jan2025 05:13:34.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=84, z=-525} BlockPos{x=514, y=82, z=-524}
+[03Jan2025 05:13:36.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas burned to death
+[03Jan2025 05:13:36.372] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[03Jan2025 05:13:41.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 510.500000, 83.500000, -528.500000]
+[03Jan2025 05:14:41.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[03Jan2025 05:16:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:CASITAS:C:649:108:-341:12:false:0:Internal-overworld-waypoints
+[03Jan2025 05:16:58.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[03Jan2025 05:20:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[03Jan2025 05:21:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[03Jan2025 05:22:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 762.500000, 96.500000, -498.500000]
