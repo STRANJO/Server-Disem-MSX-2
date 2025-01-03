@@ -862,3 +862,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 20:06:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Back to childhood]
 [03Jan2025 20:06:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Not even afraid of death]
 [03Jan2025 20:11:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Made of love]
+[03Jan2025 20:28:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to 109.500000, -27.500000, -504.500000]
+[03Jan2025 20:31:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to -47.500000, -19.500000, -593.500000]

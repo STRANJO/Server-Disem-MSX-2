@@ -7809,6 +7809,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-03 20:24:35 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-03 19:56:33 +0000"
@@ -7968,6 +7974,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-03 20:24:35 +0000"
     },
     "done": false
   },
@@ -8327,6 +8339,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-03 20:24:35 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
@@ -8354,6 +8372,12 @@
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-01-03 20:34:09 +0000"
     },
     "done": false
   },
