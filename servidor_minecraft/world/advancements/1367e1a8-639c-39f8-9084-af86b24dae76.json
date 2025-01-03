@@ -226,6 +226,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -244,12 +245,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -257,12 +260,14 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-24 01:46:17 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-31 05:37:41 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -316,6 +321,7 @@
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_oak_planks": "2024-12-24 01:46:17 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-31 05:37:41 +0000"
     },
     "done": false
@@ -386,6 +392,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -444,6 +451,7 @@
     "criteria": {
       "has_cobblestone": "2024-12-29 04:35:41 +0000",
       "minecraft:planks": "2024-12-24 01:46:17 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_copper_ingot": "2024-12-29 04:30:13 +0000"
     },
     "done": false
@@ -457,6 +465,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -523,6 +532,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -576,6 +586,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -622,6 +633,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -698,6 +710,7 @@
   },
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_slabs": "2024-12-29 05:02:13 +0000",
       "has_iron_ingot": "2024-12-31 05:37:41 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
@@ -713,6 +726,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -763,6 +777,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -782,6 +797,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -856,12 +872,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -967,6 +985,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -980,6 +999,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_planks": "2024-12-24 01:46:17 +0000"
     },
     "done": false
@@ -2670,6 +2690,7 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_spruce_planks": "2024-12-24 02:10:15 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-31 05:37:41 +0000"
     },
     "done": false
@@ -3051,6 +3072,7 @@
   },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3139,6 +3161,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3254,6 +3277,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3273,6 +3297,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3292,6 +3317,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3333,6 +3359,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3398,6 +3425,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3596,6 +3624,7 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_jungle_planks": "2024-12-29 04:17:55 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3632,6 +3661,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3713,12 +3743,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3739,6 +3771,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3769,12 +3802,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -3824,6 +3859,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000",
       "has_copper_ingot": "2024-12-29 04:30:13 +0000"
     },
@@ -3928,6 +3964,7 @@
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000",
       "has_amethyst_shard": "2024-12-29 03:54:01 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000",
       "has_copper_ingot": "2024-12-29 04:30:13 +0000"
     },
@@ -4057,12 +4094,14 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -4138,6 +4177,7 @@
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000",
       "has_amethyst_shard": "2024-12-29 03:54:01 +0000",
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000",
       "has_copper_ingot": "2024-12-29 04:30:13 +0000"
     },
@@ -4239,6 +4279,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
     "done": false
@@ -4300,6 +4341,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_dark_oak_planks": "2024-12-29 05:02:06 +0000",
       "has_iron_ingot": "2024-12-24 02:13:59 +0000"
     },
@@ -6440,6 +6482,7 @@
   },
   "supplementaries:recipes/altimeter": {
     "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000",
       "has_copper_ingot": "2024-12-29 04:30:13 +0000"
     },
     "done": false
@@ -7640,6 +7683,12 @@
     },
     "done": false
   },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7673,6 +7722,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -7881,6 +7936,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -7917,6 +7978,24 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
@@ -7929,9 +8008,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -7978,6 +8069,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000"
@@ -8005,6 +8108,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8056,6 +8165,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000"
@@ -8089,6 +8204,18 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8134,6 +8261,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 03:47:46 +0000"
@@ -8170,6 +8303,12 @@
     },
     "done": false
   },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -8188,9 +8327,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8209,6 +8360,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8248,6 +8405,18 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 03:49:24 +0000"
@@ -8260,9 +8429,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-01-03 03:44:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8290,6 +8471,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_hammer_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 05:00:15 +0000"
@@ -8313,6 +8500,12 @@
       "defeatundeadbosses_0": "2025-01-03 05:00:08 +0000"
     },
     "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
@@ -8344,6 +8537,12 @@
       "has_the_recipe": "2025-01-03 03:49:23 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
@@ -8399,9 +8598,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
     "criteria": {
       "has_beef": "2025-01-03 04:24:40 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
@@ -8420,6 +8631,12 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-01-03 03:49:24 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-01-03 05:32:14 +0000"
     },
     "done": false
   },
