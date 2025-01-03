@@ -1264,7 +1264,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-24 00:06:28 +0000"
+      "has_stick": "2024-12-24 00:06:28 +0000",
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -1620,7 +1621,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-24 00:06:28 +0000"
+      "has_stick": "2024-12-24 00:06:28 +0000",
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -2946,6 +2948,7 @@
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-24 00:19:33 +0000",
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_glowstone_dust": "2024-12-30 01:23:37 +0000"
     },
@@ -3493,6 +3496,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
@@ -3529,6 +3533,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -3541,6 +3546,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
@@ -3989,6 +3995,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
@@ -5621,6 +5628,7 @@
   },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-01-03 03:57:52 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000",
       "has_top": "2024-12-31 22:45:12 +0000"
     },
@@ -5635,6 +5643,7 @@
   },
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-01-03 03:57:52 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000"
     },
     "done": false
@@ -6004,7 +6013,8 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-24 00:36:37 +0000",
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -7899,6 +7909,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000",
       "has_copper_ingot": "2024-12-24 05:48:23 +0000"
     },
     "done": false
@@ -9412,7 +9423,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
-      "has_glass": "2024-12-26 05:07:10 +0000"
+      "has_glass": "2024-12-26 05:07:10 +0000",
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -13711,13 +13723,15 @@
   },
   "cfm:recipes/decorations/birch_desk": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_crate": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -13729,19 +13743,22 @@
   },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -13759,13 +13776,15 @@
   },
   "cfm:recipes/decorations/birch_bedside_cabinet": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -13783,19 +13802,22 @@
   },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
-      "has_log": "2024-12-31 22:39:27 +0000"
+      "has_log": "2024-12-31 22:39:27 +0000",
+      "has_planks": "2025-01-03 03:57:52 +0000"
     },
     "done": false
   },
@@ -14562,6 +14584,174 @@
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2025-01-01 05:40:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-01-03 03:52:19 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 03:52:19 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 03:52:19 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 03:52:19 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 03:57:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 03:52:19 +0000"
     },
     "done": false
   },
