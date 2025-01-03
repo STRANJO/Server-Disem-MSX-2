@@ -857,3 +857,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 19:50:02.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
 [03Jan2025 19:50:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
 [03Jan2025 19:50:02.944] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Jan2025 20:00:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has completed the challenge [Yo mama so fat, she digests her fetuses]
+[03Jan2025 20:04:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MAGZSX: Teleported MAGZSX to 306.500000, -36.500000, -654.500000]
+[03Jan2025 20:06:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Back to childhood]
+[03Jan2025 20:06:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Not even afraid of death]
+[03Jan2025 20:11:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAGZSX has made the advancement [Made of love]

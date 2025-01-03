@@ -1098,6 +1098,7 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1111,6 +1112,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1118,6 +1120,7 @@
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1141,6 +1144,7 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1156,6 +1160,7 @@
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1163,6 +1168,7 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1170,6 +1176,7 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1184,6 +1191,7 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1191,6 +1199,7 @@
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1198,6 +1207,7 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1205,6 +1215,7 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1212,6 +1223,7 @@
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "forge:rods/wooden": "2024-12-29 04:34:09 +0000"
     },
     "done": false
@@ -1232,6 +1244,7 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1239,6 +1252,7 @@
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1252,6 +1266,7 @@
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -1259,6 +1274,7 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000",
       "has_black_dye": "2024-12-29 22:35:38 +0000"
     },
@@ -1273,6 +1289,7 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2024-12-29 03:45:39 +0000",
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -2077,6 +2094,7 @@
   },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_iron": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -2386,6 +2404,7 @@
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_redstone": "2024-12-29 22:42:13 +0000",
+      "has_piston": "2025-01-03 19:56:52 +0000",
       "has_iron_ingot": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -2804,6 +2823,7 @@
   },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_iron": "2024-12-29 03:50:46 +0000"
     },
     "done": false
@@ -4411,6 +4431,7 @@
   },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_planks": "2024-12-29 04:34:07 +0000"
     },
     "done": false
@@ -5368,6 +5389,7 @@
   },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_planks": "2024-12-29 05:04:31 +0000"
     },
     "done": false
@@ -5637,6 +5659,7 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-29 05:11:09 +0000",
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_planks": "2024-12-30 00:38:00 +0000"
     },
     "done": false
@@ -5739,6 +5762,7 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-29 05:11:09 +0000",
+      "has_chest": "2025-01-03 19:52:58 +0000",
       "has_planks": "2024-12-29 05:11:17 +0000"
     },
     "done": false
@@ -7683,6 +7707,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
@@ -7695,15 +7725,45 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7719,9 +7779,75 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 19:56:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 19:56:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7731,9 +7857,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7749,6 +7887,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
@@ -7761,15 +7905,129 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 19:56:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7785,15 +8043,82 @@
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+  "cfm:recipes/decorations/brown_cooler": {
     "criteria": {
-      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-03 20:06:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-03 19:57:36 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-03 19:57:36 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000",
+      "has_the_recipe": "2025-01-03 19:51:53 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7821,6 +8146,24 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
@@ -7833,9 +8176,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7847,13 +8202,44 @@
   },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000",
+      "has_the_recipe": "2025-01-03 19:57:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-03 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7869,15 +8255,45 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-01-03 19:48:26 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7899,6 +8315,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
@@ -7911,15 +8333,40 @@
     },
     "done": false
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-03 20:06:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-01-03 19:37:33 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-03 19:56:33 +0000",
+      "has_the_recipe": "2025-01-03 19:57:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
@@ -7947,9 +8394,28 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2025-01-03 19:44:43 +0000"
+      "has_upgrade_base": "2025-01-03 19:44:43 +0000",
+      "has_the_recipe": "2025-01-03 19:53:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-03 19:52:58 +0000"
     },
     "done": false
   },
