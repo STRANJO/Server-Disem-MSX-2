@@ -834,3 +834,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 03:31:03.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [03Jan2025 03:31:03.984] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [03Jan2025 03:31:05.659] [Netty Epoll Server IO #12/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[03Jan2025 03:32:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[03Jan2025 03:39:16.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[03Jan2025 03:39:16.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[03Jan2025 03:39:16.919] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Jan2025 03:40:32.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.64.7.25:56905] logged in with entity id 11445 at (686.5352574838812, 108.0, -316.7455079421054)
+[03Jan2025 03:40:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[03Jan2025 03:40:32.292] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Jan2025 03:40:32.293] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Jan2025 03:40:32.293] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Jan2025 03:40:32.296] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[03Jan2025 03:40:33.646] [Netty Epoll Server IO #14/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[03Jan2025 03:40:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was burnt to a crisp whilst fighting Spider
+[03Jan2025 03:40:54.726] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[03Jan2025 03:41:00.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 697.500000, 108.500000, -321.500000]
+[03Jan2025 03:41:03.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[03Jan2025 03:46:33.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7292, l='ServerLevel[world]', x=780.97, y=124.00, z=-206.39] died, message: 'Unemployed was slain by Sucker'
+[03Jan2025 03:46:55.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=108, z=-287} BlockPos{x=716, y=108, z=-286}
+[03Jan2025 03:50:32.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Local Brewery]
