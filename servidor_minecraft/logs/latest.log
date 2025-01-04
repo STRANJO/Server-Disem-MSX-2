@@ -28,3 +28,45 @@
 [04Jan2025 00:15:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
 [04Jan2025 00:16:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> magenta o rosa?
 [04Jan2025 00:16:38.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> el rosa es mas piolita
+[04Jan2025 00:16:44.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> el magenta es rosado mas intenso
+[04Jan2025 00:16:57.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> magenta
+[04Jan2025 00:17:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> okei
+[04Jan2025 00:17:52.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[04Jan2025 00:20:11.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[04Jan2025 00:23:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[04Jan2025 00:23:23.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 789.500000, 113.500000, -403.500000]
+[04Jan2025 00:23:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 529.500000, 75.500000, -271.500000]
+[04Jan2025 00:24:04.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 557.500000, 79.500000, -422.500000]
+[04Jan2025 00:24:22.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 608.500000, 99.500000, -453.500000]
+[04Jan2025 00:26:25.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[04Jan2025 00:26:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Pregnant
+[04Jan2025 00:26:39.351] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[04Jan2025 00:27:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 604.500000, 101.500000, -343.500000]
+[04Jan2025 00:27:08.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[04Jan2025 00:27:09.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[04Jan2025 00:34:31.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-50, y=-46, z=-1003}
+[04Jan2025 00:36:12.642] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-377, y=-30, z=-971}
+[04Jan2025 00:36:51.996] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-383, y=-54, z=-784}
+[04Jan2025 00:37:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2365.500000, 108.500000, 106.500000]
+[04Jan2025 00:37:06.101] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2259, y=-25, z=190}
+[04Jan2025 00:37:13.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[04Jan2025 00:37:35.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20531, l='ServerLevel[world]', x=2367.73, y=122.00, z=126.70] died, message: 'Unemployed was slain by Vindicator'
+[04Jan2025 00:37:46.576] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2170, y=-18, z=15}
+[04Jan2025 00:37:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[04Jan2025 00:38:12.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20532, l='ServerLevel[world]', x=2283.13, y=94.00, z=95.64] died, message: 'Unemployed was slain by Cleric'
+[04Jan2025 00:38:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[04Jan2025 00:39:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO burned to death
+[04Jan2025 00:39:04.938] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[04Jan2025 00:39:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2356.500000, 121.500000, 125.500000]
+[04Jan2025 00:40:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 2365.500000, 108.500000, 106.500000]
+[04Jan2025 00:41:08.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[04Jan2025 00:41:12.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Vindicator
+[04Jan2025 00:41:12.252] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[04Jan2025 00:41:17.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2387.500000, 81.500000, 53.500000]
+[04Jan2025 00:44:45.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/20529, l='ServerLevel[world]', x=2404.26, y=104.56, z=107.24] died, message: 'Hunter was slain by Vindicator'
+[04Jan2025 00:44:52.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20563, l='ServerLevel[world]', x=2413.76, y=103.00, z=108.70] died, message: 'Unemployed was slain by Vindicator'
+[04Jan2025 00:44:57.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Hero of the Village]
+[04Jan2025 00:44:57.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has completed the challenge [Hero of the Village]
+[04Jan2025 00:45:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[04Jan2025 00:46:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[04Jan2025 00:47:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
